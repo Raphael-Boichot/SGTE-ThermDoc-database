@@ -11,7 +11,7 @@ output_file=[];
 for j=1:1:nargin-1
     output_file=[output_file,'-',varargin{j}];
 end
-output_file=[output_file(2:end),'_from_',database_name(1:end-4),'.txt'];
+output_file=['Results/',output_file(2:end),'_from_',database_name(1:end-4),'.txt'];
 
 out = fopen(output_file,'w');
             fwrite(out,['************Search results for /',output_file(1:end-4),'/ system************']);

@@ -1,0 +1,310 @@
+************Search results for /Results/Plutonium-Osmium_from_Sorted_database/ system************
+
+Rank      : 578
+Title     : Revised Crystallographic Properties of Osmium: Assessment of properties from 293.15 K to 3400 K
+Author    : John W. Arblaster
+Reference : Johnson Matthey Techn. Rev., 2023, 67, 2, 230-235; https://doi.org/10.1595/205651323X16672247346816
+Keyword   : Os/
+Date      : 2023
+
+Rank      : 3190
+Title     : A Re-assessment of the Thermodynamic Properties of Osmium: Improved value for the enthalpy of fusion
+Author    : John W. Arblaster
+Reference : Johnson Matthey Techn. Rev., 2021, 65, 1, 54-63; 10.1595/205651320x15898131243119
+Keyword   : Os/
+Date      : 2021
+
+Rank      : 4139
+Title     : Experimental and Modeling Review of the Plutonium-Zirconium (Pu-Zr) System: Lost in Translation and Over Time?
+Author    : Aurelien Perron/Patrice E. A. Turchi
+Reference : J. Phase Equil. Diffusion, 2020, 41, 6, 756-763; 10.1007/s11669-020-00845-x
+Keyword   : Pu-Zr/
+Date      : 2020
+
+Rank      : 4178
+Title     : Quantum Accurate Prediction of Plutonium-Plutonium Dihydride Phase Equilibrium Using a Lattice Gas Model
+Author    : Ryan Gotchy MullenNir Goldman
+Reference : J. Phys. Chem. C, 2020, 124, 38, 20881-20888; 10.1021/acs.jpcc.0c04869
+Keyword   : H-Pu/
+Date      : 2020
+
+Rank      : 4344
+Title     : Second Update on the Chemical Thermodynamics of Uranium, Neptunium, Plutonium, Americium and Technetium
+Author    : I. Grenthe/X. Gaona/A.V. Plyasunov/L. Rao/W.H. Runde/B. Grambow/R.J. Konnigs/A. Smith/E.M. Moore
+Reference : M.-E. Ragoussi, J.S. Martinez, D. Costa (Eds.), Organisation for Economic Co-operation and Development, 2020
+Keyword   : U/Np/Pu/Am/Tc/
+Date      : 2020
+
+Rank      : 6202
+Title     : New Insights into the Crystal Structures of Plutonium Hydrides from First-Principles Calculations
+Author    : Shichang Li/Bingyun Ao/Xiaoqiu Ye/Ruizhi Qiu/Tao Gao
+Reference : J. Phys. Chem. C, 2018, 122, 18, 10103-10112; 10.1021/acs.jpcc.7b11464
+Keyword   : H-Pu/
+Date      : 2018
+
+Rank      : 6209
+Title     : Thermodynamical Stability of Plutonium Monoxide with Carbon Substitution
+Author    : Ruizhi Qiu/Xin Wang/Yongbin Zhang/Bingyun Ao/Kezhao Liu
+Reference : J. Phys. Chem. C, 2018, 122, 40, 22821-22828; 10.1021/acs.jpcc.8b03546
+Keyword   : C-O-P/
+Date      : 2018
+
+Rank      : 7920
+Title     : Estimating the Compressibility of Osmium from Recent Measurements of Ir-Os Alloys under High Pressure
+Author    : Nicholas V. Sarlis/Efthimios S. Skordas
+Reference : J. Phys. Chem. A, 2016, 120, 9, 1601-1604; 10.1021/acs.jpca.6b00846
+Keyword   : Ir-Os/
+Date      : 2016
+
+Rank      : 7921
+Title     : Molecular Structure and Bonding in Plutonium Carbides: A Theoretical Study of PuC3
+Author    : Germán Molpeceres/Víctor M. Rayón/Carmen Barrientos/Antonio Largo
+Reference : J. Phys. Chem. A, 2016, 120, 14, 2232-2239; 10.1021/acs.jpca.6b00543
+Keyword   : C-Pu/
+Date      : 2016
+
+Rank      : 8889
+Title     : Structures and Properties of Osmium Hydrides under Pressure from First Principle Calculation
+Author    : Yunxian Liu/Defang Duan/Xiaoli Huang/Fubo Tian/Da Li/Xiaojing Sha/Chao Wang/Huadi Zhang/Ting Yang/Bingbing Liu/Tian Cui
+Reference : J. Phys. Chem. C, 2015, 119, 28, 15905-15911; 10.1021/acs.jpcc.5b03791
+Keyword   : H-Os/
+Date      : 2015
+
+Rank      : 10632
+Title     : Np-Pu (Neptunium-Plutonium)
+Author    : H. Okamoto
+Reference : J. Phase Equil. Diffusion, 2013, 34, 2, 154-155; 10.1007/s11669-012-0155-4
+Keyword   : Np-Pu/
+Date      : 2013
+
+Rank      : 10968
+Title     : Crystallographic Properties of Osmium Assessment of properties from absolute zero to 1300 K
+Author    : John W. Arblaster
+Reference : Platinum Metals Rev., 2013, 57, 3, 177-185
+Keyword   : Os/
+Date      : 2013
+
+Rank      : 16920
+Title     : Determination of the Clean 4F Peak Shape in XPS for Plutonium Metal
+Author    : P. MORRALL/P. ROUSSEL/L. JOLLY/A. BREVET/F. DELAUNAY/
+Reference : J. Nucl. Mater., 2009, 385, 1, 15-17; 10.1016/j.jnucmat.2008.10.009
+Keyword   : Pu/
+Date      : 2009
+
+Rank      : 16925
+Title     : X-Ray Diffraction Study of Pure Plutonium under Pressure
+Author    : PH. FAURE/C. GENESTIER/
+Reference : J. Nucl. Mater., 2009, 385, 1, 38-41; 10.1016/j.jnucmat.2008.10.038
+Keyword   : Pu/
+Date      : 2009
+
+Rank      : 16932
+Title     : Kondo Universality and Energy Scales in Plutonium
+Author    : E. CLEMENTYEV/A. MIRMELSTEIN/
+Reference : J. Nucl. Mater., 2009, 385, 1, 63-65; 10.1016/j.jnucmat.2008.10.032
+Keyword   : Pu/
+Date      : 2009
+
+Rank      : 16935
+Title     : Evolving Density And Static Mechanical Properties In Plutonium From Self-Irradiation
+Author    : B.W. CHUNG/S.R. THOMPSON/K.E. LEMA/D.S. HIROMOTO/B.B. EBBINGHAUS/
+Reference : J. Nucl. Mater., 2009, 385, 1, 91-94; 10.1016/j.jnucmat.2008.09.031
+Keyword   : Pu/
+Date      : 2009
+
+Rank      : 19327
+Title     : Osmium's Debye Temperature
+Author    : C. PANTEA/I. STROE/H. LEDBETTER/J.B. BETTS/Y. ZHAO/L.L. DAEMEN/H. CYNN/A. MIGLIORI/
+Reference : J. Phys. Chem. Sol., 2008, 69, 1, 211-213; 10.1016/j.jpcs.2007.08.065
+Keyword   : Os/
+Date      : 2008
+
+Rank      : 24749
+Title     : What is the True Melting Point of Osmium?
+Author    : J. W. ARBLASTER
+Reference : Platinum Metals Rev., 2005, 49, 4, 166-168
+Keyword   : Os/
+Date      : 2005
+
+Rank      : 26516
+Title     : Update on the Chemical Thermodynamics of Uranium, Neptunium, Plutonium, Americium and Technetium
+Author    : R. Guillaumont/T. Fanghänel/J. Fuger/I. Grenthe/V. Neck/D.A. Palmer/M.H. Rand
+Reference : F.J. Mompean, M. Illemassene, C. Domenech-Orti, K. Ben Said  (Eds.), Elsevier, Amsterdam, 2003
+Keyword   : U/Np/Pu/Am/Tc/
+Date      : 2003
+
+Rank      : 30185
+Title     : What's New on Plutonium up to 4000 K ?
+Author    : M. BOIVINEAU/
+Reference : J. Nucl. Mater., 2001, 297, 1, 97-106; 10.1016/S0022-3115(01)00549-9
+Keyword   : Pu/
+Date      : 2001
+
+Rank      : 31522
+Title     : Refinement of the Thermodynamic Properties of Ruthenium Dioxide and Osmium Dioxide
+Author    : K. Thomas Jacob/Saurabh Mishra/Yoshio Waseda
+Reference : J. Amer. Ceram. Soc., 2000, 83, 7, 1745-1752; 10.1111/j.1151-2916.2000.tb01459.x
+Keyword   : O-Ru/O-Os/
+Date      : 2000
+
+Rank      : 32673
+Title     : Nature's Uncommon Elements: Plutonium and Technetium
+Author    : DAVID CURTIS/JUNE FABRYKA-MARTIN/PAUL DIXON/JAN CRAMER/
+Reference : Geochim. Cosmochim. Acta, 1999, 63, 2, 275-285
+Keyword   : Pu/Tc/
+Date      : 1999
+
+Rank      : 39032
+Title     : Osmium in the Rivers.
+Author    : M. SHARMA/G.J. WASSERBURG/
+Reference : Geochim. Cosmochim. Acta, 1997, 61, 24, 5411-5416
+Keyword   : Os/
+Date      : 1997
+
+Rank      : 41874
+Title     : Accretion of Extraterrestrial Matter during the last 80 Million Years and its Effect on the Marine Osmium Isotope Record.
+Author    : B. PEUCKER-EHRENBRINK/
+Reference : Geochim. Cosmochim. Acta, 1996, 60, 17, 3187-3196
+Keyword   : Os/
+Date      : 1996
+
+Rank      : 46030
+Title     : The Thermodynamic Properties of Osmium on ITS-90.
+Author    : ARBLASTER J.W./
+Reference : CALPHAD, 1995, 19, 3, 349-356; 10.1016/0364-5916(95)00032-A
+Keyword   : Os/
+Date      : 1995
+
+Rank      : 48050
+Title     : Nucleation of the Alpha -> Beta and Beta -> Alpha Transformations in Unalloyed Plutonium.
+Author    : J.R. COST/K.A. JOHNSON/
+Reference : J. Nucl. Mater., 1995, 223, 3, 267-276; https://doi.org/10.1016/0022-3115(94)00661-X
+Keyword   : Pu/
+Date      : 1995
+
+Rank      : 55702
+Title     : Phase Stability of Plutonium
+Author    : VAN EK J./STERNE P.A./GONIS A./
+Reference : Phys. Rev. B, 1993, 48, 22, 16280-16289; 10.1103/PhysRevB.48.16280
+Keyword   : Pu/
+Date      : 1993
+
+Rank      : 57327
+Title     : Pure Plutonium Behavior under Negative Pressures.
+Author    : C.E. OLSEN/J.F. ANDREW/
+Reference : J. Nucl. Mater., 1992, 199, 1, 6-11; https://doi.org/10.1016/0022-3115(92)90434-M
+Keyword   : Pu/
+Date      : 1992
+
+Rank      : 62021
+Title     : Allotropic Transitions of Neptunium and Plutonium Determined using Differential Thermal Analysis
+Author    : FOLTYN E.M./
+Reference : J. Nucl. Mater., 1990, 172, 2, 180-183; https://doi.org/10.1016/0022-3115(90)90436-Q
+Keyword   : Np/Pu/
+Date      : 1990
+
+Rank      : 64644
+Title     : Densities of Osmium and Iridium
+Author    : ARBLASTER J.W./
+Reference : Platinum Metals Rev., 1989, 33, 1, 14-16
+Keyword   : Os/Ir/
+Date      : 1989
+
+Rank      : 65398
+Title     : The Pu-Sn (Plutonium-Tin) system
+Author    : E. M. Foltyn/D. E. Peterson
+Reference : Bull. Alloy Phase Diag., 1988, 9, 2, 152-155; 10.1007/BF02890553
+Keyword   : Pu-Sn/
+Date      : 1988
+
+Rank      : 75903
+Title     : Review of Major Plutonium Pyrochemical Technology .
+Author    : SCOTT MOSER W./NAVRATIL J.D./
+Reference : J. Less Common Met., 1984, 100, 7, 171-187; 10.1016/0022-5088(84)90062-6
+Keyword   : Pu/
+Date      : 1984
+
+Rank      : 79017
+Title     : The Ga-Pu (Gallium-Plutonium) system
+Author    : P. Chiotti/V. V. Akhachinskij/I Ansara/M. H. Rand
+Reference : Bull. Alloy Phase Diag., 1982, 2, 4, 488-490; 10.1007/BF02876173
+Keyword   : Ga-Pu/
+Date      : 1982
+
+Rank      : 84157
+Title     : High Temperature Vapor Pressure of Pure Plutonium
+Author    : BRADBURY M.H./OHSE R.W./
+Reference : J. Chem. Phys., 1979, 70, 5, 2310-2314; 10.1063/1.437736
+Keyword   : Pu/
+Date      : 1979
+
+Rank      : 88443
+Title     : Mass Spectrometric Analysis of Uranium and Plutonium .
+Author    : CHITAMBAR S.A./KAVIMANDAN V.D./SAHA B./AGGARWAL S.K./PERIASWAMI G./ BAGYALAKSHMI K./SHAH P./RAMASUBRAMANIAN P.A./ALMOULA A.I./
+Reference : India, A.E.C., Bhabha At. Res. Cent. (Rep.), 1976, B.A.R.C.-865, 47Pp.
+Keyword   : U/Pu/
+Date      : 1976
+
+Rank      : 89709
+Title     : Specific Heats of Neptunium and Plutonium .
+Author    : GORDON J.E./HALL R.O.A./LEE J.A./MORTIMER M.J./
+Reference : Cryogenics, 1975, 15, 3, 155
+Keyword   : Pu/Np/
+Date      : 1975
+
+Rank      : 90371
+Title     : Enthalpy and Heat Capacity of Liquid Plutonium and Uranium
+Author    : THAYER W.L./ROBBINS J.L./
+Reference : PLUTONIUM 1975 OTHER ACTINIDES, PROC.INT.CONF., 5TH 1975 (PUB. 1976), 85-93. EDITED: BLANK H; LINDNER R., NORTH-HOLLAND, AMSTERDAM, NETHERLANDS.
+Keyword   : U/Pu/
+Date      : 1975
+
+Rank      : 96251
+Title     : The Chemical Thermodynamic Properties of Plutonium Compounds
+Author    : Franklin L. Oetting
+Reference : Chem. Rev., 1967, 67, 3, 261-297; 10.1021/cr60247a002
+Keyword   : C-Pu/Pu-S/F-Pu/Br-Pu/I-O-Pu/Cl-O-Pu/Cl-Pu/I-Pu/Fe-O-Pu/Br-O-Pu/O-Pu/
+Date      : 1967
+
+Rank      : 96696
+Title     : Plutonium, Physicochemical Properties of its Compounds and Alloys.
+Author    : M.H. RAND/
+Reference : Atomic Energy Review, IAEA, Vienna, 1966, 4, Special Issue 1, 7-51.
+Keyword   : Pu/O-Pu/
+Date      : 1966
+
+Rank      : 98311
+Title     : Vaporization of Ruthenium and Osmium
+Author    : M.B. Panish/L. Reif
+Reference : J. Chem. Phys., 1962, 37, 1, 128-131; 10.1063/1.1732934
+Keyword   : Os/Ru/
+Date      : 1962
+
+Rank      : 99385
+Title     : Compression and the alpha-beta Phase Transition of Plutonium
+Author    : Bridgman P. W.
+Reference : J. Appl. Phys., 1959, 30, 2, 214-217; 10.1063/1.1735135
+Keyword   : Pu/
+Date      : 1959
+
+Rank      : 99741
+Title     : Some Properties of Plutonium and Aluminum-Plutonium Alloy
+Author    : R.ABRAMSON/R.BOUCHER/R.FABRE/H.MONTI/
+Reference : PROC. 2ND U.N. INT. CONF. PEACEFUL USES AT. ENERGY, VOL.6, 173-183, (1958).
+Keyword   : Al-Pu/Pu/
+Date      : 1958
+
+Rank      : 99747
+Title     : The Physical Metallurgy of Plutonium
+Author    : M.B. WALDRON/J. GARSTONE/J.A. LEE/P.G. MARDON/J.A.C. MARPLES/D.M. POOLE/G.K. WILLIAMSON/
+Reference : PROC. U.N. INTERN. CONF. PEACEFUL USES AT. ENERGY, 1ND, GENEVA, VOL. 6, 1958.
+Keyword   : Pu-U/Pu-Zr/Pu/
+Date      : 1958
+
+Rank      : 100119
+Title     : Some Physical Properties of Plutonium Metal
+Author    : Jette E. R.
+Reference : J. Chem. Phys., 1955, 23, 2, 365-368; 10.1063/1.1741970
+Keyword   : Pu/
+Date      : 1955
+

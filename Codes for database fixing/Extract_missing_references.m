@@ -1,6 +1,6 @@
 function []=Extract_missing_references(input_file)
 warning ('off','all');
-output_file='Ref_with_missing_references.txt';
+output_file='Error output/Ref_with_missing_references.txt';
 out = fopen(output_file,'w');
 s=dir(input_file);
 database_size=s.bytes;

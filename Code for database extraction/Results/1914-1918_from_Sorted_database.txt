@@ -1,0 +1,149 @@
+************Search results for /Results/1914-1918_from_Sorted_database/ system************
+
+Rank      : 101111
+Title     : THE TERNARY SYSTEM MGO-AL2O3-SIO2.
+Author    : G.A. RANKIN/H.E. MERWIN/
+Reference : Amer. J. Sci., 1918, 45, 301-325
+Keyword   : Al-Mg-O-Si/
+Date      : 1918
+
+Rank      : 101112
+Title     : Die Temperatur- Wärmeinhaltskurven der technisch wichtigen Metalle.
+Author    : F. Wüst/A. Meuthen/R. Durrer
+Reference : Forsch, Gebiete Ingenieurw UDI-Forschungschaft 1918, 204, 1-63
+Keyword   : Au/
+Date      : 1918
+
+Rank      : 101113
+Title     : ***************Title is missing***************
+Author    : F. Wüst/A. Meuthen/R. Durrer
+Reference : Forsch. Gebiete Ingenieurw. VDI-Forschungs. 204,  (1918)
+Keyword   : Cd/W/Ni/Co/Cu/Sb/Bi/Ag/Pb/Al/Fe/Au/Sn/Cr/
+Date      : 1918
+
+Rank      : 101114
+Title     : THE SPECIFIC HEATS AT LOW TEMPERATURES OF SODIUM, POTASSIUM, MAGNESIUM AND CALCIUM METALS, AND OF LEAD SULFIDE
+Author    : E.D. Eastman/W. H. Rodebush
+Reference : J. Amer. Chem. Soc., 1918, 40, 3, 489-500; 10.1021/ja02236a005
+Keyword   : K/Mg/Ca/Na/Pb-S/
+Date      : 1918
+
+Rank      : 101115
+Title     : Thermal decomposition of certain inorganic trinitrides
+Author    : A.R. Hitch
+Reference : J. Amer. Chem. Soc., 1918, 40, 8, 1195-1204; 10.1021/ja02241a007
+Keyword   : Ag-N/
+Date      : 1918
+
+Rank      : 101116
+Title     : The Specific Heat of Platinum at High Temperatures
+Author    : White W. P.
+Reference : Phys. Rev., 1918, 12, 6, 436-441; 10.1103/PhysRev.12.436
+Keyword   : Pt/
+Date      : 1918
+
+Rank      : 101128
+Title     : Untersuchungen über die spezifische Wärme bei tiefen Temperaturen
+Author    : W. Nernst/F. Schwers
+Reference : Akad. Wiss, 1914, 355
+Keyword   : Si/
+Date      : 1914
+
+Rank      : 101129
+Title     : THE TERNARY SYSTEM : DIOPSIDE-FOSTERITE-SILICA.
+Author    : N.L. BOWEN/
+Reference : Amer. J. Sci., 1914, 38, 207-264
+Keyword   : Ca-Mg-O-Si/
+Date      : 1914
+
+Rank      : 101130
+Title     : ***************Title is missing***************
+Author    : A. Villiers
+Reference : Ann. Chim. Phys., 1914, 30, 588-633
+Keyword   : Hg/
+Date      : 1914
+
+Rank      : 101131
+Title     : ***************Title is missing***************
+Author    : W.H. Keesom/H. K. Onnes
+Reference : Comm. Phys. Lab. Univ. Leiden, 1914, 13, 1-26
+Keyword   : Cu/
+Date      : 1914
+
+Rank      : 101132
+Title     : ***************Title is missing***************
+Author    : W.H. Keesom/H. K. Onnes
+Reference : Comm. Phys. Lab. Univ. Leiden, 1914, 13, No. 143
+Keyword   : Pb/
+Date      : 1914
+
+Rank      : 101133
+Title     : The Capacity for Heat of Metals at Low Temperatures
+Author    : E.H. Griffiths/E. Griffiths
+Reference : Phil. Trans. Roy. Soc. A, 1914, 214, 319-357
+Keyword   : Al/Fe/Cu/Zn/Ag/Cd/Pb/Na/
+Date      : 1914
+
+Rank      : 101134
+Title     : Change of Phase under Pressure. I. The Phase Diagram of Eleven Substances with Especial Reference to The Melting Curve
+Author    : Bridgman P. W.
+Reference : Phys. Rev., 1914, 3, 3, 153-203; 10.1103/PhysRev.3.153
+Keyword   : Na/
+Date      : 1914
+
+Rank      : 101135
+Title     : THE VAPOR PRESSURE OF THE METALS PLATINUM AND MOLYBDENUM.
+Author    : I. LANGMUIR/G.M.J. MCKAY/
+Reference : Phys. Rev., 1914, 4, 377-386
+Keyword   : Mo/Pt/
+Date      : 1914
+
+Rank      : 101136
+Title     : The Capacity for Heat of Metals at Low Temperatures
+Author    : E.H. Griffiths/E. Griffiths
+Reference : Proc. Roy. Soc. (London) A, 1914, 90, 557-560
+Keyword   : Al/Na/Fe/Zn/Ag/Cd/Pb/
+Date      : 1914
+
+Rank      : 101137
+Title     : ***************Title is missing***************
+Author    : Griffiths E.
+Reference : Proc. Roy. Soc. A, 1914, 89, 561-574
+Keyword   : Na/
+Date      : 1914
+
+Rank      : 101138
+Title     : ***************Title is missing***************
+Author    : A. Eucken/F. Schwers
+Reference : Sitzber. kgl. preuss. Akad. Wiss. p. 355.  (1914)
+Keyword   : Tl/
+Date      : 1914
+
+Rank      : 101139
+Title     : ***************Title is missing***************
+Author    : W. Nernst/F. Schwers
+Reference : Sitzber. König preuss. Akad. Wiss. , 1, 355-70.  (1914)
+Keyword   : Mg/Si/
+Date      : 1914
+
+Rank      : 101140
+Title     : Uber die Warrnekapazitat von Metallen und Metallverbindungen zwischen 18-600o.
+Author    : Schübel P.
+Reference : Z. Anorg. Allg. Chem., 1914, 87, 81-119
+Keyword   : Sn/Ni/Mg/Cr/Sb/Zn/Ag/Al/Fe/Co/Cu/Sb/Bi/Pb/Cu-Mg/Al-Cu/Cu-Sb/Ag-Mg/Ag-Al/Ag-Sb/Mg-Zn/Mg-Ni/Co-Sn/Ni-Sn/Fe-Si/Ni-Si/Mg-Si/
+Date      : 1914
+
+Rank      : 101141
+Title     : ***************Title is missing***************
+Author    : Ruff, O./F. Keilig
+Reference : Z. Anorg. Chem., 1914, 88, 410-423
+Keyword   : Co/
+Date      : 1914
+
+Rank      : 101142
+Title     : ***************Title is missing***************
+Author    : F. Haber/F. Kerschbaum
+Reference : Z. Elektrochem., 1914, 20, 296-305
+Keyword   : Hg/
+Date      : 1914
+

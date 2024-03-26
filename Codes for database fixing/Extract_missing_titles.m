@@ -1,6 +1,6 @@
 function []=Extract_missing_titles(input_file)
 warning ('off','all');
-output_file='Ref_with_missing_names.txt';
+output_file='Error output/Ref_with_missing_names.txt';
 out = fopen(output_file,'w');
 s=dir(input_file);
 database_size=s.bytes;
