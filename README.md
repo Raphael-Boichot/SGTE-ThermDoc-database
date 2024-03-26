@@ -3,11 +3,12 @@
 # SGTE ThermDoc database and extraction tools
 SGTE ThermDoc Datatabase and extraction tools for finding references about thermodynamical properties of multinaries
 
-##Installation
+## Installation
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
 - Clone the repository to a local folder and go to the working folder;
-- Use the intuitive syntax to extract references from the ThermDoc database:
+- Use the intuitive syntax to extract references from the ThermDoc database.
 
+## Intuitive use
 ```
 Search_for_elements('Mo','Mg','Al','Sorted_database.txt') ->extract Mo AND Mg AND Al ternaries related papers
 Search_for_authors('Chatillon','Nuta','Sorted_database.txt') ->extract papers containing Chatillon OR Nuta as author
