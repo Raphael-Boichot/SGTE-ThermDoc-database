@@ -21,6 +21,7 @@ Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Oc
 
 ## Intuitive use
 Here are some example of commands that can be used:
+
 ```matlab
 Search_for_elements('Mo','Mg','Al') %search for Mo-Mg-Al ternary only
 ```
@@ -30,18 +31,16 @@ Search_for_elements('Mo')       %search for pure aluminium metal only
 Search_for_elements('Mg','Al')  %search for Mg-Al binary only
 ```
 The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005), may be programmed on request.
+
 ```matlab
-Search_for_authors('Chatillon','Nuta')  %search for Chatillon or Nuta as authors
+Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **OR** Author#2 **OR** Author#3, and so on.
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on.
+
 ```matlab
-Search_for_years('1914','1915','1916','1917','1918') %search for papers from 1914 to 1918
+Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium and Osmium in the title
 ```
-Years are entered individually as a list. Current version of the code does not allow to enter a period range, may be programmed on request
-```matlab
-Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium or Osmium in the title
-```
-The command extract references with Keyword#1 **OR** Keyword#2 **OR** Keyword#3, and so on.
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on.
 
 Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading. These simple commands must cover 99% of the use of the database.
 
