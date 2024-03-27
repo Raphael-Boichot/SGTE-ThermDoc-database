@@ -53,7 +53,7 @@ This part is not required to use the database as I will update it regularly but 
 ```
 And copy/paste the new database you want to process, then run:
 ```matlab
-./Codes/Service_folder/Service_script.m %update the database name in the database_in='XXX' field
+./Codes/Service_folder/Service_script.m %edit and update the database name in database_in='./Source_database/ThermDocXXX.bib'; field
 ```
 The script will:
 - detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
