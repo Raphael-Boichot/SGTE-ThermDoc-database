@@ -17,7 +17,7 @@ The ThermDoc database itself is a collection of more than 100,000 literature ref
 - Use the intuitive syntax to extract references from the ThermDoc database;
 - Results are stored in the ./Search_results folder, a txt file for each inquiry.
 
-Each inquiry takes about 5 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
+Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
 
 ## Intuitive use
 Here are some example of commands that can be used:
