@@ -13,9 +13,9 @@ The ThermDoc database itself is a collection of more than 100,000 literature ref
 ## Installation
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
-- Clone the repository to a local folder and go to the ./Code folder;
+- Clone the repository to a local folder and go to the **./Code** folder;
 - Use the intuitive syntax to extract references from the ThermDoc database;
-- Results are stored in the ./Search_results folder, a txt file for each inquiry.
+- Results are stored in the **./Search_results** folder, a txt file for each inquiry.
 
 Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
 
@@ -43,7 +43,7 @@ Search_for_keywords('PLUTONIUM','OSMIUM') %search for paper containing Plutonium
 ```
 Keywords must be entered in UPPERCASE as arguments, the command extract references with KEYWORD1 **OR** KEYWORD2 **OR** KEYWORD3, and so on.
 
-Commands can of course be scripted and ran as a batch, see ./Codes/Script.m for example of script containing several commands. Papers are listed by years to ease the reading. These simple commands must cover 99% of the use of the database.
+Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading. These simple commands must cover 99% of the use of the database.
 
 ## Database maintenance
 
@@ -56,7 +56,7 @@ And copy/paste the new database you want to process, then run:
 ./Codes/Service_folder/Service_script.m %update the database name in the database_in='XXX' field
 ```
 The script will:
-- detect any lacking field and report it in the ./Codes/Service_folder/Error_outputs/ folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
+- detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search;
 - convert to UPPERCASE the reference and authors fiels as the database contains both lowercase and uppercase entries, and the GNU Octave code is case sensitive;
 - sort and copy by descending year all entries of the original database to the working database;
