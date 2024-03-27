@@ -24,7 +24,13 @@ Here are some example of commands that can be used:
 ```matlab
 Search_for_elements('Mo','Mg','Al')
 ```
-->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed.
+->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed. If you want to extract the references for individual metals of binaries, just make these inquiries:
+```matlab
+Search_for_elements('Mo')       %search for pure aluminium metal only
+Search_for_elements('Mg','Al')  %search for Mg-Al binary only
+```
+
+
 ```matlab
 Search_for_authors('CHATILLON','NUTA')
 ```
