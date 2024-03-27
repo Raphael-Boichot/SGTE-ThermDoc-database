@@ -1,11 +1,9 @@
 function []=Extract_missing_titles(input_file)
 warning ('off','all');
-output_file='Error_outputs/Ref_with_missing_names.txt';
+output_file='Error_outputs/Ref_with_missing_titles.txt';
 out = fopen(output_file,'w');
-s=dir(input_file);
-database_size=s.bytes;
 fid = fopen(input_file,'r');
-disp(['Scanning database, please wait...'])
+disp('Scanning database, please wait...')
 counter=0;
 match=0;
 while ~feof(fid)
@@ -30,14 +28,14 @@ while ~feof(fid)
             match=match+1;
             fwrite(out,['Rank      : ',num2str(counter)]);
             fwrite(out,char(13));
-            fwrite(out,char(10));
+            fwrite(out,newline);
             fwrite(out,['Title     : ',title]);
             fwrite(out,['Author    : ',author]);
             fwrite(out,['Reference : ',reference]);
             fwrite(out,['Keyword   : ',cle]);
             fwrite(out,['Date      : ',date]);
             fwrite(out,char(13));
-            fwrite(out,char(10));
+            fwrite(out,newline);
         end
     end
 end

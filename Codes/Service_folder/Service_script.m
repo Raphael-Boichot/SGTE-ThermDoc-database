@@ -1,3 +1,4 @@
+clc
 database_in='./Source_database/ThermDoc23a.bib';
 database_out='./Source_database/Sorted_database.bib';
 Extract_missing_titles(database_in)
