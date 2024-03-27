@@ -24,24 +24,24 @@ Here are some example of commands that can be used:
 ```matlab
 Search_for_elements('Mo','Mg','Al') %search for Mo-Mg-Al ternary only
 ```
-->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed. If you want to extract the references for individual metals of binaries, just make these inquiries:
+Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed. If you want to extract the references for individual metals of binaries, just make these inquiries:
 ```matlab
 Search_for_elements('Mo')       %search for pure aluminium metal only
 Search_for_elements('Mg','Al')  %search for Mg-Al binary only
 ```
-The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005).
+The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005), may be programmed on request.
 ```matlab
-Search_for_authors('CHATILLON','NUTA')
+Search_for_authors('CHATILLON','NUTA')  %search for CHATILLON and NUTA as authors
 ```
- ->extract papers containing Chatillon OR Nuta as authors, authors must be entered in UPPERCASE as arguments.
+Authors must be entered in UPPERCASE as arguments, the command extract references with AUTHOR1 **OR** AUTHOR2 **OR** AUTHOR3, and so on.
 ```matlab
-Search_for_years('1914','1915','1916','1917','1918') 
+Search_for_years('1914','1915','1916','1917','1918') %search for papers from 1914 to 1918
 ```
-->extract papers all papers referenced between 1914 and 1918.
+Years are entered individually as a list. Current version of the code does not allow to enter a period range, may be programmed on request
 ```matlab
-Search_for_keywords('PLUTONIUM','OSMIUM') 
+Search_for_keywords('PLUTONIUM','OSMIUM') %search for paper containing Plutonium or Osmium in the title
 ```
-->extract papers containing Plutonium OR Osmium in the title, keywords must be entered in UPPERCASE as arguments.
+Keywords must be entered in UPPERCASE as arguments, the command extract references with KEYWORD1 **OR** KEYWORD2 **OR** KEYWORD3, and so on.
 
 Commands can of course be scripted and ran as a batch, see ./Codes/Script.m for example of script containing several commands.
 
