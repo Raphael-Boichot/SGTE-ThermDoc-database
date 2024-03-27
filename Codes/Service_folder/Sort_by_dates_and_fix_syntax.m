@@ -12,7 +12,6 @@ while ~feof(fid)
     if not(isempty(strfind(a,'tit')))
         counter=counter+1;
         title=fgets(fid);
-        empty=0;
         null=fgets(fid);
         author=fgets(fid);
         null=fgets(fid);
@@ -43,7 +42,6 @@ for m=1:1:length(date_list)
         if not(isempty(strfind(a,'tit')))
             counter=counter+1;
             title=fgets(fid);
-            empty=0;
             null=fgets(fid);
             author=fgets(fid);
             null=fgets(fid);
