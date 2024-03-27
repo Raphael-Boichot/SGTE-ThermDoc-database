@@ -43,7 +43,7 @@ Search_for_keywords('PLUTONIUM','OSMIUM') %search for paper containing Plutonium
 ```
 Keywords must be entered in UPPERCASE as arguments, the command extract references with KEYWORD1 **OR** KEYWORD2 **OR** KEYWORD3, and so on.
 
-Commands can of course be scripted and ran as a batch, see ./Codes/Script.m for example of script containing several commands.
+Commands can of course be scripted and ran as a batch, see ./Codes/Script.m for example of script containing several commands. Papers are listed by years to ease the reading. These simple commands must cover 99% of the use of the database.
 
 ## Database maintenance
 
@@ -51,9 +51,9 @@ This part is not required to use the database as I will update it regularly but 
 ```
 ./Codes/Service_folder/Source_database/
 ```
-And copy/paste the new database you want to process, then run (after updating the database name in the database_in=XXX field):
+And copy/paste the new database you want to process, then run:
 ```
-./Codes/Service_folder/Service_script.m
+./Codes/Service_folder/Service_script.m %update the database name in the database_in='XXX' field
 ```
 The script will:
 - detect any lacking field and report it in the ./Codes/Service_folder/Error_outputs/ folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
