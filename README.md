@@ -52,7 +52,7 @@ This part is not required to use the database as I will update it regularly but 
 ./Codes/Service_folder/Source_database/
 ```
 And copy/paste the new database you want to process, then run:
-```
+```matlab
 ./Codes/Service_folder/Service_script.m %update the database name in the database_in='XXX' field
 ```
 The script will:
