@@ -21,7 +21,7 @@ Each inquiry takes about 5 seconds on Matlab and about 2-3 times more on GNU Oct
 
 ## Intuitive use
 Here are some example of commands that can be used:
-```
+```matlab
 Search_for_elements('Mo','Mg','Al')
 ```
 ->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed.
