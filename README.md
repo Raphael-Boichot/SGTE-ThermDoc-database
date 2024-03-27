@@ -31,7 +31,7 @@ Search_for_elements('Mg','Al')  %search for Mg-Al binary only
 ```
 The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005), may be programmed on request.
 ```matlab
-Search_for_authors('CHATILLON','NUTA')  %search for CHATILLON and NUTA as authors
+Search_for_authors('CHATILLON','NUTA')  %search for Chatillon or Nuta as authors
 ```
 Authors must be entered in UPPERCASE as arguments, the command extract references with AUTHOR1 **OR** AUTHOR2 **OR** AUTHOR3, and so on.
 ```matlab
