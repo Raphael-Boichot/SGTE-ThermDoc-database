@@ -1,9 +1,17 @@
 ![](SGTE.gif)
 
 # SGTE ThermDoc database and exploration tools
+
 SGTE ThermDoc Datatabase and exploration tools for finding references about thermodynamical properties of multinaries and inorganic compounds. Research functions are similar to Papyrus except for the Graphic User Interface.
 
+## A bit of history
+
+SGTE is an international consortium created more than 40 years ago. SGTE focuses on providing physically validated thermochemical databases to be used by computational thermochemistry software tools. General databases on unaries, compounds, solutions are created and maintained as well as new databases dedicated to specific target applications meeting global challenges such as e-mobility, energy generation and conversion as well as life sciences are developed. 
+
+The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to 2024 formatted in order to easily find data on multinaries and updated every year by member of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools with the maximum number of researcher around the world.
+
 ## Installation
+
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
 - Clone the repository to a local folder and go to the ./Code folder;
 - Use the intuitive syntax to extract references from the ThermDoc database;
@@ -49,3 +57,10 @@ The script will:
 - sort and copy by descending year all entries of the original database to the working database;
 
 The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the working databse provided in the repo is always up to date regarding the original database. It may be used in case of frequent crash of the working database only, to rebuild it.
+
+## License
+
+- the GNU Octave codes provided are under the GPL-3.0 license
+- the ThermDoc database is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
+
+## To cite the database in your work
