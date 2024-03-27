@@ -22,15 +22,14 @@ Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Oc
 ## Intuitive use
 Here are some example of commands that can be used:
 ```matlab
-Search_for_elements('Mo','Mg','Al')
+Search_for_elements('Mo','Mg','Al') %search for Mo-Mg-Al ternary only
 ```
 ->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed. If you want to extract the references for individual metals of binaries, just make these inquiries:
 ```matlab
 Search_for_elements('Mo')       %search for pure aluminium metal only
 Search_for_elements('Mg','Al')  %search for Mg-Al binary only
 ```
-
-
+The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005).
 ```matlab
 Search_for_authors('CHATILLON','NUTA')
 ```
