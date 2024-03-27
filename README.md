@@ -9,7 +9,7 @@ SGTE ThermDoc Datatabase and exploration tools for finding references about ther
 - Use the intuitive syntax to extract references from the ThermDoc database;
 - Results are stored in the ./Search_results folder, a txt file for each inquiry.
 
-The codes runs very fast on Matlab and about 2-3 times slower on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
+Each inquiry takes about 5 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
 
 ## Intuitive use
 Here are some example of commands that can be used:
@@ -38,7 +38,7 @@ This part is not required to use the database as I will update it regularly but 
 ```
 ./Codes/Service_folder/Source_database/
 ```
-And copy/paste the new database, then run:
+And copy/paste the new database, then run (after updating the database name in the database_in=XXX field):
 ```
 ./Codes/Service_folder/Service_script.m
 ```
@@ -48,4 +48,4 @@ The script will:
 - convert to UPPERCASE the reference and authors fiels;
 - sort and copy by descending year all entries of the original database to the working database;
 
-The original database is never modified. The service script take about one hour so it is not advised to use it as the code provided in the repo are all up to date.
+The original database is never modified during the maintenance. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the code provided in the repo are all up to date.
