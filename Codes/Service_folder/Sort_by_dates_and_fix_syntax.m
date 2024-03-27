@@ -80,8 +80,8 @@ for m=1:1:length(date_list)
                 fwrite(out,'cle');
                 fwrite(out,char(13));
                 fwrite(out,newline);
-                fwrite(out,cle);
-                %fwrite(out,upper(cle));
+                %fwrite(out,cle);
+                fwrite(out,upper(cle));
                 fwrite(out,'dat');
                 fwrite(out,char(13));
                 fwrite(out,newline);

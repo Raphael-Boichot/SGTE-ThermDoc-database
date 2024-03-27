@@ -386,7 +386,7 @@ Date      : 1963
 Rank      : 5594
 Title     : 
 Author    : G. Borelius/K. A. Paulson
-Reference : Arkiv. för Matematik, Astronomi och Fysik 33, 1 - 16. (1946)
+Reference : Arkiv. fÃ¶r Matematik, Astronomi och Fysik 33, 1 - 16. (1946)
 Keyword   : Se
 Date      : 1946
 
@@ -771,7 +771,7 @@ Date      : 1956
 Rank      : 10139
 Title     : 
 Author    : W.A. Heusinkveld/K. Schurer
-Reference : Comite Consultatif Thermometrie, Comite Intern. Poids Mesures, 6°, Sevres, France, 50-1 (Pub. 1964).  (1962)
+Reference : Comite Consultatif Thermometrie, Comite Intern. Poids Mesures, 6Â°, Sevres, France, 50-1 (Pub. 1964).  (1962)
 Keyword   : Sb/Au
 Date      : 1962
 
@@ -896,7 +896,7 @@ Date      : 1934
 
 Rank      : 10208
 Title     : 
-Author    : Néel L.
+Author    : NÃ©el L.
 Reference : Comptes Rendus Acad. Sci., 1938, 207, 1384-1386
 Keyword   : Ni
 Date      : 1938
@@ -966,7 +966,7 @@ Date      : 1958
 
 Rank      : 10224
 Title     : 
-Author    : M. Génot/R. Hagège
+Author    : M. GÃ©not/R. HagÃ¨ge
 Reference : Comptes Rendus Acad. Sci., 1960, 251, 2901-2903
 Keyword   : Zn/Sn
 Date      : 1960
@@ -1254,7 +1254,7 @@ Date      : 1952
 Rank      : 11874
 Title     : 
 Author    : Holetzko H.
-Reference : Dissertation, Univ. of Köln,
+Reference : Dissertation, Univ. of KÃ¶ln,
 Keyword   : Fe
 Date      : 
 
@@ -1582,7 +1582,7 @@ Date      : 1966
 
 Rank      : 13633
 Title     : 
-Author    : G.I. Dolivo-Dobrovol’skaya/V.V. Zhdanova/V.P. Sergeev
+Author    : G.I. Dolivo-Dobrovolâ€™skaya/V.V. Zhdanova/V.P. Sergeev
 Reference : Fiz. Tverd. Tela, 1973, 15, 1378-1382
 Keyword   : Ge
 Date      : 1973
@@ -1596,7 +1596,7 @@ Date      : 1966
 
 Rank      : 13884
 Title     : 
-Author    : F. Wüst/A. Meuthen/R. Durrer
+Author    : F. WÃ¼st/A. Meuthen/R. Durrer
 Reference : Forsch. Gebiete Ingenieurw. VDI-Forschungs. 204,  (1918)
 Keyword   : Cd/W/Ni/Co/Cu/Sb/Bi/Ag/Pb/Al/Fe/Au/Sn/Cr
 Date      : 1918
@@ -1632,14 +1632,14 @@ Date      : 1968
 Rank      : 14306
 Title     : 
 Author    : M. HANSEN/K. ANDERKO/
-Reference : GMELINS HANDBUCH DER ANORGANISCHEN CHEMIEN SYSTEM N°30, P. 300, VERLAG CHEMIE, G.M.B.H., BERLIN, 1932.
+Reference : GMELINS HANDBUCH DER ANORGANISCHEN CHEMIEN SYSTEM NÂ°30, P. 300, VERLAG CHEMIE, G.M.B.H., BERLIN, 1932.
 Keyword   : Ba-C/
 Date      : 1932
 
 Rank      : 14395
 Title     : 
 Author    : Magnus A.
-Reference : Habilitationshschrift, Eberhard-Karls Universitat, Tübingen,  1910
+Reference : Habilitationshschrift, Eberhard-Karls Universitat, TÃ¼bingen,  1910
 Keyword   : Mg
 Date      : 1910
 
@@ -1772,7 +1772,7 @@ Date      : 1962
 Rank      : 15465
 Title     : 
 Author    : R.P. ELLIOTT/
-Reference : IIT RESEARCH INSTITUTE, ARF-2200-12, FINAL REPORT ON U.S. AT. ENERGY COMM. CONTRACR AT (11-1)-578, PROJECT AGREEMENT N°.4, JUNE, 45PP.,1961.
+Reference : IIT RESEARCH INSTITUTE, ARF-2200-12, FINAL REPORT ON U.S. AT. ENERGY COMM. CONTRACR AT (11-1)-578, PROJECT AGREEMENT NÂ°.4, JUNE, 45PP.,1961.
 Keyword   : B-C/
 Date      : 1961
 
@@ -1884,7 +1884,7 @@ Date      : 1965
 Rank      : 15529
 Title     : 
 Author    : Braun M.
-Reference : Inaugural Dissertation, Univ. of Koln, Köln.  (1964)
+Reference : Inaugural Dissertation, Univ. of Koln, KÃ¶ln.  (1964)
 Keyword   : Fe
 Date      : 1964
 
@@ -2737,8 +2737,8 @@ Date      : 1983
 
 Rank      : 66584
 Title     : 
-Author    : Körber, F., Oelsen, W., Lichtenberg, H.
-Reference : KWI Eisenforsch. Düsseldorf, 1937, 19, 156
+Author    : KÃ¶rber, F., Oelsen, W., Lichtenberg, H.
+Reference : KWI Eisenforsch. DÃ¼sseldorf, 1937, 19, 156
 Keyword   : Al-Si
 Date      : 1937
 
@@ -2759,7 +2759,7 @@ Date      : 1966
 Rank      : 68775
 Title     : 
 Author    : T.F. Smith/N.E. Phillips
-Reference : Les Proprietés Physiques des Solides Sous Pression, Colloq. Intern. du Centre Rech. Sci. No. 188, Grenoble, 1969.  (1970)
+Reference : Les ProprietÃ©s Physiques des Solides Sous Pression, Colloq. Intern. du Centre Rech. Sci. No. 188, Grenoble, 1969.  (1970)
 Keyword   : U
 Date      : 1970
 
@@ -3228,7 +3228,7 @@ Date      : 1966
 Rank      : 76010
 Title     : 
 Author    : Martin H. A.
-Reference : Ph. D. Thesis, Univ. of Köln, as quoted by F. Krauss. (1958)
+Reference : Ph. D. Thesis, Univ. of KÃ¶ln, as quoted by F. Krauss. (1958)
 Keyword   : Cr
 Date      : 1958
 
@@ -4410,7 +4410,7 @@ Date      : 1966
 
 Rank      : 80690
 Title     : 
-Author    : O.V. Lounasmaa/L. J. Sundström
+Author    : O.V. Lounasmaa/L. J. SundstrÃ¶m
 Reference : Private Communication to Hultgren. (1966)
 Keyword   : Ho
 Date      : 1966
@@ -6091,7 +6091,7 @@ Date      : 1914
 Rank      : 85121
 Title     : 
 Author    : W. Nernst/F. Schwers
-Reference : Sitzber. König preuss. Akad. Wiss. , 1, 355-70.  (1914)
+Reference : Sitzber. KÃ¶nig preuss. Akad. Wiss. , 1, 355-70.  (1914)
 Keyword   : Mg/Si
 Date      : 1914
 
@@ -6146,7 +6146,7 @@ Date      : 1964
 
 Rank      : 87597
 Title     : 
-Author    : G.I. Dolivo-Dobrovol’skaya/V.V. Zhdanova/V.P. Sergeev
+Author    : G.I. Dolivo-Dobrovolâ€™skaya/V.V. Zhdanova/V.P. Sergeev
 Reference : Sov. Phys.- Solid State, 1973, 15, 933-935
 Keyword   : Ge
 Date      : 1973
@@ -6475,7 +6475,7 @@ Date      : 1963
 
 Rank      : 90535
 Title     : 
-Author    : J.C. Mathieu, B. Jounel, P. Desré, E Bonnier.
+Author    : J.C. Mathieu, B. Jounel, P. DesrÃ©, E Bonnier.
 Reference : Thermodyn. Nucl. Mater. Symp., Vienna, 1968, 767
 Keyword   : Al-Si
 Date      : 1968
@@ -7042,7 +7042,7 @@ Date      : 1968
 
 Rank      : 91709
 Title     : 
-Author    : P.J. Desré/D. T. Hawkins/R. Hultgren
+Author    : P.J. DesrÃ©/D. T. Hawkins/R. Hultgren
 Reference : Trans. Met. Soc. AIME, 1968, 242, 1231-1232
 Keyword   : Tl
 Date      : 1968
@@ -8113,7 +8113,7 @@ Date      : 1911
 
 Rank      : 94163
 Title     : 
-Author    : Brönsted J. N.
+Author    : BrÃ¶nsted J. N.
 Reference : Z. Elektrochem., 1912, 18, 714-717
 Keyword   : Hg
 Date      : 1912
@@ -8225,7 +8225,7 @@ Date      : 1934
 
 Rank      : 94687
 Title     : 
-Author    : F. Förster/G. Tschentke
+Author    : F. FÃ¶rster/G. Tschentke
 Reference : Z. Metallkde., 1940, 32, 191-195
 Keyword   : Cu/Sn/Bi/Zn
 Date      : 1940
@@ -8358,7 +8358,7 @@ Date      : 1952
 
 Rank      : 95969
 Title     : 
-Author    : H. Braune/O. Möller
+Author    : H. Braune/O. MÃ¶ller
 Reference : Z. Naturforsch. A, 1954, 9, 210-217
 Keyword   : S
 Date      : 1954
@@ -8547,7 +8547,7 @@ Date      : 1906
 
 Rank      : 96243
 Title     : 
-Author    : C. Füchtbauer/H. Bartels
+Author    : C. FÃ¼chtbauer/H. Bartels
 Reference : Z. Phys., 1921, 4, 337-342
 Keyword   : Cs
 Date      : 1921
@@ -8575,7 +8575,7 @@ Date      : 1923
 
 Rank      : 96247
 Title     : 
-Author    : E. Grüneisen/E. Goens
+Author    : E. GrÃ¼neisen/E. Goens
 Reference : Z. Phys., 1924, 26-27, 250-273
 Keyword   : Cd/Zn
 Date      : 1924
@@ -8659,7 +8659,7 @@ Date      : 1899
 
 Rank      : 96272
 Title     : 
-Author    : Brönsted J. N.
+Author    : BrÃ¶nsted J. N.
 Reference : Z. Phys. Chem., 1906, 55, 371-382
 Keyword   : S
 Date      : 1906

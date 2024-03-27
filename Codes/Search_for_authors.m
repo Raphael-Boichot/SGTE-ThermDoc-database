@@ -38,7 +38,7 @@ while ~feof(fid)
         empty=1;
 
         for j=1:1:nargin
-            phrase=varargin{j};
+            phrase=upper(varargin{j});
             if not(isempty(strfind(author,phrase)))
                 empty=0;
             end

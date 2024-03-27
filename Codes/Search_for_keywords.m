@@ -36,14 +36,14 @@ while ~feof(fid)
         null=fgets(fid);
         date=fgets(fid);
         empty=1;
-        
+
         for j=1:1:nargin
-            phrase=varargin{j};
+            phrase=upper(varargin{j});
             if not(isempty(strfind(title,phrase)))
                 empty=0;
             end
         end
-        
+
         if empty==0
             match=match+1;
             fwrite(out,['Rank      : ',num2str(counter)]);
