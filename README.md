@@ -30,7 +30,7 @@ Any element can be added to the list. Inquiry is not case sensitive. The more th
 Search_for_elements('Mo')       %search for pure aluminium metal only
 Search_for_elements('Mg','Al')  %search for Mg-Al binary only
 ```
-The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from 2005), may be programmed on request.
+The current version of the code does not allow to refine an enquiry (like papers about Mg-Al binaries from a given author), may be programmed on request.
 
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
@@ -42,7 +42,7 @@ Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium
 ```
 The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on.
 
-Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading. These simple commands must cover 99% of the use of the database.
+Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the use of the database.
 
 ## Database maintenance
 
