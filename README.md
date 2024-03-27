@@ -25,15 +25,15 @@ Here are some example of commands that can be used:
 Search_for_elements('Mo','Mg','Al')
 ```
 ->extract Mo-Mg-Al ternaries related papers. Any element can be added to the list. Inquiry is case sensitive, MO, MG and AL are not allowed as command argument. The more the elements, the slower the search as any possible combination must be assessed.
-```
+```matlab
 Search_for_authors('CHATILLON','NUTA')
 ```
  ->extract papers containing Chatillon OR Nuta as authors, authors must be entered in UPPERCASE as arguments.
-```
+```matlab
 Search_for_years('1914','1915','1916','1917','1918') 
 ```
 ->extract papers all papers referenced between 1914 and 1918.
-```
+```matlab
 Search_for_keywords('PLUTONIUM','OSMIUM') 
 ```
 ->extract papers containing Plutonium OR Osmium in the title, keywords must be entered in UPPERCASE as arguments.
