@@ -1,7 +1,7 @@
 ![](SGTE.gif)
 
-# SGTE ThermDoc database and extraction tools
-SGTE ThermDoc Datatabase and extraction tools for finding references about thermodynamical properties of multinaries
+# SGTE ThermDoc database and exploration tools
+SGTE ThermDoc Datatabase and exploration tools for finding references about thermodynamical properties of multinaries
 
 ## Installation
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
