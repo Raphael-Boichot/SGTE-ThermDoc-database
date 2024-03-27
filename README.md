@@ -8,7 +8,7 @@ SGTE ThermDoc Datatabase and exploration tools for finding references about ther
 
 SGTE is an international consortium created more than 40 years ago. SGTE focuses on providing physically validated thermochemical databases to be used by computational thermochemistry software tools. General databases on unaries, compounds, solutions are created and maintained as well as new databases dedicated to specific target applications meeting global challenges such as e-mobility, energy generation and conversion as well as life sciences are developed. 
 
-The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to 2024 formatted in order to easily find data on multinaries and updated every year by leading members of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools with the maximum number of researcher around the world.
+The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to 2024 formatted in order to easily find data on multinaries and updated every year by leading members of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools, with the maximum number of researchers around the world.
 
 ## Installation
 
