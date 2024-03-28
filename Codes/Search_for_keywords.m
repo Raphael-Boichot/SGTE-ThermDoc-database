@@ -1,12 +1,13 @@
 function []=Search_for_keywords(varargin)
 warning ('off','all');
 database_name='./Service_folder/Source_database/Sorted_database.bib';
-s=dir(database_name);
-database_size=s.bytes;
 fid = fopen(database_name,'r');
 identifier=[];
 for j=1:1:nargin
     identifier=[identifier,'-',varargin{j}];
+end
+for j=1:1:nargin
+    varargin{j}=upper(remove_accents_from_string(varargin{j}));
 end
 output_file=['./Search_results/',identifier(2:end),'.txt'];
 out = fopen(output_file,'w');
@@ -35,16 +36,16 @@ while ~feof(fid)
         cle=fgets(fid);
         null=fgets(fid);
         date=fgets(fid);
-        empty=1;
+        count=0;
 
         for j=1:1:nargin
-            phrase=upper(varargin{j});
-            if not(isempty(strfind(title,phrase)))
-                empty=0;
+            phrase=varargin{j};
+            if not(isempty(strfind(upper(title),phrase)))
+                count=count+1;
             end
         end
 
-        if empty==0
+        if count==nargin
             match=match+1;
             fwrite(out,['Rank      : ',num2str(counter)]);
             fwrite(out,char(13));

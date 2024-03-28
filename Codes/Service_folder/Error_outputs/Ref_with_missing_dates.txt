@@ -1,3 +1,10 @@
+Rank      : 5702
+Title     : 
+Author    : Naccari A.
+Reference : Atti. Acad. Sci. Torino, 1887-8, 23, 107-126
+Keyword   : Cd/Ni
+Date      : 1887-8
+
 Rank      : 11874
 Title     : 
 Author    : Holetzko H.

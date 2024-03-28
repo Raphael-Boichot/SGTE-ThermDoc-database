@@ -20,7 +20,7 @@ while ~feof(fid)
         cle=fgets(fid);
         null=fgets(fid);
         date=fgets(fid);
-        if length(date)<3
+        if length(date)<4 || length(date)>6 % fact empty OR ill formatted, but I can fix ill formatted dates
             empty=1;
         end
         if empty==1

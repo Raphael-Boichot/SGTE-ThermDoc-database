@@ -1,0 +1,247 @@
+************Search results for /Mg-Al/ system************
+
+Rank      : 618
+Title     : Estimation of Component Activities and Molar Excess Gibbs Energy of 19 Binary Liquid Alloys from Partial Pair Distribution Functions in Literature
+Author    : Chunlong Wang/Xiumin Chen/Dongping Tao
+Reference : Metals, 2023, 13, 5, 996; https://doi.org/10.3390/met13050996
+Keyword   : Al-Au/Al-Cu/Al-Co/Al-Ge/Al-In/Al-Mg/Al-Si/Al-Sn/Bi-Pb/Co-Ni/Cs-K/Cu-Fe/Cu-Mg/Cu-Sb/Cu-Zr/Fe-Ni/K-Na/Mg-Si/Mg-Zn/
+Date      : 2023
+
+Rank      : 2860
+Title     : Thermodynamic stabilization of nanocrystalline aluminum
+Author    : Jacob Hohl/Pankaj Kumar/Mano Misra/Pradeep Menezes/Leslie T. Mushongera
+Reference : J. Mater. Sci., 2021, 56, 26, 14611-14623; 10.1007/s10853-021-06224-2
+Keyword   : Al/Al-Mg/Al-La/Al-Si/
+Date      : 2021
+
+Rank      : 3567
+Title     : Enthalpy of formation of binary solid and liquid Mg alloys - Comparison of Miedema-model calculations with data reported in literature
+Author    : R. Boom/F.R. de Boer
+Reference : CALPHAD, 2020, 68, 101647; 10.1016/j.calphad.2019.101647
+Keyword   : Ag-Mg/Al-Mg/As-Mg/Au-Mg/B-Mg/Ba-Mg/Be-Mg/Bi-Mg/C-Mg/Ca-Mg/Cd-Mg/Ce-Mg/Co-Mg/Cr-Mg/Cs-Mg/Cu-Mg/Dy-Mg/Er-Mg/Eu-Mg/Fe-Mg/Ga-Mg/Gd-Mg/Ge-Mg/Hf-Mg/Hg-Mg/Ho-Mg/In-Mg/Ir-Mg/K-Mg/La-Mg/Li-Mg/Lu-Mg/Mg-Mn/Mg-Mo/Mg-N/Mg-Na/Mg-Nb/Mg-Nd/Mg-Ni/Mg-Os/Mg-P/Mg-Pb/Mg-Pd/Mg-Pm/Mg-Pr/Mg-Pt/Mg-Pu/Mg-Rb/Mg-Re/Mg-Rh/Mg-Ru/Mg-Sb/Mg-Sc/Mg-Si/Mg-Sm/Mg-Sn/Mg-Sr/Mg-Tb/Mg-Tc/Mg-Th/Mg-Ti/Mg-Tl/Mg-Tm/Mg-U/Mg-V/Mg-W/Mg-Y/Mg-Yb/Mg-Zn/Mg-Zr/
+Date      : 2020
+
+Rank      : 5817
+Title     : Atomic cluster structures, phase stability and physicochemical properties of binary Mg-X (X= Ag, Al, Ba, Ca, Gd, Sn, Y and Zn) alloys from ab-initio calculations.
+Author    : Jinglian Du/Ang Zhang/Zhipeng Guo/Manhong Yang/Mei Li/Shoumei Xiong/
+Reference : Intermetallics, 2018, 95, 119-129; 10.1016/j.intermet.2018.02.005
+Keyword   : Ag-Mg/Al-Mg/Ba-Mg/Ca-Mg/Gd-Mg/Mg-Sn/Mg-Y/Mg-Zn/
+Date      : 2018
+
+Rank      : 6376
+Title     : A Thermodynamic Study on the Effect of Solute on the Nucleation Driving Force, Solid-Liquid Interfacial Energy, and Grain Refinement of Al Alloys
+Author    : Y. Xu/D. Zhao/Y. Li/
+Reference : Metall. Mater. Trans. A, 2018, 49, 5, 1770-1781; 10.1007/s11661-018-4542-2
+Keyword   : Al-Cu/Al-Si/Al-Mg/Al-Ti/Al-Zr/Al-V/
+Date      : 2018
+
+Rank      : 9663
+Title     : Essential Magnesium Alloys Binary Phase Diagrams andTheir Thermochemical Data
+Author    : Mohammad Mezbahul-Islam/Ahmad Omar Mostafa/Mamoun Medraj
+Reference : J. Mater., 2014, 704283; http://dx.doi.org/10.1155/2014/704283
+Keyword   : Mg-Zn/Al-Mg/Mg-Mn/Ca-Mg/Mg-Zn/Mg-Sr/Mg-Y/Mg-Ni/Ce-Mg/Mg-Nd/Cu-Mg/Mg-Sn/
+Date      : 2014
+
+Rank      : 9831
+Title     : Essential Magnesium Alloys Binary Phase Diagrams and Their Thermochemical Data
+Author    : Mohammad Mezbahul-Islam/Ahmad Omar Mostafa/Mamoun Medraj
+Reference : Journal of Materials, 2014, 704283; http://dx.doi.org/10.1155/2014/704283
+Keyword   : Mg-Y/Al-Mg/Mg-Zn/Mg-Mn/Ca-Mg/Mg-Sr/Mg-Ni/Ce-Mg/Mg-Nd/Cu-Mg/Mg-Sn/
+Date      : 2014
+
+Rank      : 10107
+Title     : The first principles investigation of lattice dynamical and thermodynamical properties of Al2Ca and Al2Mg compounds in the cubic Laves structure
+Author    : E. Deligoz/K. Colakoglu/H. Ozisik/Y.O. Cifti
+Reference : Comput. Mater. Sci., 2013, 68, 27-31; 10.1016/j.commatsci.2012.10.006
+Keyword   : Al-Ca/Al-Mg/
+Date      : 2013
+
+Rank      : 11314
+Title     : THERMODYNAMIC PROPERTIES OF LAVES PHASES IN THE MG-AL-CA SYSTEM AT FINITE TEMPERATURE FROM FIRST-PRINCIPLES.
+Author    : ZHANG H./SHANG S.-L./WANG Y./CHEN L.-Q./LIU Z.-K./
+Reference : Intermetallics, 2012, 22, 17-23; 10.1016/j.intermet.2011.08.019
+Keyword   : Al-Ca/Al-Mg/Ca-Mg/
+Date      : 2012
+
+Rank      : 12431
+Title     : FIRST-PRINCIPLES CALCULATIONS OF BINARY AL COMPOUNDS: ENTHALPIES OF FORMATION AND ELASTIC PROPERTIES
+Author    : JIONG WANG/SHUN-LI SHANG/YI WANG/ZHI-GANG MEI/YONG-FENG LIANG/YONG DU/ZI-KUI LIU/
+Reference : CALPHAD, 2011, 35, 4, 562-573; 10.1016/j.calphad.2011.09.009
+Keyword   : Al-Co/Al-Cu/Al-Hf/Al-Mg/Al-Mn/Al-Ni/Al-Sr/Al-V/Al-Ti/Al-Y/Al-Zr/
+Date      : 2011
+
+Rank      : 13661
+Title     : GENERALIZED PLANNER FAULT ENERGIES, TWINNING AND DUCTILITY OF L12 TYPE AL3SC AND AL3MG
+Author    : JIAN WU/LI WEN/BI-YU TANG/LI-MING PENG/WEN-JIANG DING/
+Reference : Solid State Sci., 2011, 13, 1, 120-125; 10.1016/j.solidstatesciences.2010.10.022
+Keyword   : Al-Sc/Al-Mg/
+Date      : 2011
+
+Rank      : 26651
+Title     : AB-INITIO CALCULATION OF ENTHALPIES OF FORMATION OF INTERMETALLIC COMPOUNDS AND ENTHALPIES OF MIXING OF SOLID SOLUTIONS.
+Author    : COLINET C./
+Reference : Intermetallics, 2003, 11, 11-12, 1095-1102; 10.1016/S0966-9795(03)00147-X
+Keyword   : Ag-Al/Al-Co/Al-Cr/Al-Cu/Al-Fe/Al-Hf/Al-La/Al-Li/Al-Mg/Al-Mn/Al-Nb/Al-Ni/Al-Pd/Al-Rh/Al-Ru/Al-Sc/Al-Sr/Al-Ta/Al-Tc/Al-Th/Al-Ti/Al-V/Al-Y/Al-Zn/Al-Zr/
+Date      : 2003
+
+Rank      : 39108
+Title     : INVESTIGATION OF THE AL-MG-SI SYSTEM BY EXPERIMENTS AND THERMODYNAMIC CALCULATIONS.
+Author    : FEUFEL H./GODECKE T./LUKAS H.L./SOMMER F./
+Reference : J. Alloys Compounds, 1997, 247, 1-2, 31-42; https://doi.org/10.1016/S0925-8388(96)02655-2
+Keyword   : Al-Mg-Si/Al-Mg/Al-Si/Mg-Si/
+Date      : 1997
+
+Rank      : 41650
+Title     : SOLIDIFICATION CURVES OF AL-CU, AL-MG AND AL-CU-MG ALLOYS.
+Author    : S.W. CHEN/C.C. HUANG/
+Reference : Acta Mater., 1996, 44, 5, 1955-1966; 10.1016/1359-6454(95)00313-4
+Keyword   : Al-Cu/Al-Mg/Al-Cu-Mg/
+Date      : 1996
+
+Rank      : 49316
+Title     : PHASE TRANSFORMATIONS IN BINARY AND TERNARY AL-MG-LI ALLOYS.
+Author    : VERTOGRADSKII V.A./PARKHOMENKO N.A./BEL'SKAYA I.N./
+Reference : Metally, 1995, 1, 148-157
+Keyword   : Al-Li/Al-Mg/Al-Li-Mg/
+Date      : 1995
+
+Rank      : 53505
+Title     : THERMODYNAMIC ANALYSIS OF ALUMINUM-MAGNESIUM-SILICON-CARBON-OXYGEN INTERACTIONS IN ALUMINUM MATRIX COMPOSITES.
+Author    : BERUBE D./SCHUMAKER P./BALE C.W./
+Reference : DEV.APPL.CERAM.NEW MET.ALLOYS, PROC.INT.SYMP., 37-50 (1993).
+Keyword   : Al-C-Mg-O-Si/Al-Mg/Mg-Si/Al-Si/Al-C/C-Si/C-Mg/
+Date      : 1993
+
+Rank      : 63518
+Title     : ACTIVITIES IN LIQUID SODIUM-POTASSIUM AND ALUMINUM-MAGNESIUM ALLOYS ESTIMATED USING THE PSEUDOPOTENTIAL THEORY OF METALS.
+Author    : UENO S./WASEDA Y./JACOB K.T./
+Reference : High Temp. Mater. Proc., 1989, 8, 2, 89-94
+Keyword   : K-Na/Al-Mg/
+Date      : 1989
+
+Rank      : 70375
+Title     : MESURE DES ENTHALPIES DE DISSOLUTION DE MG ET DE CU DANS AL A DILUTION INFINIE ET DE L'ENTHALPIE DE FORMATION DE LA PHASE S(AL2CUMG)  .
+Author    : NOTIN M./DIRAND M./BOUAZIZ D./HERTZ J./
+Reference : Comptes Rendus Acad. Sci., Ser. II, 1986, 302, 2, 63-70
+Keyword   : Al-Cu-Mg/Al-Mg/Cu-Mg/
+Date      : 1986
+
+Rank      : 71331
+Title     : The Surface Tension of Liquid Pure Aluminium and Aluminium- Magnesium Alloy .
+Author    : GARCIA-CORDOVILLA C./LOUIS E./PAMIES A./
+Reference : J. Mater. Sci., 1986, 21, 8, 2787-2792; 10.1007/BF00551490
+Keyword   : Al/Al-Mg/
+Date      : 1986
+
+Rank      : 73018
+Title     : ESTIMATION DE LA SOLUBILITE MUTUELLE DES COMPOSANTS D'UN SYSTEME BINAIRE .
+Author    : KORABLEV G.A./VOROBEV YU.P./
+Reference : Izv. Akad. Nauk SSSR, Metally, 1985, 6, 190-193
+Keyword   : K-Na/Ca-Li/Al-Mg/
+Date      : 1985
+
+Rank      : 73920
+Title     : NEW EUTECTIC ALLOYS AND THEIR HEATS OF TRANSFORMATION .
+Author    : FARKAS D./BIRCHENALL C.E./
+Reference : Metall. Trans. A, 1985, 16, 3, 323-328
+Keyword   : Mg-Si/Al-Si/Al-Mg-Si/Al-Cu/Al-Cu-Si/Ca-Mg/Al-Cu-Mg/Cu-Mg-Zn/Al-Mg/Al-Mg-Zn/Mg-Zn/
+Date      : 1985
+
+Rank      : 73997
+Title     : THE FORMATION OF METASTABLE PHASES AND METASTABLE PHASE DIAGRAMS .
+Author    : MIROSHNICHENKO I.S./
+Reference : NAUKA, MOSCOW, USSR, 1985, STABLE AND METASTABLE PHASE EQUILIBRIA IN METALLIC SYSTEMS, 151-157.
+Keyword   : Cu-Sb/Bi-Sb/Ge-Si/Al-Mg/Ag-Cu/Al-Cu/
+Date      : 1985
+
+Rank      : 74001
+Title     : A DIAGRAM OF NONEQUILIBRIUM COMPONENT SOLUBILITY IN BINARY ALLOYS .
+Author    : BADAEV V.G./GRISHINA N.P./
+Reference : NAUKA, MOSCOW, USSR, 1985, STABLE AND METASTABLE PHASE EQUILIBRIA IN METALLIC SYSTEMS, 185-190.
+Keyword   : Al-Mn/Al-Cu/Al-Si/Al-Mg/Al-Cr/
+Date      : 1985
+
+Rank      : 74586
+Title     : THE DETEMINATION OF THE PARTIAL ENTHALPIES OF MIXING OF ALUMINUM- RICH ALLOY  MELTS BY SOLUTION CALORIMETRY .
+Author    : LEE JUNG-JOONG./SOMMER F./
+Reference : Z. Metallkde., 1985, 76, 11, 750-754
+Keyword   : Al-Au/Al-Ba/Al-Cu/Al-Fe/Al-Gd/Al-Ge/Al-Mg/Al-La/Al-Li/Al-Pb/Al-Pd/Al-Sb/Al-Y/
+Date      : 1985
+
+Rank      : 74935
+Title     : VAPORIZATION FROM MAGNESIA AND ALUMINA MATERIALS .
+Author    : SATA TOSHIYUKI./SASAMOTO TADASHI./
+Reference : Adv. Ceram., 1984, 10(STRUCT.PROP. MGO AL2O3 CERAM.), 541-552.
+Keyword   : Mg-O/Al-Mg/
+Date      : 1984
+
+Rank      : 74941
+Title     : INFLUENCE OF HEAT TREATMENT ON RAPIDLY SOLIDIFIED ALUMINUM ALLOYS .
+Author    : ANANTHARAMAN T.R./
+Reference : ALLUMINIO, 1984, 53, (3), 5, 7-9, 12, ISSN 0002-6212.
+Keyword   : Al-Cu/Al-Mg/Al-Ni/Al-Pd/Al-Pt/Al-Ru/Al-W/
+Date      : 1984
+
+Rank      : 80797
+Title     : MELTING EQUILIBRIUMS OF MAGNESIUM-LITHIUM-ALUMINUM ALLOYS . PART 4 . MELTING EQUILIBRIUMS OF THE ALUMINUM-MAGNESIUM BINARY SYSTEM .
+Author    : SCHUERMANN E./VOSS H.J./
+Reference : Giessereiforschung, 1981, 33, 2, 43-46
+Keyword   : Al-Li-Mg/Al-Mg/
+Date      : 1981
+
+Rank      : 80802
+Title     : EMPIRICAL ESTIMATION OF THE HENRIAN CONSTANTS OF DILUTE METALLIC SOLUTIONS.
+Author    : O. KUBASCHEWSKI/
+Reference : High Temp. - High Press., 1981, 13, 4, 435-440
+Keyword   : Ag-Au/Ag-Cd/Ag-Ge/Ag-Ni/Ag-Pb/Al-Fe/Al-Sn/Al-Zn/Au-Cd/Au-Cu/Au-Fe/Au-Ni/Au-Pd/Au-Pt/Ag-Bi/Al-Bi/Bi-Cd/Bi-Cu/Bi-In/Bi-Na/Bi-Pb/Bi-Sn/Bi-Tl/Bi-Zn/Cd-Mg/Cd-Na/Cd-Pb/Cd-Sb/Cd-Tl/Cd-Zn/Co-Cr/Co-Ni/Co-Si/Cr-Fe/Ag-Cu/Al-Cu/Cu-Ni/Cu-Pb/Cu-Sn/Cu-Tl/Cu-Zn/C-Fe/Cu-Fe/Fe-Mn/Fe-Ni/Fe-Si/Al-Ga/Cd-Ga/Ga-Zn/Bi-Hg/Cd-Hg/Cs-Hg/Hg-In/Hg-K/Hg-Na/Hg-Pb/Hg-Zn/Al-In/Cd-In/Cu-In/In-Na/In-Sb/In-Tl/In-Zn/Al-Mg/In-Mg/C-Mo/Cr-Mo/K-Na/Cr-Ni/Mn-Ni/Ni-Si/Al-Pb/Fe-Pb/In-Pb/K-Pb/Mg-Pb/Na-Pb/Pb-Tl/Pb-Zn/Cu-Pd/Fe-Pd/Ni-Pd/Cu-Pt/Pd-Pt/Ag-Sb/Sb-Sn/Ag-Sn/Cd-Sn/Cr-Sn/Hg-Sn/In-Sn/Sn-Tl/Sn-Zn/Ag-Tl/K-Tl/Mg-Tl/Na-Tl/Al-Zn/
+Date      : 1981
+
+Rank      : 82375
+Title     : PHASE EQUILIBRIUMS IN THE SOLID CONDITION OF THE ALUMINUM- RSP. THE MAGNESIUM-RICH CORNER OF THE TERNARY SYSTEM OF ALUMINUM-LITHIUM- MAGNESIUM . PART 3 . PHASE EQUILIBRIUMS IN THE SOLID CONDITION OF THE  BINARY SYSTEM OF ALUMINUM-MAGNESIUM .
+Author    : SCHUERMANN E./GEISSLER I.K./
+Reference : Giessereiforschung, 1980, 32, 4, 167-170
+Keyword   : Al-Li-Mg/Al-Mg/
+Date      : 1980
+
+Rank      : 83109
+Title     : DISTRIBUTION OF A SOLUTE AT THE SOLID-LIQUID INTERFACE IN BINARY ALUMINUMCOPPER AND ALUMINUM-MAGNESIUM SYSTEMS .
+Author    : KOVACOVA K./
+Reference : Phys. Stat. Solidi (a), 1980, 57, 2, K97-K99
+Keyword   : Al-Cu/Al-Mg/
+Date      : 1980
+
+Rank      : 88176
+Title     : THERMAL ANALYSIS AND STRUCTURAL CHARACTERIZATION OF ALUMINUM ALLOYS .
+Author    : FORTINA G./
+Reference : ALLUMINIO, 1976, 45, (4), 204-208.
+Keyword   : Al-Mn/Al-Mg/Al-Mg-Si/
+Date      : 1976
+
+Rank      : 95124
+Title     : Diffusion coefficients in binary aluminum alloys
+Author    : S.N. Singh
+Reference : Scripta Metall., 1970, 4, 2, 147-152; 10.1016/0036-9748(70)90182-1
+Keyword   : Al-Cu/Al-Mg/
+Date      : 1970
+
+Rank      : 96569
+Title     : CHALEURS DE FORMATION DE QUELQUES ALLIAGES DE AL PAR CALORIMETRIE DIFFERENTIELLE.
+Author    : SINVHAL R.C./KHANGAONKAR P.R./
+Reference : Trans. Indian Inst. Met., 1967, 107-110
+Keyword   : Al-Zn/Al-Mg/Al-Cu/Al-Sn/
+Date      : 1967
+
+Rank      : 99704
+Title     : Heat capacity of dilute magnesium-aluminum alloys below 4.2°K
+Author    : Rayne J. A.
+Reference : J. Phys. Chem. Sol., 1958, 7, 2-3, 268-274; 10.1016/0022-3697(58)90272-5
+Keyword   : Mg/Al-Mg/
+Date      : 1958
+
+Rank      : 100967
+Title     : A FURTHER INVESTIGATION OF THE HEAT OF MIXTURE IN MOLTEN METALS.
+Author    : KAWAKAMI M./
+Reference : Sci. Rep. Res. Inst., Tohoku Univ., 1930, 19, 521-549
+Keyword   : Mg-Sn/Bi-Mg/Mg-Pb/Mg-Zn/Pb-Sb/Bi-Sb/Sb-Sn/Cd-Sb/Al-Sn/Al-Zn/Al-Mg/Ag-Bi/Ag-Pb/Ag-Al/Ag-Mg/Ag-Sb/Ag-Sn/Cu-Pb/Bi-Cu/Ag-Cu/Cu-Sb/Cu-Sn/Al-Cu/Au-Cu/Ag-Au/
+Date      : 1930
+

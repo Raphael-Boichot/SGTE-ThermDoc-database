@@ -3,8 +3,6 @@ warning ('off','all');
 order=1:1:nargin;
 database_name='./Service_folder/Source_database/Sorted_database.bib';
 permutations=perms(order);
-s=dir(database_name);
-database_size=s.bytes;
 fid = fopen(database_name,'r');
 identifier=[];
 for j=1:1:nargin
@@ -46,12 +44,12 @@ while ~feof(fid)
             end
             phrase_1=upper([phrase(2:end),'/']);
             if not(isempty(strfind(cle,phrase_1)))
-                if strfind(cle,phrase_1)==1
+                if strfind(upper(cle),phrase_1)==1
                     empty=0;
                 end
             end
             phrase_2=upper(['/',phrase(2:end),'/']);
-            if not(isempty(strfind(cle,phrase_2)))
+            if not(isempty(strfind(upper(cle),phrase_2)))
                 empty=0;
             end
         end

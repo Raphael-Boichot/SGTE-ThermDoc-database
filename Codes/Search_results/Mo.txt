@@ -1,0 +1,485 @@
+************Search results for /Mo/ system************
+
+Rank      : 649
+Title     : Anharmonicity in bcc refractory elements: A detailed ab initio analysis
+Author    : Prashanth Srinivasan/Alexander Shapeev/Jorg Neugebauer/Fritz Kormann/Blazej Grabowski
+Reference : Phys. Rev. B, 2023, 107, 1, 014301; https://doi.org/10.1103/PhysRevB.107.014301
+Keyword   : Nb/Ta/Mo/W/
+Date      : 2023
+
+Rank      : 1453
+Title     : Heat capacity of liquid transition metals obtained with aerodynamic levitation
+Author    : Yifan Sun/Hiroaki Muta/Yuji Ohishi
+Reference : J. Chem. Thermodyn., 2022, 171, 106801; 10.1016/j.jct.2022.106801
+Keyword   : Co/Hf/Ir/Mo/Nb/Rh/Ru/Ti/V/Zr/
+Date      : 2022
+
+Rank      : 5932
+Title     : First principles study of vacancy-solute complexes in vanadium
+Author    : Tingting Zou/Pengbo Zhang/Jijun Zhao/Pengfei Zheng/Jiming Chen
+Reference : J. Alloys Compounds, 2018, 763, 861-866; 10.1016/j.jallcom.2018.06.037
+Keyword   : V/O-V/N-V/Cr/Ti/Fe/Cu/Ni/Nb/Mo/Ta/W/Y/Al/Si/S/P/
+Date      : 2018
+
+Rank      : 6969
+Title     : On the compressibility of liquid metals
+Author    : Yizhak Marcus
+Reference : J. Chem. Thermodyn., 2017, 109, 11-15; 10.1016/j.jct.2016.07.027
+Keyword   : Li/Na/K/Rb/Cs/Be/Mg/Ca/Sr/Ba/Al/Sc/Y/Ti/Zr/Hf/V/Nb/Ta/Cr/Mo/W/Mn/Re/Fe/Ru/Os/Co/Rh/Ir/Ni/Pd/Pt/Cu/Ag/Au/Zn/Cd/Hg/Ga/In/Tl/Ge/Sn/Pb/Sb/Bi/La/Ce/Pr/Nd/Sm/Eu/Gd/Tb/Dy/Ho/Er/Tm/Yb/Lu/Th/U/Pu/
+Date      : 2017
+
+Rank      : 7405
+Title     : A comprehensive first-principles study of pure elements: Vacancy formation and migration energies and self-diffusion coefficients.
+Author    : Shun-Li Shang/Bi-Cheng Zhou/William Y. Wang/Austin J. Ross/Xuan L. Liu/Yong-Jie Hu/Hua-Zhi Fang/Yi Wang/Zi-Kui Liu/
+Reference : Acta Mater., 2016, 109, 128-141; 10.1016/j.actamat.2016.02.031
+Keyword   : Ac/Ag/Al/As/At/Au/B/Ba/Be/Bi/Br/C/Ca/Cd/Ce/Co/Cr/Cs/Cu/Dy/Er/Eu/Fe/Fr/Ga/Gd/Ge/Hf/Hg/Ho/I/In/Ir/K/La/Li/Lu/Mg/Mn/Mo/Na/Nb/Nd/Ni/Np/Os/P/Pa/Pb/Pd/Po/Pr/Pt/Ra/Rb/Re/Rh/Ru/S/Sb/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Th/Ti/Tl/Tm/U/V/W/Y/Yb/Zn/Zr/
+Date      : 2016
+
+Rank      : 7937
+Title     : Zero-Kelvin Compression Isotherms of the Elements 1 = Z = 92 to 100 GPa
+Author    : David A. Young/Hyunchae Cynn/Per Soderlind/Alexander Landa
+Reference : J. Phys. Chem. Ref. Data, 2016, 45, 4, 043101; 10.1063/1.4963086
+Keyword   : H/He/Li/Be/B/C/N/O/F/Ne/Na/Mg/Al/Si/P/S/Cl/Ar/K/Ca/Sc/Ti/V/Cr/Mn/Fe/Co/Ni/Cu/Zn/Ga/Ge/As/Se/Br/Kr/Rb/Sr/Y/Zr/Nb/Mo/Tc/Ru/Rh/Pd/Ag/Cd/In/Sn/Sb/Te/I/Xe/Cs/Ba/Lu/Hf/Ta/W/Re/Os/Ir/Pt/Au/Hg/Tl/Pb/Bi/Po/At/Rn/Fr/Ra/La/Ce/Pr/Nd/Pm/Sm/Eu/Gd/Tb/Dy/Ho/Er/Tm/Yb/Ac/Th/Pa/U/
+Date      : 2016
+
+Rank      : 9129
+Title     : Structures of the elements - crystallography and art.
+Author    : W. B. Holzapfel/
+Reference : Acta Cryst. B, 2014, 70, 3, 429-435; 10.1107/S2052520614005277
+Keyword   : Ag/Al/Ar/As/Au/B/Ba/Be/Bi/Br/C/Ca/Cd/Ce/Cl/Co/Cr/Cs/Cu/Dy/Er/Eu/F/Fe/Ga/Gd/Ge/H/He/Hf/Hg/Ho/I/In/Ir/K/Kr/La/Li/Lu/Mg/Mn/Mo/N/Na/Nb/Nd/Ne/Ni/O/Os/P/Pb/Pd/Pm/Po/Pr/Pt/Rb/Re/Rh/Ru/S/Sb/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Ti/Tl/Tm/V/W/Xe/Y/Yb/Zn/Zr/
+Date      : 2014
+
+Rank      : 9608
+Title     : Structural transformations at high pressure in the refractory metals (Ta, Mo, V)
+Author    : O.M. Krasilnikov/Yu.Kh. Vekilov/A.V. Lugovskoy/I.Yu. Mosyagin/M.P. Belov/N.G. Bondarenko
+Reference : J. Alloys Compounds, 2014, 586S, S242-S245; 10.1016/j.jallcom.2013.05.151
+Keyword   : Ta/Mo/V/
+Date      : 2014
+
+Rank      : 10084
+Title     : Assessment of Thermal Expansion Coefficient for Pure Metals
+Author    : BO ZHANG/XIAOBO LI/DAN LI/
+Reference : CALPHAD, 2013, 43, 7-17; 10.1016/j.calphad.2013.08.006
+Keyword   : Cu/Ag/Al/Au/Be/Bi/Ca/Cd/Co/Cr/Fe/Ge/Hf/In/Ir/Li/Mg/Mn/Mo/Na/Nb/Ni/Os/Pb/Pd/Pt/Re/Rh/Ru/Sb/Sc/Si/Sn/Ta/Th/Ti/V/W/Y/Yb/Zn/Zr/
+Date      : 2013
+
+Rank      : 10493
+Title     : Pressure Dependence of Fusion Entropy and Fusion Volume of Six Metals
+Author    : Qi-Long Cao/Pan-Pan Wang/Duo-Hui Huang/Qiang Li/Fan-Hou Wang/Ling Cang Cai
+Reference : J. Chem. Eng. Data, 2013, 58, 1, 64-70
+Keyword   : Al/Cu/Ag/Mg/Ta/Mo/
+Date      : 2013
+
+Rank      : 12380
+Title     : The Thermodynamics of several elements at High Pressure
+Author    : A. KARBASI/S.K. SAXENA/R. HRUBIAK/
+Reference : CALPHAD, 2011, 35, 1, 72-81; 10.1016/j.calphad.2010.11.007
+Keyword   : V/Nb/Ta/Mo/W/Pd/Pt/Cu/Ag/Au/
+Date      : 2011
+
+Rank      : 21749
+Title     : The Absolute Thermoelectric Power of Chromium, Molybdenum, and Tungsten
+Author    : HORST BRODOWSKY/QIYUAN CHEN/ZHONGLIANG XIAO/ZHOULAN YIN
+Reference : Int. J. Mater. Res., 2006, 97, 9, 1279-1284; 10.3139/146.101370
+Keyword   : Cr/Mo/W/
+Date      : 2006
+
+Rank      : 32910
+Title     : Theoretical study of the structural properties and thermodynamic stability of the omega phase in the 4d-transition series
+Author    : J.E. Garces/G.B. Grad/A. Fernandez Guillermet/S.J. Sferco
+Reference : J. Alloys Compounds, 1999, 289, 1-2, 1-10; https://doi.org/10.1016/S0925-8388(99)00161-9
+Keyword   : Y/Zr/Nb/Mo/Tc/Ru/Rh/Pd/Ag/
+Date      : 1999
+
+Rank      : 35621
+Title     : Integral Thermodynamic Properties of Tungsten and Molybdenum in Effective Potential Approach
+Author    : D. FUKS/
+Reference : Solid State Commun., 1999, 111, 5, 269-274
+Keyword   : W/Mo/
+Date      : 1999
+
+Rank      : 41875
+Title     : Rhenium, Molybdenum, and Uranium in Groundwater from the Southern Great Basin, USA : Evidence For Conservative Behavior.
+Author    : V.F. HODGE/K.H. JOHANNESSON/K.J. STETZENBACH/
+Reference : Geochim. Cosmochim. Acta, 1996, 60, 17, 3197-3214
+Keyword   : Re/Mo/U/
+Date      : 1996
+
+Rank      : 49131
+Title     : THERMAL STABILITY OF NANOSTRUCTURED MATERIALS TI, TI(X)N, MO AND MO2N.
+Author    : Y. ZHU/M. TAN/
+Reference : Mater. Sci. Eng. A, 1995, 201, 1-2, L1-L4
+Keyword   : Ti/N-Ti/Mo/Mo-N/
+Date      : 1995
+
+Rank      : 55955
+Title     : Thermodynamic Data for Fifty Reference Elements
+Author    : MCBRIDE B.J./GORDON S./RENO M.A./
+Reference : SCI.TECH.AEROSP.REP., 31, (7), (1993), N.N93-19977.
+Keyword   : Ag/Al/Ar/B/Ba/Be/Br/C/Ca/Cd/Cl/Co/Cr/Cs/Cu/F/Fe/Ge/H/Hg/I/K/Kr/Li/Mg/Mn/Mo/N/Na/Nb/Ne/Ni/O/P/Pb/S/Si/Sn/Sr/Ta/Th/Ti/U/V/W/Xe/Zn/Zr/
+Date      : 1993
+
+Rank      : 56193
+Title     : EVALUATION OF INTERACTION PARAMETERS IN DILUTE LIQUID TERNARY ALLOYS BY A SOLUTION MODEL BASED ON THE FREE VOLUME THEORY.
+Author    : T. TANAKA/N.A. GOKCEN/P.J. SPENCER/Z.J. MORITA/T. IIDA/
+Reference : Z. Metallkde., 1993, 84, 2, 100-105
+Keyword   : Bi/Cd/Ce/Co/Cr/Cu/Fe/In/La/Mn/Mo/Nb/Ni/Pb/Sb/Si/Sn/Ta/Ti/V/W/Zn/Bi-Cd/Bi-Sb/Cd-Sn/In-Sn/Cd-Pb/Pb-Sn/Pb-Sb/Cd-Zn/Sb-Zn/Cr-Fe/Fe-Mn/Fe-Ni/Fe-Sn/Fe-V/Cr-Cu/Cr-Ni/Cr-Sn/Cr-Mn/Mn-Nb/Mn-Si/Mn-V/Bi-In/Bi-Sn/In-Zn/In-Pb/Pb-Zn/Sn-Zn/Cu-Fe/Fe-Mo/Fe-Pb/Fe-Ta/Fe-W/Cr-Pb/Cr-V/La-Mn/Mn-Ni/Mn-Ta/Mn-W/Bi-Pb/Bi-Zn/Cd-Sb/Co-Fe/Fe-La/Fe-Nb/Fe-Si/Fe-Ti/Co-Cr/Cr-Mo/Cr-Si/Co-Mn/Mn-Mo/Mn-Pb/Mn-Ti/Bi-Cd-Pb/Bi-Cd-Zn/Bi-In-Zn/Bi-Pb-Zn/Bi-Sb-Zn/Bi-Sn-Zn/Cd-Pb-Sb/Cd-Pb-Sn/
+Date      : 1993
+
+Rank      : 58021
+Title     : Ultrahigh-pressure structural phase transitions in Cr, Mo, and W
+Author    : John A. Moriarty
+Reference : Phys. Rev. B, 1992, 45, 5, 2004-2014; 10.1103/PhysRevB.45.2004
+Keyword   : Cr/Mo/W/
+Date      : 1992
+
+Rank      : 58028
+Title     : EFFECTIVE PAIR POTENTIAL AND STRUCTURAL PHASE TRANSITIONS OF CHROMIUM, MOLYBDENUM, AND TUNGSTEN
+Author    : SINGH N./
+Reference : Phys. Rev. B, 1992, 46, 1, 90-97; 10.1103/PhysRevB.46.90
+Keyword   : Cr/Mo/W/
+Date      : 1992
+
+Rank      : 58382
+Title     : HIGH PRESSURE-HIGH TEMPERATURE THERMOPHYSICAL MEASUREMENTS ON LIQUID METALS.
+Author    : KASCHNITZ E./POTTLACHER G./
+Reference : TEUBNER-TEXTE PHYS., 26 (PHYSICS OF NONIDEAL PLASMAS), 139-144 (1992).
+Keyword   : C/W/Re/Ta/Mo/Nb/Fe/Ni/Co/Cu/Pb/In/Hg/
+Date      : 1992
+
+Rank      : 58765
+Title     : SGTE data for pure elements
+Author    : A.T. Dinsdale
+Reference : CALPHAD, 1991, 15, 4, 317-425; 10.1016/0364-5916(91)90030-N
+Keyword   : Ag/Al/Am/As/Au/B/Ba/Be/Bi/C/Ca/Cd/Ce/Co/Cr/Cs/Cu/Dy/Er/Eu/Fe/Ga/Gd/Ge/Hf/Hg/Ho/In/Ir/K/La/Li/Lu/Mg/Mn/Mo/Na/Nb/Nd/Ni/Np/Os/P/Pa/Pb/Pd/Pr/Pt/Pu/Rb/Re/Rh/Ru/S/Sb/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Th/Ti/Tl/Tm/U/V/W/Y/Yb/Zn/Zr/
+Date      : 1991
+
+Rank      : 60992
+Title     : Melting Points of the Metallic Elements having the Face-Centered Cubic, Body-Centered Cubic, and Close-Packed Hexagonal Structures.
+Author    : WILLIAMS R.O./
+Reference : Bull. Alloy Phase Diag., 1990, 11, 3, 224-228; 10.1007/BF03029284
+Keyword   : Ag/Al/Au/Ba/Be/C/Ca/Co/Cr/Cs/Cu/Fe/Ga/Ge/Hf/In/Ir/K/Li/Mg/Mn/Mo/Na/Nb/Ni/Os/Pb/Pd/Pt/Rb/Re/Rh/Ru/Sc/Si/Sn/Sr/Ta/Tc/Th/Ti/Tl/V/W/Zr/
+Date      : 1990
+
+Rank      : 61029
+Title     : Erratum to Melting points of the metallic elements having the face-centered cubic, body-centered cubic, and close-packed hexagonal structures
+Author    : R. O. Williams
+Reference : Bull. Alloy Phase Diag., 1990, 11, 5, 421-421; 10.1007/BF02898249
+Keyword   : Ag/Al/Au/Ba/Be/C/Ca/Co/Cr/Cs/Cu/Fe/Ga/Ge/Hf/In/Ir/K/Li/Mg/Mn/Mo/Na/Nb/Ni/Os/Pb/Pd/Pt/Rb/Re/Rh/Ru/Sc/Si/Sn/Sr/Ta/Tc/Th/Ti/Tl/V/W/Zr/
+Date      : 1990
+
+Rank      : 61182
+Title     : Thermochemical Data for Reactor Materials and Fission Products.
+Author    : E.H.P. CORDFUNKE/R.J.M. KONINGS/
+Reference : E.H.P. Cordfunke And R.J.M. Konings, Eds, Elsevier Science Publishers B.V., 1990, Isbn 0 444 88485 8.
+Keyword   : Am/Am-O/Ba/Ba-O/Ba-H-O/Ba-I/Ba-Mo-O/Ba-O-Zr/Ba-O-Pu/Ba-O-U/B/B-O/B-H-O/Cs/Cs-O/Cs-H-O/Cs-I/Cs-Te/Cs-O-Te/B-Cs-O/Cr-Cs-O/Cs-Mo-O/Cs-O-Zr/Cs-O-U/Cs-Na/Eu/Eu-O/Eu-H-O/H/H-O/I/H-I/H-I-O/Kr/La/La-O/H-La-O/Mo/Mo-O/H-Mo-O/I-Mo/I-Mo-O/Nd/Nd-O/H-Nd-O/O/Pd/Pu/O-Pu/Rh/Ru/O-Ru/H-O-Ru/I-Ru/Ru-Te/Na/Na-O/I-Na/Na-Te/Na-O-U/Na-O-Pu-U/Sr/O-Sr/H-O-Sr/I-Sr/O-Sr-Zr/O-Sr-U/Tc/Te/O-Te/H-Te/H-O-Te/I-Te/I-O-Te/Sn/Sn-Te/U/O-U/H-O-U/Pd-U/Rh-U/Ru-U/Xe/Zr/O-Zr/H-O-Zr/I-Zr/Te-Zr/O-U-Zr/
+Date      : 1990
+
+Rank      : 62866
+Title     : AN ANALYSIS OF HIGH TEMPERATURE HEAT CAPACITIES AND ENTROPIES OF FUSION OF CHROMIUM, MOLYBDENUM AND TUNGSTEN.
+Author    : HAJRA J.P./LIN R./FROHBERG M.G./
+Reference : Z. Metallkde., 1990, 81, 5, 341-344
+Keyword   : Cr/Mo/W/
+Date      : 1990
+
+Rank      : 63514
+Title     : Behaviour of Tungsten, Molybdenum, and Alloys inder Unusual Heating Conditions.
+Author    : ECK R./BILDSTEIN H./SIMADER F./STICKLER R./TINZL J./
+Reference : High Temp. - High Press., 1989, 21, 5, 497-505
+Keyword   : W/Mo/Mo-W/
+Date      : 1989
+
+Rank      : 64591
+Title     : Homology of interatomic forces and Debye temperatures in transition metals
+Author    : A Fernandez Guillermet/G Grimvall
+Reference : Phys. Rev. B, 1989, 40, 3, 1521; 10.1103/PhysRevB.40.1521
+Keyword   : Ti/V/Cr/Mn/Fe/Co/Ni/Zr/Nb/Mo/Tc/Ru/Rh/Pd/Hf/Ta/W/Re/Os/Ir/Pt/
+Date      : 1989
+
+Rank      : 65734
+Title     : Heat capacity of transition metals at high temperatures
+Author    : G. K. White
+Reference : Int. J. Thermophys., 1988, 9, 5, 839-848; 10.1007/BF00503249
+Keyword   : Ta/Nb/Mo/W/Pt/
+Date      : 1988
+
+Rank      : 66218
+Title     : Comparative Study of the Low Pressure Chemical Vapor Deposition Processes of W and Mo .
+Author    : LIFSHITZ N./GREEN M.L./
+Reference : J. Electrochem. Soc., 1988, 135, 7, 1832-1836; 10.1149/1.2096141
+Keyword   : W/Mo/
+Date      : 1988
+
+Rank      : 66928
+Title     : Calculated thermal properties of metals
+Author    : V L Moruzzi/J F Janak/K Schwarz
+Reference : Phys. Rev. B, 1988, 37, 2, 790; 10.1103/PhysRevB.37.790
+Keyword   : Li/Na/Al/K/Ca/V/Cu/Rb/Sr/Nb/Mo/Rh/Pd/Ag/
+Date      : 1988
+
+Rank      : 67947
+Title     : On The Lattice Stabilities for Cr, Mo and W .
+Author    : ANDERSSON J-O./FERNANDEZ GUILLERMET A./GUSTAFSON P./
+Reference : CALPHAD, 1987, 11, 4, 361-364; 10.1016/0364-5916(87)90032-0
+Keyword   : Cr/Mo/W/
+Date      : 1987
+
+Rank      : 68967
+Title     : Thermodynamic Properties of Manganese and Molybdenum
+Author    : P. D. Desai
+Reference : J. Phys. Chem. Ref. Data, 1987, 16, 1, 91-108; 10.1063/1.555794
+Keyword   : Mn/Mo/
+Date      : 1987
+
+Rank      : 69853
+Title     : CALCULATION OF IONIZATION POTENTIALS OF TRANSITION METALS DIMERS USING DISCRETE-VARIATIONAL O-ALPHA METHOD.
+Author    : GUTSEV G.L./LUTATSKAYA V.D./KLYAGINA A.P./LEVIN A.A./
+Reference : ZH STRUKT. KHIMII, 1987, 28, 6, 22-26.
+Keyword   : Cr/Mo/
+Date      : 1987
+
+Rank      : 70326
+Title     : Melting points of the elements
+Author    : 
+Reference : Bull. Alloy Phase Diag., 1986, 7, 6, 602-602; 10.1007/BF02869888
+Keyword   : Ag/Al/Am/Ar/As/At/Au/B/Ba/Be/Bi/Bk/Br/C/Ca/Cd/Ce/Cf/Cl/Cm/Co/Cr/Cs/Cu/Dy/Er/Es/Eu/F/Fe/Fm/Fr/Ga/Gd/Ge/H/He/Hf/Hg/Ho/I/In/Ir/K/Kr/La/Li/Lr/Lu/Md/Mg/Mn/Mo/N/Na/Nb/Nd/Ne/Ni/No/Np/O/Os/P/Pa/Pb/Pd/Pm/Po/Pr/Pt/Pu/Ra/Rb/Re/Rh/Rn/Ru/S/Sb/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Th/Ti/Tl/Tm/U/V/W/Xe/Y/Yb/Zn/Zr/
+Date      : 1986
+
+Rank      : 70510
+Title     : An Experimental Investigation of the Properties of Tungsten and Molybdenum at the Critical Point .
+Author    : BAIKOV A.P./SHESTAK A.F./
+Reference : High Temp. - High Press., 1986, 18, 4, 459-463
+Keyword   : W/Mo/
+Date      : 1986
+
+Rank      : 70511
+Title     : Determination of the Melting Point and of the Spectral and Total Emissivities of Tungsten, Tantalum, and Molybdenum in the Solid and Liquid States with a Six-Wavelength Pyrometer .
+Author    : HIERNAUT J.-P./BEUKERS R./HOCH M./MATSUI TSUNEO/OHSE R.W./
+Reference : High Temp. - High Press., 1986, 18, 6, 627-633
+Keyword   : W/Ta/Mo/
+Date      : 1986
+
+Rank      : 70976
+Title     : Ionization Energies of the Transition Metal Diatomics Cu2, Ag2, Cr2 and Mo2: A Green'S Function Investigation
+Author    : VON NIESSEN W./
+Reference : J. Chem. Phys., 1986, 85, 1, 337-345; 10.1063/1.451607
+Keyword   : Cu/Ag/Cr/Mo/
+Date      : 1986
+
+Rank      : 72928
+Title     : High Temperature Vapor Pressures of Metals from Laser Evaporation .
+Author    : BOBER M./SINGER J./
+Reference : High Temp. Sci., 1985, 19, 3, 329-345
+Keyword   : Fe/Ni/Mo/Ti/V/Zr/
+Date      : 1985
+
+Rank      : 73236
+Title     : Pression de Vapeur Saturante de Quelques Metaux Refractaires .
+Author    : ALEEV R.A./BALKOVOI YU.V./MANOKHIN A.A./
+Reference : Izv. Vyssh. Ucheb. Zaved., Chern. Metall., 1985, 5, 157
+Keyword   : Nb/Ti/Zr/Cr/Mo/
+Date      : 1985
+
+Rank      : 74189
+Title     : Enthalpy Measurements On Refractory Metals And Alloys By Levitation Calorimetry .
+Author    : FROHBERG M.G./
+Reference : Rep. TKK-V (Helsinki Univ.Technol., Inst.Process Metall), 1985, Tkk- V-B27, Actual Probl.Process Metall., 125-143.
+Keyword   : Nb/Mo/Ta/W/Cu-Fe/Nb-Si/
+Date      : 1985
+
+Rank      : 74202
+Title     : ENTHALPY MEASUREMENTS ON REFRACTORY METALS AND ALLOYS BY LEVITATION CALORIMETRY .
+Author    : FROHBERG M.G./
+Reference : Report TKK-V-B27, TKK-V (HELSINKI UNIV.TECHNOL., INST.PROCESS METALL), ACTUAL PROBL.PROCESS METALL., 125-143., 1985
+Keyword   : Nb/Mo/Ta/W/Cu-Fe/Nb-Si/
+Date      : 1985
+
+Rank      : 76279
+Title     : Recommended values of temperatures for a selected set of secondary reference points
+Author    : R E Bedford/G Bonnier/H Maas/F Pavese
+Reference : Metrologia, 1984, 20, 145-155
+Keyword   : Ne/N/Ar/Hg/Ga/In/Bi/Cd/Pb/Sb/Al/Cu/Pd/Pt/Rh/Ir/Mo/W/H/O/Kr/Xe/Na/S/Ni/Co/Fe/Ti/Zr/Ru/Nb/Rb/
+Date      : 1984
+
+Rank      : 76752
+Title     : STUDY OF THE HEAT CAPACITY OF REFRACTORY METAL SINGLE CRYSTALS NEAR THE  MELTING POINT .
+Author    : YAKUNKIN M.M./ALESHINA S.A./
+Reference : TUGOPLAVKIE MET., SPLAVY SOEDIN.MONOKRIST.STRUKT., 1984, 156-160.
+Keyword   : Nb/Mo/Ta/
+Date      : 1984
+
+Rank      : 77047
+Title     : THE ELECTRONIC STRUCTURE AND FEATURES OF CHEMICAL BOND IN THE DIMERS OF CHROME AND MOLYBDENUM.
+Author    : KLYAGINA A.P./GUTSEV G.L./FURSOVA V.D./LEVIN V.D./
+Reference : Zh. Neorg. Khim., 1984, 29, 11, 2765-2770
+Keyword   : Cr/Mo/
+Date      : 1984
+
+Rank      : 83265
+Title     : FONCTIONS THERMODYNAMIQUES ET ENERGIE DE DISSOCIATION DE CR2 ET MO2 .
+Author    : GURVICH L.V./EFREMOV YU.M./IORISH V.S./
+Reference : Teplofiz. Vys. Temp., 1980, 18, 5, 974-979
+Keyword   : Cr/Mo/
+Date      : 1980
+
+Rank      : 86861
+Title     : Thermophysical Properties of Liquid Tantalum and Molybdenum .
+Author    : SHANER J.W./GAHTERS G.R./MINICHINO C./
+Reference : High Temp. - High Press., 1977, 9, 3, 331-343
+Keyword   : Ta/Mo/
+Date      : 1977
+
+Rank      : 86865
+Title     : Melting Temperatures of Refractory Metals at High Pressures .
+Author    : VERESHCHAGIN L.F./FATEEVA N.S./
+Reference : High Temp. - High Press., 1977, 9, 6, 619-628
+Keyword   : C/W/Pt/Ta/Mo/C-W/
+Date      : 1977
+
+Rank      : 88271
+Title     : Chromium, Molybdenum, and Tungsten: Thermodynamic Properties, Chemical Equilibriums, and Standard Potentials .
+Author    : Ingemar Dellien/F. M. Hall/Loren G. Hepler
+Reference : Chem. Rev., 1976, 76, 3, 283-310; 10.1021/cr60301a001
+Keyword   : Cr/Mo/W/
+Date      : 1976
+
+Rank      : 94735
+Title     : Thermodynamic properties of liquid metals
+Author    : J. L. Margrave
+Reference : High Temp. - High Press., 1970, 2, 583-586
+Keyword   : Ag/Al/Au/B/Ba/Be/Bi/C/Ca/Ca/Cd/Ce/Co/Cr/Cs/Cu/Dy/Er/Eu/Fe/Ga/Gd/Ge/Hf/Hg/Ho/In/Ir/K/La/Li/Lu/Mg/Mn/Mo/Na/Nb/Nd/Ni/Os/Pb/Pd/Po/Pr/Pt/Ra/Rb/Re/Rh/Ru/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Th/Ti/Tl/Tm/U/V/W/Y/Yb/Zn/Zr/
+Date      : 1970
+
+Rank      : 96758
+Title     : ***************Title is missing***************
+Author    : Kraftmakher Ya. A.
+Reference : Issled. Vys. Temp. , Akad. Nauk SSSR, Sib. Otd. 1966, 5-54.  (1966)
+Keyword   : Nb/W/Mo/Pt/
+Date      : 1966
+
+Rank      : 96965
+Title     : Determination par Spectrometre de Masse de la Chaleur de Vaporisation d'atomes et d'Ions Positifs dans la Sulbimation de Re, W, Ta et Mo Polycristallins
+Author    : ZANDBERG E.YA./IONOV N.I./TONTEGODE A.YA./
+Reference : SOVIET PHYSICS-TECHNICAL PHYSICS, 1966, FEV., 10, 8, 1164- 1172.
+Keyword   : Re/W/Ta/Mo/
+Date      : 1966
+
+Rank      : 97232
+Title     : Relation between Specific Heat and Total Emittance in Tantalum, Niobium, Tungsten, and Molybdenum
+Author    : H.V.L. Narasimhamurty/A.S. Iyer/M. Hoch
+Reference : J. Phys. Chem., 1965, 69, 4, 1420-1423; 10.1021/j100888a054
+Keyword   : W/Ta/Nb/Mo/
+Date      : 1965
+
+Rank      : 97299
+Title     : Thermodynamic Properties of Molybdenum in Its Superconducting and Normal State
+Author    : D.C. Rorer/D. G. Onn/H. Meyer
+Reference : Phys. Rev. A, 1965, 138, 6, 1661-1668; 10.1103/PhysRev.138.A1661
+Keyword   : Cu/Mo/
+Date      : 1965
+
+Rank      : 97623
+Title     : The specific heats and resistivities of molybdenum, tantalum, and rhenium
+Author    : R.E. Taylor/R. A. Finch
+Reference : J. Less Common Met., 1964, 6, 4, 283-294; 10.1016/0022-5088(64)90124-9
+Keyword   : Ta/Mo/Re/
+Date      : 1964
+
+Rank      : 97968
+Title     : High temperature X-ray metallography: I. A new debye-scherrer camera for use at very high temperatures II. A new parafocusing camera III. Applications to the study of chromium, hafnium, molybdenum, rhodium, ruthenium and tungsten
+Author    : R.G. Ross/W. Hume-Rothery
+Reference : J. Less Common Met., 1963, 5, 3, 258-270; 10.1016/0022-5088(63)90031-6
+Keyword   : Hf/Ru/Cr/Rh/W/Mo/
+Date      : 1963
+
+Rank      : 98404
+Title     : ***************Title is missing***************
+Author    : T.P.J.H.  Babelliowsky
+Reference : Physica, 1962, 28, 1160-1169
+Keyword   : Cu/Ni/Mo/Ta/
+Date      : 1962
+
+Rank      : 99084
+Title     : The melting point of osmium
+Author    : A.G. Knapton/J. Savill/R. Siddall
+Reference : J. Less Common Met., 1960, 2, 5, 357-359; 10.1016/0022-5088(60)90044-8
+Keyword   : Os/Mo/
+Date      : 1960
+
+Rank      : 99120
+Title     : Thermal properties of graphite, molybdenum and tantalum to their destruction temperatures
+Author    : N.S. Rasor/J. D. McClelland
+Reference : J. Phys. Chem. Sol., 1960, 15, 1-2, 17-26; 10.1016/0022-3697(60)90095-0
+Keyword   : Ta/Mo/C/
+Date      : 1960
+
+Rank      : 99243
+Title     : ***************Title is missing***************
+Author    : Lehman G. W.
+Reference : WADD Tech. Rept. No. WADD-TR-60-581. (1960)
+Keyword   : Re/Cu/Mo/Ta/
+Date      : 1960
+
+Rank      : 99557
+Title     : ***************Title is missing***************
+Author    : K. Clusius/P. Franzosini
+Reference : Z. Naturforsch. A, 1959, 14, 99-105
+Keyword   : W/Mo/
+Date      : 1959
+
+Rank      : 100031
+Title     : ***************Title is missing***************
+Author    : Wolcott N.M.
+Reference : Proc. Conf. de Physique des Basses Temp. Paris, 286-9.  (1956)
+Keyword   : Rh/Mo/W/Ta/Re/Ir/Os/Ru/
+Date      : 1956
+
+Rank      : 100050
+Title     : ***************Title is missing***************
+Author    : I.B. Fieldhouse/J. C. Hedge/J. I. Lang/A. N. Takata/T. E. Waterman
+Reference : WADC Tech. Rept. 55-495. (1956)
+Keyword   : Ta/Mo/
+Date      : 1956
+
+Rank      : 100051
+Title     : ***************Title is missing***************
+Author    : C.F. Lucks/H. W. Deem
+Reference : WADC Tech. Rept. No. 55-496. (1956)
+Keyword   : Cr/Mo/Cu/
+Date      : 1956
+
+Rank      : 100233
+Title     : ***************Title is missing***************
+Author    : Rayne J.A.
+Reference : Phys. Rev., 1954, 95, 1428-1434
+Keyword   : W/Pt/Cu/Mo/Na/
+Date      : 1954
+
+Rank      : 100349
+Title     : ***************Title is missing***************
+Author    : Kothen C. W.
+Reference : Dissertation, Ohio State University.  (1952)
+Keyword   : Ti/Mo/
+Date      : 1952
+
+Rank      : 100859
+Title     : ***************Title is missing***************
+Author    : F.M. Jaeger/W. A. Veenstra
+Reference : Rec. Trav. Chim., 1934, 53, 677-687
+Keyword   : Nb/V/Ta/Mo/
+Date      : 1934
+
+Rank      : 101058
+Title     : ***************Title is missing***************
+Author    : F. Simon/W. Zeidler
+Reference : Z. Phys. Chem., 1926, 123, 383-404
+Keyword   : K/Na/Mo/Pt/
+Date      : 1926
+
+Rank      : 101151
+Title     : Atomic specific heats between the boiling points of liquid nitrogen and hydrogen. I. - The mean specific heats at 50o absolute of the elements a periodic function of the atomic weights
+Author    : Dewar J.
+Reference : Proc. Roy. Soc. A, 1913, 89, 158-169
+Keyword   : Si/Pb/Ni/Fe/Ta/Ag-C-N/Bi/Al/Tl/Mg/Hg/Li/B/C/Na/P/S/Cl/K/Ca/Ti/Cr/Mn/Cu/Zn/As/Se/Br/Rb/Sr/Zr/Mo/Ru/Rh/Pd/Cd/Ag/Sn/Sb/I/Te/Cs/Ba/La/Ce/W/Os/Ir/Pt/Au/Th/U/
+Date      : 1913
+

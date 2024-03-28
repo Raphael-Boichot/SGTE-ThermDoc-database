@@ -1,0 +1,72 @@
+************Search results for /Al-Mg-Cu/ system************
+
+Rank      : 2361
+Title     : Incorporating elasticity into CALPHAD-informed density-based grain boundary phase diagrams reveals segregation transition in Al-Cu and Al-Cu-Mg alloys
+Author    : Lei Wang/Reza Darvishi Kamachali
+Reference : Comput. Mater. Sci., 2021, 199, 110717; 10.1016/j.commatsci.2021.110717
+Keyword   : Al-Cu/Al-Cu-Mg/
+Date      : 2021
+
+Rank      : 38422
+Title     : THERMODYNAMIC STUDIES OF CU-MG-SI, CU-MG-Y, AL-MG-ZN, AL-CU-MG, AL- MG-SI, AL-CU-LI, AND AL-CU-ZR ALLOYS.
+Author    : KIM Y.B./FEUFEL H./SOMMER F./
+Reference : WERKSTOFFWOCHE '98, BAND VI: SYMP. 8, MET.; SYMP. 14, SIMUL. MET., 457-462 (GER) 1998 (PUB. 1999).
+Keyword   : Cu-Mg-Si/Cu-Mg-Y/Al-Mg-Zn/Al-Cu-Mg/Al-Mg-Si/Al-Cu-Li/Al-Cu-Zr/
+Date      : 1998
+
+Rank      : 41650
+Title     : SOLIDIFICATION CURVES OF AL-CU, AL-MG AND AL-CU-MG ALLOYS.
+Author    : S.W. CHEN/C.C. HUANG/
+Reference : Acta Mater., 1996, 44, 5, 1955-1966; 10.1016/1359-6454(95)00313-4
+Keyword   : Al-Cu/Al-Mg/Al-Cu-Mg/
+Date      : 1996
+
+Rank      : 47483
+Title     : HEAT CAPACITIES OF ALUMINIUM ALLOYS.
+Author    : A.M. ZAHRA/C.Y. ZAHRA/G. JAROMA-WEILAND/G. NEUER/W. LACOM/
+Reference : J. Mater. Sci., 1995, 30, 2, 426-436; 10.1007/BF00354407
+Keyword   : Al-Cu/Al-Zn/Al-Si/Al-Mg-Si/Al-Cu-Mg/Al-Mg-Zn/
+Date      : 1995
+
+Rank      : 63393
+Title     : THE FORMATION AND STRUCTURE OF AL-CU-(LI, MG) ICOSAHEDRAL ALLOYS.
+Author    : SHEN Y./
+Reference : DISS.ABSTR.INT., 1989, 50, (5), 139.
+Keyword   : Al-Cu-Li/Al-Cu-Mg/
+Date      : 1989
+
+Rank      : 67940
+Title     : APPLICATION OF THE HOCH-ARPSHOFEN MODEL TO THE THERMODYNAMICS OF THE CU-NI-SN, CU-FE-NI, CU-MG-AL, AND CU-MG-ZN SYSTEMS .
+Author    : HOCH M./
+Reference : CALPHAD, 1987, 11, 3, 237-246; 10.1016/0364-5916(87)90042-3
+Keyword   : Cu-Ni-Sn/Cu-Fe-Ni/Al-Cu-Mg/Cu-Mg-Zn/
+Date      : 1987
+
+Rank      : 73920
+Title     : NEW EUTECTIC ALLOYS AND THEIR HEATS OF TRANSFORMATION .
+Author    : FARKAS D./BIRCHENALL C.E./
+Reference : Metall. Trans. A, 1985, 16, 3, 323-328
+Keyword   : Mg-Si/Al-Si/Al-Mg-Si/Al-Cu/Al-Cu-Si/Ca-Mg/Al-Cu-Mg/Cu-Mg-Zn/Al-Mg/Al-Mg-Zn/Mg-Zn/
+Date      : 1985
+
+Rank      : 77396
+Title     : NEW EXAMPLES OF YTTERBIUM-CADMIUM (YBCD6) AND MAGNESIUM-COPPER- ALUMINUM (MGCUAL2) STRUCTURE TYPES .
+Author    : MARKIV V.YA./BELYAVINA N.N./
+Reference : DOP.AKAD.NAUK UKR. RSR, SER. B: GEOL., KHIM.BIOL.NAUKI, 1983, (12), 30-33.
+Keyword   : Cd-Yb/Al-Cu-Mg/
+Date      : 1983
+
+Rank      : 93563
+Title     : ENTHALPIES OF FORMATION IN THE MAGNESIUM-COPPER-ZINC, MAGNESIUM- COPPERALUMINUM, AND MAGNESIUM-COPPER-TIN SYSTEMS AS A CONTRIBUTION TO THE CLARIFICATION OF THE BONDING CONDITIONS IN LAVES PHASES .
+Author    : PREDEL B./RUGE H./
+Reference : Mater. Sci. Eng., 1972, 9, 3, 141-151
+Keyword   : Cu-Mg-Zn/Al-Cu-Mg/Cu-Mg-Sn/
+Date      : 1972
+
+Rank      : 95541
+Title     : PHASE DIAGRAMS OF ALUMINUM-BASE SYSTEMS
+Author    : WATANABE H./SATO E./
+Reference : Keikinzoku, 1969, 19, 11, 499-535
+Keyword   : Ag-Al-Mn/Ag-Al-Ti/Ag-Al-Zn/Al-Be-Mg/Al-Ca-Si/Al-Cd-Sn/Al-Cr-Fe/Al-Cr-Mg/Al-Cr-Mn/Al-Cr-Si/Al-Cr-Zn/Al-Cu-Fe/Al-Cu-Li/Al-Cu-Mg/Al-Cu-Mn/Al-Cu-Ni/Al-Cu-Si/Al-Cu-Sn/Al-Cu-Zn/Al-Fe-Mg/Al-Fe-Mn/Al-Fe-Ni/Al-Fe-Si/Al-Fe-Zn/Al-In-Sb/Al-Mg-Mn/Al-Mg-Ni/Al-Mg-Si/Al-Mg-Zn/Al-Mn-Si/Al-Mn-Zn/Al-Mo-V/Al-Na-Si/Al-Ni-Si/Al-Si-Zn/Al-Cu-Fe-Mg/Al-Cu-Fe-Mn/Al-Cu-Fe-Ni/Al-Cu-Fe-Si/Al-Cu-Mg-Mn/Al-Cu-Mg-Si/Al-Cu-Mg-Zn/Al-Cu-Mn-Si/Al-Fe-Mg-Mn/Al-Fe-Mg-Si/Al-Fe-Mn-Si/Al-Mg-Mn-Si/Al-Mg-Mn-Zn/Al-Si-V/
+Date      : 1969
+
