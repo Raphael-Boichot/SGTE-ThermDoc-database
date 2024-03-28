@@ -54,8 +54,7 @@ And copy/paste the new database you want to process, then run:
 The script will:
 - detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search;
-- convert to UPPERCASE all the field because this is the way Papyrus was outputing the references natively;
-- remove any accent from any European reference to avoid missing them ;
+- remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
 The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the working databse provided in the repo is always up to date regarding the original database. It may be used in case of frequent crash of the working database only, to rebuild it.
