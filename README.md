@@ -57,7 +57,11 @@ The script will:
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
-The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the working databse provided in the repo is always up to date regarding the original database. It may be used in case of frequent crash of the working database only, to rebuild it.
+The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the working databse provided in the repo is always up to date. It may be used in case of frequent crash of the working database only, to rebuild it.
+
+## Dev notes
+- The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
+- Additionnal commands can be made on request.
 
 ## License
 
