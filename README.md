@@ -25,7 +25,7 @@ Here are some example of commands that can be used:
 ```matlab
 Search_for_elements('Mo')           %search for pure Molybdenum metal only
 Search_for_elements('Mg','Al')      %search for Mg-Al binary only
-Search_for_elements('Mo','Mg','Al') %search for Mo-Mg-Al ternary only
+Search_for_elements('Mo','Mg','Cu') %search for Mo-Mg-Cu ternary only
 ```
 Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed. The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request.
 
