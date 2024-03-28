@@ -42,14 +42,14 @@ while ~feof(fid)
             for j=1:1:nargin
                 phrase=[phrase,'-',varargin{permutations(i,j)}];
             end
-            phrase_1=upper([phrase(2:end),'/']);
+            phrase_1=[phrase(2:end),'/'];
             if not(isempty(strfind(cle,phrase_1)))
-                if strfind(upper(cle),phrase_1)==1
+                if strfind(cle,phrase_1)==1
                     empty=0;
                 end
             end
-            phrase_2=upper(['/',phrase(2:end),'/']);
-            if not(isempty(strfind(upper(cle),phrase_2)))
+            phrase_2=['/',phrase(2:end),'/'];
+            if not(isempty(strfind(cle,phrase_2)))
                 empty=0;
             end
         end
