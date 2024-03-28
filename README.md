@@ -23,7 +23,7 @@ Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Oc
 Here are some example of commands that can be used:
 
 ```matlab
-Search_for_elements('Mo')           %search for pure aluminium metal only
+Search_for_elements('Mo')           %search for pure Molybdenum metal only
 Search_for_elements('Mg','Al')      %search for Mg-Al binary only
 Search_for_elements('Mo','Mg','Al') %search for Mo-Mg-Al ternary only
 ```
