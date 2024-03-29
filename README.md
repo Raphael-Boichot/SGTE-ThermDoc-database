@@ -13,11 +13,12 @@ The ThermDoc database itself is a collection of more than 100,000 literature ref
 ## Installation
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
-- Clone the repository to a local folder and go to the **./Code** folder;
-- Use the intuitive syntax to extract references from the ThermDoc database;
-- Results are stored in the **./Search_results** folder, a txt file for each inquiry.
+- Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**;
+- Use the intuitive syntax from the command window to extract references from the ThermDoc database or execute scripts;
+- Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
+- *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 
-Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same. Commands can be run from Octave-CLI in command line or Octage-GUI.
+Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same.
 
 ## Intuitive use
 Here are some example of commands that can be used:
