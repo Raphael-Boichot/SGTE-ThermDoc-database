@@ -22,7 +22,7 @@ The ThermDoc database itself is a collection of more than 100,000 literature ref
 Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same. Each reference list will be sorted by descending year.
 
 ## Example of syntax
-Here are some example of commands that can be used:
+Here are some example of commands that can be used, supposed you are in the **[./Code](/Codes)** directory:
 
 ```matlab
 Search_for_elements('Mo')           %search for citations about pure Molybdenum metal only
