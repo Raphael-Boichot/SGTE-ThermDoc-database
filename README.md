@@ -2,7 +2,7 @@
 
 # SGTE ThermDoc database and exploration tools
 
-SGTE ThermDoc Datatabase and exploration tools for finding references about thermodynamical properties of multinaries and inorganic compounds. Research functions are similar to Papyrus except for the Graphic User Interface.
+SGTE ThermDoc Datatabase and exploration tools in command line for finding references about thermodynamical properties of multinaries and inorganic compounds. Research functions are similar to Papyrus except for the Graphic User Interface.
 
 ## A bit of history
 
@@ -10,17 +10,18 @@ SGTE is an international consortium created more than 40 years ago. SGTE focuses
 
 The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to 2024 formatted in order to easily find data on multinaries and updated every year by leading members of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools, with the maximum number of researchers around the world.
 
-## Installation
+## Installation and use
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
 - Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**;
 - Use the intuitive syntax from the command window to extract references from the ThermDoc database or execute scripts;
 - Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
 - *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
+- You can kill a running process at any time with Ctrl+C.
 
-Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Octave but results are the same.
+Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same.
 
-## Intuitive use
+## Example of syntax
 Here are some example of commands that can be used:
 
 ```matlab
