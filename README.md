@@ -29,7 +29,7 @@ Search_for_elements('Mo')           %search for citations about pure Molybdenum 
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. This command is **not case sensitive.**
+Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. This command is **not case sensitive.**
 
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
