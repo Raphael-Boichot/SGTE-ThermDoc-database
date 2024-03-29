@@ -23,11 +23,11 @@ Each inquiry takes about 10 seconds on Matlab and about 2-3 times more on GNU Oc
 Here are some example of commands that can be used:
 
 ```matlab
-Search_for_elements('Mo')           %search for pure Molybdenum metal only
-Search_for_elements('Mg','Al')      %search for Mg-Al binary only
-Search_for_elements('Al','Mg','Cu') %search for Al-Mg-Cu ternary only
+Search_for_elements('Mo')           %search for citations about pure Molybdenum metal only
+Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
+Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed. The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request.
+Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request.
 
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
