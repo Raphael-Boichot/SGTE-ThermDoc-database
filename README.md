@@ -8,7 +8,7 @@ SGTE ThermDoc Datatabase and exploration tools in command line for finding refer
 
 SGTE is an international consortium created more than 40 years ago. SGTE focuses on providing physically validated thermochemical databases to be used by computational thermochemistry software tools. General databases on unaries, compounds, solutions are created and maintained as well as new databases dedicated to specific target applications meeting global challenges such as e-mobility, energy generation and conversion as well as life sciences are developed. 
 
-The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to 2024 formatted in order to easily find data on multinaries and updated every year by leading members of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools, with the maximum number of researchers around the world.
+The ThermDoc database itself is a collection of more than 100,000 literature references from 1848 to now, formatted in order to easily find data on multinaries and updated every year by leading members of the consortium. The aim of this public repository is to share the database and easy-to-use and open sourced exploration tools, with the maximum number of researchers around the world.
 
 ## Installation and use
 
@@ -19,7 +19,7 @@ The ThermDoc database itself is a collection of more than 100,000 literature ref
 - *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
 
-Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same.
+Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same. Each reference list will be sorted by descending year.
 
 ## Example of syntax
 Here are some example of commands that can be used:
@@ -71,3 +71,4 @@ The original database is never modified during the maintenance, all operations a
 - the ThermDoc database is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
 ## To cite the database in your work
+- Citation reference to add
