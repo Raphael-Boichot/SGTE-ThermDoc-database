@@ -79,6 +79,9 @@ for m=1:1:length(date_list)
                         cle=[cle(1:end-2),'/',cle(end-1:end)];
                         ill_formated=ill_formated+1;
                     end
+                    if not(cle(1)=='/')
+                        cle=['/',cle];
+                    end
                 end
                 fwrite(out,'cle');
                 fwrite(out,char(13));
@@ -96,8 +99,8 @@ for m=1:1:length(date_list)
         end
     end
     fclose(fid);
-    disp([num2str(match),' references found for year ',num2str(date_ref)])
-    disp([num2str(ill_formated),' keywords for elements corrected due to missing /'])
+    disp([num2str(match),' references found for year ',num2str(date_ref),' in the ThermDoc database'])
+    %disp([num2str(ill_formated),' keywords for elements corrected due to missing /'])
     disp([num2str(ref_entered),' references entered in the working database'])
 end
 fclose(out);

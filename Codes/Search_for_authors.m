@@ -17,7 +17,12 @@ fwrite(out,newline);
 fwrite(out,char(13));
 fwrite(out,newline);
 
-disp(['Scanning database, please wait...'])
+disp(' ')
+disp('**********************************************************')
+disp(['Search results for /',identifier(2:end),'/ as authors'])
+disp('**********************************************************')
+disp(' ')
+
 counter=0;
 match=0;
 while ~feof(fid)
@@ -57,10 +62,19 @@ while ~feof(fid)
             fwrite(out,['Date      : ',date]);
             fwrite(out,char(13));
             fwrite(out,newline);
+                        
+            disp('****************************************************')
+            disp(['Rank      : ',num2str(counter)]);
+            disp(['Title     : ',title(1:end-2)]);
+            disp(['Author    : ',author(1:end-2)]);
+            disp(['Reference : ',reference(1:end-2)]);
+            disp(['Keyword   : ',cle(1:end-2)]);
+            disp(['Date      : ',date(1:end-2)]);
         end
     end
 end
 fclose(fid);
 fclose(out);
 disp([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
+disp('Results in the ./Search_results/ folder')
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);

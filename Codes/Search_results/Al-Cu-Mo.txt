@@ -1,0 +1,37 @@
+************Search results for /Al-Cu-Mo/ system************
+
+Rank      : 11327
+Title     : CRYSTAL STRUCTURES AND HARDNESS OF NOVEL COMPOUNDS: HEXAGONAL MO(CUXAL1-X)6AL4, MOCU2AL8-X AND ORTHORHOMBIC (MO,W,RE)NI2-XAL8+X.
+Author    : KHAN A.U./GRYTSIV A./ROGL P./GIESTER G./
+Reference : Intermetallics, 2012, 23, 187-198; 10.1016/j.intermet.2011.12.003
+Keyword   : /Al-Cu-Mo/Al-Ni-W/Al-Mo-Ni/Al-Ni-Re/
+Date      : 2012
+
+Rank      : 12967
+Title     : A STUDY OF THE AL-RICH REGION OF THE AL-CU-MO ALLOY SYSTEM
+Author    : B. GRUSHKO/S.B. MI/
+Reference : J. Alloys Compounds, 2011, 509, 4, L30-L33; 10.1016/j.jallcom.2010.10.001
+Keyword   : /Al-Cu-Mo/
+Date      : 2011
+
+Rank      : 13204
+Title     : AL-CU-MO (ALUMINUM-COPPER-MOLYBDENUM)
+Author    : V. RAGHAVAN
+Reference : J. Phase Equil. Diffusion, 2011, 32, 3, 245-246; 10.1007/s11669-011-9860-7
+Keyword   : /Al-Cu-Mo/
+Date      : 2011
+
+Rank      : 30832
+Title     : A NEW STRUCTURE TYPE OF MO(CU0.23AL0.77)10 AND W(CU0.23AL0.77)10 ALUMINIDES.
+Author    : STEL'MAKHOVICH B.M./KLOCHUN I.A./KUZ'MA YU.V.
+Reference : DOPOV. NATS. AKAD. NAUK UKR., (2), 149-152 (2000).
+Keyword   : /Al-Cu-Mo/Al-Cu-W/
+Date      : 2000
+
+Rank      : 86949
+Title     : PHASE EQUILIBRIUMS IN THE MOLYBDENUM-COPPER-ALUMINUM SYSTEM .
+Author    : PREVARSKII A.P./KUZMA YU.B./ONYSHKEVICH M.M./
+Reference : Izv. Akad. Nauk SSSR, Metally, 1977, 4, 201-203
+Keyword   : /Al-Cu-Mo/
+Date      : 1977
+

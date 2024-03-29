@@ -8,7 +8,7 @@ Date      : 1887-8
 Rank      : 11874
 Title     : 
 Author    : Holetzko H.
-Reference : Dissertation, Univ. of KÃ¶ln,
+Reference : Dissertation, Univ. of Köln,
 Keyword   : Fe
 Date      : 
 

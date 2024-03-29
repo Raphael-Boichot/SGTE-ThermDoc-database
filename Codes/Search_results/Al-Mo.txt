@@ -1,0 +1,296 @@
+************Search results for /Al-Mo/ system************
+
+Rank      : 6734
+Title     : High-temperature phase equilibria with the bcc-type beta (AlMo) phase in the binary Al-Mo system.
+Author    : Mario J. Kriegel/Alexander Walnsch/Olga Fabrichnaya/Dmytro Pavlyuchkov/Volker Klemm/Jens Freudenberger/David Rafaja/Andreas Leineweber/
+Reference : Intermetallics, 2017, 83, 29-37; 10.1016/j.intermet.2016.12.004
+Keyword   : /Al-Mo/
+Date      : 2017
+
+Rank      : 7474
+Title     : Enthalpies of formation of TM-X compounds (X=Al, Ga, Si, Ge, Sn). Comparison of ab-initio values and experimental data
+Author    : Catherine Colinet/Jean-Claude Tedenac
+Reference : CALPHAD, 2016, 54, 16-34; 10.1016/j.calphad.2016.05.001
+Keyword   : /Al-Sc/Al-Ti/Al-V/Al-Cr/Al-Mn/Al-Fe/Al-Co/Al-Ni/Al-Cu/Ga-Sc/Ga-Ti/Ga-V/Cr-Ga/Ga-Mn/Fe-Ga/Co-Ga/Ga-Ni/Cu-Ga/Sc-Si/Si-Ti/Si-V/Cr-Si/Mn-Si/Fe-Si/Co-Si/Ni-Si/Cu-Si/Ge-Sc/Ge-Ti/Ge-V/Cr-Ge/Ge-Mn/Fe-Ge/Co-Ge/Ge-Ni/Cu-Ge/Sc-Sn/Sn-Ti/Sn-V/Cr-Sn/Mn-Sn/Fe-Sn/Co-Sn/Ni-Sn/Cu-Sn/Al-Zr/Al-Nb/Al-Mo/Al-Tc/Al-Ru/Al-Rh/Al-Pd/Ag-Al/Ga-Y/Ga-Zr/Ga-Nb/Ga-Mo/Ga-Tc/Ga-Ru/Ga-Rh/Ga-Pd/Ag-Ga/Si-Y/Si-Zr/Nb-Si/Mo-Si/Si-Tc/Ru-Si/Rh-Si/Pd-Si/Ag-Si/Ge-Y/Ge-Zr/Ge-Nb/Ge-Mo/Ge-Tc/Ge-Ru/Ge-Rh/Ge-Pd/Ag-Ge/Sn-Y/Sn-Zr/Nb-Sn/Mo-Sn/Sn-Tc/Ru-Sn/Rh-Sn/Pd-Sn/Ag-Sn/Al-Hf/Al-Ta/Al-W/Al-Re/Al-Os/Al-Ir/Al-Pt/Al-Au/Ga-Hf/Ga-Ta/Ga-W/Ga-Re/Ga-Os/Ga-Ir/Ga-Pt/Au-Ga/Hf-Si/Si-Ta/Si-W/Re-Si/Os-Si/Ir-Si/Pt-Si/Au-Si/Ge-Hf/Ge-Ta/Ge-W/Ge-Re/Ge-Os/Ge-Ir/Ge-Pt/Au-Ge/Hf-Sn/Sn-Ta/Sn-W/Re-Sn/Os-Sn/Ir-Sn/Pt-Sn/Au-Sn/
+Date      : 2016
+
+Rank      : 8185
+Title     : Experimental investigation and thermodynamic modeling of the Al-Cr-Mo-Ni system and its sub-systems
+Author    : Jian Peng
+Reference : Thesis: Karlsruhe Institute of Technology, 2016
+Keyword   : /Al-Cr-Mo-Ni/Al-Cr-Mo/Al-Cr-Ni/Al-Mo-Ni/Cr-Mo-Ni/Al-Cr/Al-Mo/Al-Ni/Cr-Mo/Cr-Ni/Mo-Ni/
+Date      : 2016
+
+Rank      : 9389
+Title     : Density functional study of the mechanical and phonon properties of Al12X (X = Mo, Tc, Ru, W, Re, and Os) compounds.
+Author    : Haci Ozisik/Engin Deligoz/Kemal Colakoglu/Havva Bogaz Ozisik/
+Reference : Intermetallics, 2014, 50, 1-7; 10.1016/j.intermet.2014.02.001
+Keyword   : /Al-Mo/Al-Tc/Al-Ru/Al-W/Al-Re/Al-Os/
+Date      : 2014
+
+Rank      : 11328
+Title     : FIRST-PRINCIPLES INVESTIGATIONS OF ELASTIC, ELECTRONIC AND THERMODYNAMIC PROPERTIES OF AL12X (X = MO, W AND RE).
+Author    : TAO X./LIU Y./WANG R./OUYANG Y./DU Y./HE Y./
+Reference : Intermetallics, 2012, 24, 15-21; 10.1016/j.intermet.2012.01.018
+Keyword   : /Al-Mo/Al-W/Al-Re/
+Date      : 2012
+
+Rank      : 14019
+Title     : THERMODYNAMIC ASSESSMENT OF THE AL-MO SYSTEM AND OF THE TI-AL-MO SYSTEM FROM 0 TO 20 AT.% TI.
+Author    : CUPID D.M./FABRICHNAYA O./EBRAHIMI F./SEIFERT H.J./
+Reference : Intermetallics, 2010, 18, 6, 1185-1196; 10.1016/j.intermet.2010.03.010
+Keyword   : /Al-Mo/Al-Mo-Ti/
+Date      : 2010
+
+Rank      : 15031
+Title     : AL-MO (ALUMINUM-MOLYBDENUM)
+Author    : H. OKAMOTO
+Reference : J. Phase Equil. Diffusion, 2010, 31, 5, 492-493; 10.1007/s11669-010-9758-9
+Keyword   : /Al-Mo/
+Date      : 2010
+
+Rank      : 16688
+Title     : PREPARATION OF AL-MO INTERMETALLIC POWDERS BY SOLID-LIQUID REACTION BALL MILLING
+Author    : DING CHEN/JIANGUO CAI/JIANJUN FANG/ZHENHUA CHEN/
+Reference : J. Alloys Compounds, 2009, 485, 1-2, L9-L11; 10.1016/j.jallcom.2009.05.113
+Keyword   : /Al-Mo/
+Date      : 2009
+
+Rank      : 17125
+Title     : THERMODYNAMIC DESCRIPTION OF THE AL-MO AND AL-FE-MO SYSTEMS
+Author    : ZHENMIN DU/CUIPING GUO/CHANGRONG LI/WEIJING ZHANG/
+Reference : J. Phase Equil. Diffusion, 2009, 30, 5, 487-501; 10.1007/s11669-009-9564-4
+Keyword   : /Al-Mo/Al-Fe-Mo/
+Date      : 2009
+
+Rank      : 21752
+Title     : RE-EVALUATION OF PHASE EQUILIBRIA IN THE AL-MO SYSTEM
+Author    : MARKUS EUMANN/GERHARD SAUTHOFF/MARTIN PALM
+Reference : Int. J. Mater. Res., 2006, 97, 11, 1502-1511; 10.3139/146.101412
+Keyword   : /Al-Mo/
+Date      : 2006
+
+Rank      : 29134
+Title     : AL-MO
+Author    : SGTE, Scientific Group Thermodata Europe
+Reference : Landolt-Boernstein, Thermodynamic Properties of Inorganic Materials, Springer-Verlag, 2002, IV/19B1, 170-172
+Keyword   : /Al-Mo/
+Date      : 2002
+
+Rank      : 30099
+Title     : Thermochemistry of alloys of transition metals and lanthanide metals with some IIIB and IVB elements in the periodic table
+Author    : S.V. Meschel/O.J. Kleppa
+Reference : J. Alloys Compounds, 2001, 321, 2, 183-200; https://doi.org/10.1016/S0925-8388(01)00966-5
+Keyword   : /B-Sc/B-Ti/B-V/B-Cr/B-Mn/B-Fe/B-Co/B-Ni/B-Y/B-Nb/B-Mo/B-Ru/B-Rh/B-Pd/B-La/B-Ta/B-W/B-Re/B-Os/B-Ir/B-Pt/B-Pr/B-Gd/B-Tb/B-Dy/B-Ho/B-Er/B-Tm/B-Lu/Al-Sc/Al-Ti/Al-V/Al-Cr/Al-Mn/Al-Fe/Al-Co/Al-Ni/Al-Y/Al-Zr/Al-Nb/Al-Mo/Al-Ru/Al-Rh/Al-Pd/Al-La/Al-Hf/Al-Ta/Al-W/Al-Re/Al-Os/Al-Ir/Al-Pt/Al-Lu/Ga-Sc/Ga-Ti/Ga-V/Cr-Ga/Fe-Ga/Co-Ga/Ga-Ni/Ga-Y/Ga-Zr/Ga-Nb/Ga-Mo/Ga-Ru/Ga-Rh/Ga-Pd/Ga-Tm/C-Sc/C-Ti/C-V/C-Cr/C-Mn/C-Fe/C-Co/C-Ni/C-Y/C-Mo/Al-C/C-Ce/C-La/C-Pr/C-Nd/C-Sm/C-Gd/C-Tb/C-Dy/C-Ho/C-Er/C-Tm/C-Lu/Sc-Si/Si-Ti/Si-V/Cr-Si/Mn-Si/Fe-Si/Co-Si/Ni-Si/Si-Y/Si-Zr/Nb-Si/Mo-Si/Ru-Si/Rh-Si/Pd-Si/La-Si/Hf-Si/Si-Ta/Si-W/Re-Si/Os-Si/Ir-Si/Pt-Si/Cu-Si/Ce-Si/Pr-Si/Nd-Si/Si-Sm/Gd-Si/Si-Tb/Dy-Si/Ho-Si/Er-Si/Si-Tm/Lu-Si/Ge-Sc/Ge-Ti/Ge-V/Cr-Ge/Ge-Mn/Fe-Ge/Co-Ge/Ge-Ni/Ge-Y/Ge-Zr/Ge-Nb/Ge-Mo/Ge-Ru/Ge-Rh/Ge-Pd/Ge-La/Ge-Hf/Ge-Ta/Ge-Re/Ge-Os/Ge-Ir/Ge-Pt/Cu-Ge/Ge-La/Ce-Ge/Ge-La/Ge-Pr/Ge-Nd/Gd-Ge/Ge-Sm/Ge-Tb/Dy-Ge/Ge-Ho/Er-Ge/Ge-Tm/Ge-Lu/Sc-Sn/Sn-Ti/Sn-V/Sn-Y/Sn-Zr/Nb-Sn/Ru-Sn/Rh-Sn/Pd-Sn/Hf-Sn/Ir-Sn/Pt-Sn/Pt-Sn/Nd-Sn/Sm-Sn/Gd-Sn/Sn-Tb/Dy-Sn/Ho-Sn/Er-Sn/Sn-Tm/Lu-Sn/
+Date      : 2001
+
+Rank      : 37235
+Title     : STRUCTURE CHARACTERIZATION OF A LASER-PROCESSED AL-MO ALLOY.
+Author    : Y.Y. QIU/A. ALMEIDA/R. VILAR/
+Reference : J. Mater. Sci., 1998, 33, 10, 2639-2651; 10.1023/A:1004317605718
+Keyword   : /Al-Mo/
+Date      : 1998
+
+Rank      : 39887
+Title     : ICOSAHEDRAL CRYSTAL IN A LASER PROCESSED AL-MO ALLOY.
+Author    : Y.Y. QIU/A. ALMEIDA/R. VILAR/
+Reference : J. Mater. Sci. Letters, 1997, 16, 24, 1986-1990
+Keyword   : /Al-Mo/
+Date      : 1997
+
+Rank      : 40070
+Title     : THE AL-MO SYSTEM.
+Author    : N. SAUNDERS/
+Reference : J. Phase Equil., 1997, 18, 4, 370-378; 10.1007/s11669-997-0063-1
+Keyword   : /Al-Mo/
+Date      : 1997
+
+Rank      : 43187
+Title     : JOINING MOLYBDENUM TO ALUMINIUM BY DIFFUSION BONDING.
+Author    : R.S. BUSHBY/K.P. HICKS/V.D. SCOTT/
+Reference : J. Mater. Sci., 1996, 31, 17, 4545-4552; 10.1007/BF00366350
+Keyword   : /Al-Mo/
+Date      : 1996
+
+Rank      : 48464
+Title     : APPLICATION OF FIRST-PRINCIPLES METHODS TO BINARY AND TERNARY ALLOY PHASE DIAGRAM PREDICTIONS.
+Author    : RUBIN G./FINEL A./
+Reference : J. Phys.: Condens. Matter, 1995, 7, 16, 3139-3152
+Keyword   : /Al-Ti/Mo-Ti/Nb-Ti/Ti-W/Al-Mo/Al-Nb/Al-W/
+Date      : 1995
+
+Rank      : 50159
+Title     : THE CRYSTAL STRUCTURES OF MO4AL17 AND MO5AL22.
+Author    : GRIN YU.N./ELLNER M./PETERS K./SCHUSTER J.C./
+Reference : Z. Kristallogr., 1995, 210, 2, 96-99
+Keyword   : /Al-Mo/
+Date      : 1995
+
+Rank      : 52109
+Title     : INTERMETALLIC PHASES PRODUCED BY THE HEAT TREATMENT OF MECHANICALLY ALLOYED AL-MO POWDERS.
+Author    : M. ZDUJIC/D. POLETI/LJ. KARANOVIC/K.F. KOBAYASCHI/P.H. SHINGU/
+Reference : Mater. Sci. Eng. A, 1994, 185, 1-2, 77-86
+Keyword   : /Al-Mo/
+Date      : 1994
+
+Rank      : 53643
+Title     : STANDARD ENTHALPIES OF FORMATION OF 4D ALUMINIDES BY DIRECT SYNTHESIS CALORIMETRY.
+Author    : MESCHEL S.V./KLEPPA O.J./
+Reference : J. Alloys Compounds, 1993, 191, 1, 111-116; 10.1016/0925-8388(93)90280-Z
+Keyword   : /Al-Y/Al-Zr/Al-Nb/Al-Mo/Al-Pd/
+Date      : 1993
+
+Rank      : 60059
+Title     : THE AL-AL8MO3 SECTION OF THE BINARY SYSTEM ALUMINUM-MOLYBDENUM
+Author    : SCHUSTER J.C./IPSER H./
+Reference : Metall. Trans. A, 1991, 22, 8, 1729-1736
+Keyword   : /Al-Mo/
+Date      : 1991
+
+Rank      : 61548
+Title     : PHASE COMPOSITION OF EQUILIBRIUM AND NONEQUILIBRIUM ALUMINUM ALLOYS WITH MOLYBDENUM AND SCANDIUM
+Author    : CHELDIEVA G.M./KAZAKOVA E.F./SOKOLOVSKAYA E.M./KALOEV N.I./SAFONOV YU.S./
+Reference : Izv. Vyssh. Ucheb. Zaved., Tsvetn. Metall., 1990, 6, 83-87
+Keyword   : /Al-Mo/Al-Sc/
+Date      : 1990
+
+Rank      : 62298
+Title     : CORROSION OF MO, NB, CR, AND Y IN MOLTEN ALUMINUM
+Author    : TUNCA N./DELAMORE G.W./SMITH R.W./
+Reference : Metall. Trans. A, 1990, 21, 11, 2919-2928
+Keyword   : /Al-Mo/Al-Nb/Al-Cr/Al-Y/
+Date      : 1990
+
+Rank      : 64306
+Title     : MEASUREMENT OF METAL-METAL ADHESION AND INTERFACE SEGREGATION ENERGIES BY CORE-LEVEL PHOTOELECTRON SPECTROSCOPY: ALUMINUM AND SILICON ON MOLYBDENUM (110).
+Author    : ANDERSEN J.N./BJOERNEHOLM O./STENBORG A./NILSSON A./WIGREN C./ MARTENSSON N./
+Reference : J. Phys.: Condens. Matter, 1989, 1, 40, 7309-7313
+Keyword   : /Al-Mo/Mo-Si/
+Date      : 1989
+
+Rank      : 64491
+Title     : INTERMETALLIC COMPOUND LAYER GROWTH AT THE INTERFACE OF SOLID REFRACTORY METALS MOLYBDENUM AND NIOBIUM WITH MOLTEN ALUMINUM.
+Author    : TUNCA N./SMITH R.W./
+Reference : Metall. Trans. A, 1989, 20, 5, 825-836
+Keyword   : /Al-Mo/Al-Nb/
+Date      : 1989
+
+Rank      : 65804
+Title     : EFFET DE RE, C, AL ET B SUR LA COMPOSITION DES PHASES DE MO A 1200- 2000 DEG.C .
+Author    : ZAKHAROV A.M./KAZAKOVA N.I./BURMISTROVA N.P./
+Reference : Izv. Akad. Nauk SSSR, Metally, 1988, 2, 187-191
+Keyword   : /Mo-Re/C-Mo/Al-Mo/B-Mo/
+Date      : 1988
+
+Rank      : 66724
+Title     : INTERFACIAL REACTIONS OF MOLYBDENUM WITH ALUMINUM: ION MIXING VERSUS THERMAL ANNEALING.
+Author    : MA E./BRUNNER A.J./WORKMAN T.W./NIEH C.W./ZHAO X.A./NICOLET M.A./
+Reference : Mater. Res. Soc. Symp. Proc., 1988, 100(FUNDAM. BEAM-SOLID INTERACT. TRANSIENT THERM.PROCESS.), 75-80.
+Keyword   : /Al-Mo/
+Date      : 1988
+
+Rank      : 70565
+Title     : THE DEVELOPMENT OF EQUILIBRIUM PHASES IN RAPIDLY SOLIDIFIED AL-11 AT. % MO .
+Author    : GUEST E.A./CHANG C.P./PRATT J.N./LORETTO M.H./
+Reference : Int. J.Rapid Solidif., 1986, 2, 2, 83-92
+Keyword   : /Al-Mo/
+Date      : 1986
+
+Rank      : 72568
+Title     : INTERACTION OF MOLYBDENUM WITH LIQUID ALUMINUM .
+Author    : NATANZON YA.V./PETRISHCHEV V.YA./VERKHOVODOV P.A./
+Reference : Adgez. Rasplavov Paika Mater., 1985, 15, 72-77
+Keyword   : /Al-Mo/
+Date      : 1985
+
+Rank      : 73015
+Title     : PROPRIETES THERMODYNAMIQUES DES ALLIAGES BINAIRES LIQUIDES DES SYSTEMES AL- ZR, AL- NB, AL- MO .
+Author    : SUDAVTSOVA V.S./BATALIN G.I./TUTEVICH V.S./
+Reference : Izv. Akad. Nauk SSSR, Metally, 1985, 5, 185-187
+Keyword   : /Al-Zr/Al-Nb/Al-Mo/
+Date      : 1985
+
+Rank      : 79620
+Title     : HIGH TEMPERATURE THERMODYNAMIC STUDY OF THE MOLYBDENUM-RICH REGIONS OF THE MO-AL SYSTEM .
+Author    : SHILO I./FRANZEN H.F./
+Reference : J. Electrochem. Soc., 1982, 129, 11, 2613-2617; 10.1149/1.2123630
+Keyword   : /Al-Mo/
+Date      : 1982
+
+Rank      : 82098
+Title     : MOLYBDENUM : PHYSICO-CHEMICAL  PROPERTIES OF ITS COMPOUNDS AND ALLOYS.
+Author    : L. BREWER/R.H. LAMOREAUX/
+Reference : ATOMIC ENERGY REV., SPECIAL ISSUE, N°7, PART II, 195-356. PHASE DIAGRAMS, L. BREWER EDITOR, INTERNATIONAL ATOMIC ENERGY AGENCY, VIENNA, (1980).
+Keyword   : /Mo-U/Ac-Mo/Ag-Mo/Al-Mo/Am-Mo/As-Mo/At-Mo/Au-Mo/B-Mo/Ba-Mo/Be-Mo/Bi-Mo/Bk-Mo/Br-Mo/C-Mo/Ca-Mo/Cd-Mo/Ce-Mo/Cf-Mo/Cl-Mo/Cm-Mo/Co-Mo/Cr-Mo/Cs-Mo/Cu-Mo/Dy-Mo/Er-Mo/Es-Mo/Eu-Mo/F-Mo/Fe-Mo/Fm-Mo/Fr-Mo/Ga-Mo/Gd-Mo/Ge-Mo/H-Mo/He-Mo/Hf-Mo/Hg-Mo/Ho-Mo/I-Mo/In-Mo/Ir-Mo/K-Mo/Kr-Mo/La-Mo/Li-Mo/Lr-Mo/Lu-Mo/Md-Mo/Mg-Mo/Mn-Mo/Mo-N/Mo-Na/Mo-Nb/Mo-Nd/Mo-Ne/Mo-Ni/Mo-No/Mo-Np/Mo-O/Mo-Os/Mo-P/Mo-Pa/Mo-Pb/Mo-Pd/Mo-Pm/Mo-Po/Mo-Pr/Mo-Pt/Mo-Pu/Mo-Ra/Mo-Rb/Mo-Re/Mo-Rh/Mo-Rn/Mo-Ru/Mo-S/Mo-Sb/Mo-Sc/Mo-Se/Mo-Si/Mo-Sm/Mo-Sn/Mo-Sr/Mo-Ta/Mo-Tb/Mo-Tc/Mo-Te/Mo-Th/Mo-Ti/Mo-Tl/Mo-Tm/Mo-V/Mo-W/Mo-Xe/Mo-Y/Mo-Yb/Mo-Zn/Mo-Zr/Ar-Mo/
+Date      : 1980
+
+Rank      : 82157
+Title     : THE AL-MO SYSTEM .
+Author    : Leo Brewer/R. H. Lamoreaux/R. Ferro/R. Marazza
+Reference : Bull. Alloy Phase Diag., 1980, 1, 2, 71-75; 10.1007/BF02881193
+Keyword   : /Al-Mo/
+Date      : 1980
+
+Rank      : 83257
+Title     : THE POSITION OF THE LIQUIDUS IN THE ALUMINUM-MOLYBDENUM SYSTEM .
+Author    : MALINOVSKII R.R./
+Reference : TEKHNOL.LEGK.SPLAVOV, 1980, (1), 60-61.
+Keyword   : /Al-Mo/
+Date      : 1980
+
+Rank      : 85273
+Title     : COUPLED PHASE DIAGRAMS AND THERMOCHEMICAL DATA FOR TRANSITION METAL BINARY SYSTEMS - V.
+Author    : L. KAUFMAN/H. NESOR/
+Reference : CALPHAD, 1978, 2, 4, 325-348; 10.1016/0364-5916(78)90020-2
+Keyword   : /Al-Ni/Al-Ti/Al-Cr/Al-Mn/Al-Fe/Al-Co/Al-Cu/Al-Nb/Al-Mo/Al-W/
+Date      : 1978
+
+Rank      : 88795
+Title     : INTERACTION OF THE REFRACTORY METALS WITH LIQUID ALUMINUM .
+Author    : EREMENKO V.N./NATANZON YA.V./DYBKOV V.I./
+Reference : J. Less Common Met., 1976, 50, 1, 29-48
+Keyword   : /Al-Nb/Al-Ta/Al-Mo/Al-W/
+Date      : 1976
+
+Rank      : 88996
+Title     : STUDY OF THE PHASE DIAGRAM OF AN ALUMINUM-MOLYBDENUM SYSTEM USING A METHOD OF INTERACTING PAIRS .
+Author    : ZVEROV G.A./ALEKSANDROVA N.R./
+Reference : NEKOTOR. VOPR. FIZ. KINET. TVERD. TEL, 1976, (2), 89-98. FROM REF.ZH., METALL. 1976, ABSTR. N. 12I47. TITLE ONLY TRANSLATED.
+Keyword   : /Al-Mo/
+Date      : 1976
+
+Rank      : 90223
+Title     : WETTING OF MOLYBDENUM WITH LIQUID ALUMINUM .
+Author    : SEBO P./HUTKA P./HAVALDA A./IVAN J./TABORSKY L./
+Reference : Kovove Mater., 1975, 13, 5, 654-661
+Keyword   : /Al-Mo/
+Date      : 1975
+
+Rank      : 93670
+Title     : THERMOCHEMISTRY OF ALLOYS CONTAINING ALUMINUM, SILICON, AND BORON .
+Author    : GORELKIN O.S./DUBROVIN A.S./KOLESNIKOVA O.D./DEMIDOV YU.YA./CHIRKOV N. A./
+Reference : PROIZVOD.FERROSPLAVOV, 1972, (1), 123-137. FROM REF.ZH., MET. 1972, ABSTR. N. 12 A26.
+Keyword   : /Al-Fe/Al-V/Al-Mo/Al-Nb/Fe-Si/Si-V/Nb-Si/B-Fe/B-Ni/Fe-Si-V/Fe-Nb-Si/Al-Nb-Si/
+Date      : 1972
+
+Rank      : 96558
+Title     : THERMODYNAMIQUE DES ALLIAGES SOLIDES DU SYSTEME MO-AL.
+Author    : BELYAEVA G.I./ILYSHENKO N.G./ANFINOGENOV A.I./
+Reference : TR.INST.ELEKTROKHIM., AKAD.NAUK SSSR, URAL.FILIAL, 1967, 10, 85.
+Keyword   : /Al-Mo/
+Date      : 1967
+
+Rank      : 97703
+Title     : DIAGRAMME DE PHASE DU SYSTEME AL-MO.
+Author    : WALFORD L.K./
+Reference : Philos. Mag. Ser. 8, 1964, 9, 99, 517-526
+Keyword   : /Al-Mo/
+Date      : 1964
+
+Rank      : 99544
+Title     : SYSTEMES AL-MO ET AL-MO-V.
+Author    : SPERNER F./
+Reference : Z. Metallkde., 1959, 50, 10, 588-591
+Keyword   : /Al-Mo/Al-Mo-V/
+Date      : 1959
+

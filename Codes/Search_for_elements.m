@@ -16,7 +16,12 @@ fwrite(out,newline);
 fwrite(out,char(13));
 fwrite(out,newline);
 
-disp('Scanning database, please wait...')
+disp(' ')
+disp('**********************************************************')
+disp(['Search results for /',identifier(2:end),'/ system'])
+disp('**********************************************************')
+disp(' ')
+
 counter=0;
 match=0;
 while ~feof(fid)
@@ -35,25 +40,19 @@ while ~feof(fid)
         cle=fgets(fid);
         null=fgets(fid);
         date=fgets(fid);
-
+        
         empty=1;
         for i=1:1:length(permutations)
             phrase=[];
             for j=1:1:nargin
                 phrase=[phrase,'-',varargin{permutations(i,j)}];
             end
-            phrase_1=[phrase(2:end),'/'];
-            if not(isempty(strfind(cle,phrase_1)))
-                if strfind(cle,phrase_1)==1
-                    empty=0;
-                end
-            end
-            phrase_2=['/',phrase(2:end),'/'];
-            if not(isempty(strfind(cle,phrase_2)))
+            phrase=['/',phrase(2:end),'/'];
+            if not(isempty(strfind(cle,phrase)))
                 empty=0;
             end
         end
-
+        
         if empty==0
             match=match+1;
             fwrite(out,['Rank      : ',num2str(counter)]);
@@ -66,10 +65,19 @@ while ~feof(fid)
             fwrite(out,['Date      : ',date]);
             fwrite(out,char(13));
             fwrite(out,newline);
+            
+            disp('****************************************************')
+            disp(['Rank      : ',num2str(counter)]);
+            disp(['Title     : ',title(1:end-2)]);
+            disp(['Author    : ',author(1:end-2)]);
+            disp(['Reference : ',reference(1:end-2)]);
+            disp(['Keyword   : ',cle(1:end-2)]);
+            disp(['Date      : ',date(1:end-2)]);
         end
     end
 end
 fclose(fid);
 fclose(out);
 disp([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
+disp('Results in the ./Search_results/ folder')
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
