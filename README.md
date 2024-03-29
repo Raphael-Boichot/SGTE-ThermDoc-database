@@ -65,7 +65,7 @@ The original database is never modified during the maintenance, all operations a
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
 - Additionnal commands can be made on request.
 
-## License
+## Licenses
 
 - the GNU Octave codes provided are under the GPL-3.0 license
 - the ThermDoc database is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
