@@ -43,9 +43,9 @@ The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#
 
 Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
-## Database maintenance
+## Database maintenance for administrators
 
-This part is not required to use the database as I will update it regularly but if you want to update it whatever the reason, go to:
+Regular users are not supposed to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
 ```
 ./Codes/Service_folder/Source_database/
 ```
@@ -59,7 +59,7 @@ The script will:
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
-The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on Matlab to one hour with GNU Octave so it is not advised to use it as the working databse provided in the repo is always up to date. It may be used in case of frequent crash of the working database only, to rebuild it.
+The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on GNU Octave.
 
 ## Dev notes
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
