@@ -53,7 +53,7 @@ And copy/paste the new database you want to process, then run:
 ```
 The script will:
 - detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
-- detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search;
+- detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. Add a starting / to each "cle" to fasten search for multinaries;
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
