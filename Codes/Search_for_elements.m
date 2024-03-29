@@ -48,7 +48,7 @@ while ~feof(fid)
                 phrase=[phrase,'-',varargin{permutations(i,j)}];
             end
             phrase=['/',phrase(2:end),'/'];
-            if not(isempty(strfind(cle,phrase)))
+            if not(isempty(strfind(upper(cle),upper(phrase))))
                 empty=0;
             end
         end
