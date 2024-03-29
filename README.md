@@ -67,8 +67,8 @@ The original database is never modified during the maintenance, all operations a
 
 ## Licenses
 
-- The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the authors.
-- The ThermDoc database is is shared free of charge and is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
+- The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT).
+- The ThermDoc database is shared free of charge and is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
 ## To cite the database in your work
 - Citation reference to add
