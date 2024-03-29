@@ -29,17 +29,17 @@ Search_for_elements('Mo')           %search for citations about pure Molybdenum 
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request.
+Any element can be added to the list. Inquiry is not case sensitive. The more the elements, the slower the search as any possible combination must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. This command is **case sensitive.**
 
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Not case sensitive.
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. This command is **not accent or case sensitive.**
 
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on.
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. This command is **not accent or case sensitive.**
 
 Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
@@ -55,7 +55,7 @@ And copy/paste the new database you want to process, update the name in [Service
 ```
 The script will:
 - detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
-- detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. Add a starting / to each "cle" to fasten search for multinaries;
+- detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. It also adds a starting / to each "cle" to fasten search for multinaries;
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
