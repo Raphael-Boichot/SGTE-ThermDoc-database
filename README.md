@@ -41,7 +41,7 @@ Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium
 ```
 The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. This command is **not accent or case sensitive.**
 
-Commands can of course be scripted and ran as a batch, see **./Codes/Script.m** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
+Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
 ## Database maintenance for administrators
 
@@ -49,12 +49,12 @@ Regular users are not supposed to perform this task as the provided files are up
 ```
 ./Codes/Service_folder/Source_database/
 ```
-And copy/paste the new database you want to process, update the name in [Service_script.m](), then run:
+And copy/paste the new database you want to process, update the name in [Service_script.m](/Codes/Service_folder/Service_script.m#L6), then run:
 ```matlab
 ./Codes/Service_folder/Service_script.m
 ```
 The script will:
-- detect any lacking field and report it in the **./Codes/Service_folder/Error_outputs/** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
+- detect any lacking field and report it in the **[./Codes/Service_folder/Error_outputs/](/Codes/Search_results)** folder. The original database contains lots of missinge titles, this is normal. Any other lackig field should be fixed;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. It also adds a starting / to each "cle" to fasten search for multinaries;
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
