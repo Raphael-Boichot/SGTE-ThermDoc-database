@@ -37,7 +37,7 @@ Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as author
 The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. This command is **not accent or case sensitive.**
 
 ```matlab
-Search_for_keywords('Plutonium','Osmium') %search for paper containing Plutonium and Osmium in the title
+Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
 The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. This command is **not accent or case sensitive.**
 
