@@ -1,7 +1,7 @@
 function []=Sort_by_dates_and_fix_syntax(input_file, output_file)
 warning ('off','all');
 out = fopen(output_file,'w');
-disp('Scanning database for unique dates, please wait...')
+%disp('Scanning database for unique dates, please wait...')
 fid = fopen(input_file,'r');
 match=0;
 entries=0;
@@ -25,17 +25,18 @@ while ~feof(fid)
     end
 end
 
-disp('End of pre-scan')
+%disp('End of pre-scan')
 %histogram(date_list,length(unique(date_list)))
 %xlabel('Years')
 %ylabel('Reference per year')
 %drawnow
 date_list=flip(unique(date_list));
 disp([num2str(length(date_list)),' different years of recording detected'])
+disp(['Now sorting references by year...'])
 ref_entered=0;
 for m=1:1:length(date_list)
     date_ref=date_list(m);
-    disp(['********Extracting, fixing and sorting references from year ',num2str(date_ref)])
+    %disp(['********Extracting, fixing and sorting references from year ',num2str(date_ref)])
     counter=0;
     match=0;
     ill_formated=0;
@@ -99,9 +100,13 @@ for m=1:1:length(date_list)
         end
     end
     fclose(fid);
-    disp([num2str(match),' references found for year ',num2str(date_ref),' in the ThermDoc database'])
+    stars=[];
+    for m=1:40:match
+        stars=[stars,'X'];
+    end
+    disp(['Year ',num2str(date_ref),': ',stars,' ',num2str(match),' ref.'])
     %disp([num2str(ill_formated),' keywords for elements corrected due to missing /'])
-    disp([num2str(ref_entered),' references entered in the working database'])
+    %disp([num2str(ref_entered),' references entered in the working database'])
 end
 fclose(out);
 disp([num2str(entries),' references present in the original database'])

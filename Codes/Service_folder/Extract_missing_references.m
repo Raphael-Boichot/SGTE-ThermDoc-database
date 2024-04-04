@@ -3,7 +3,7 @@ warning ('off','all');
 output_file='Error_outputs/Ref_with_missing_references.txt';
 out = fopen(output_file,'w');
 fid = fopen(input_file,'r');
-disp('Scanning database, please wait...')
+%disp('Scanning database, please wait...')
 counter=0;
 match=0;
 while ~feof(fid)
