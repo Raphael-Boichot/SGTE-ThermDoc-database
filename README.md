@@ -45,7 +45,7 @@ The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#
 cd Search_results
 open 'Plutonium-Osmium.txt' 
 ```
-Opens the results of latter serach notepad for Windows users (you can of course seek for them directly in the dedicated folder).
+Opens the results of latter search in notepad for Windows users (you can of course seek for them directly in the dedicated folder).
 
 Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
