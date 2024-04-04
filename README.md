@@ -41,6 +41,12 @@ Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in th
 ```
 The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. This command is **not accent or case sensitive.**
 
+```matlab
+cd Search_results
+open 'Plutonium-Osmium.txt' 
+```
+Opens the results of latter serach notepad for Windows users (you can of course seek for them directly in the dedicated folder).
+
 Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
 ## Database maintenance for administrators
