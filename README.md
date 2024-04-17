@@ -56,6 +56,7 @@ Opens the results of latter search in notepad for Windows users (you can of cour
 **Scripting**
 
 Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files.
+![](/Scripting.png)
 
 ## Database maintenance for administrators
 
