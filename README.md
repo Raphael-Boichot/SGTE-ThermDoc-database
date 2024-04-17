@@ -59,6 +59,8 @@ Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](
 
 ![](/Scripting.png)
 
+Go to the "command window" to see the results.
+
 ## Database maintenance for administrators
 
 Regular users are not supposed to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
