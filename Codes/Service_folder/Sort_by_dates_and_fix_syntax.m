@@ -66,15 +66,15 @@ for m=1:1:length(date_list)
                 fwrite(out,'tit');
                 fwrite(out,char(13));
                 fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(unicode2native(title,'ISO-8859-1'))));
+                fwrite(out,remove_accents_from_string(char(native2unicode(title,'ISO-8859-1'))));
                 fwrite(out,'aut');
                 fwrite(out,char(13));
                 fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(unicode2native(author,'ISO-8859-1'))));
+                fwrite(out,remove_accents_from_string(char(native2unicode(author,'ISO-8859-1'))));
                 fwrite(out,'ref');
                 fwrite(out,char(13));
                 fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(unicode2native(reference,'ISO-8859-1'))));
+                fwrite(out,remove_accents_from_string(char(native2unicode(reference,'ISO-8859-1'))));
                 if length(cle)>2
                     if not(cle(end-2)=='/')
                         cle=[cle(1:end-2),'/',cle(end-1:end)];
