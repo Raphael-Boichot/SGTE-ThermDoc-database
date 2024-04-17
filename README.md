@@ -38,13 +38,13 @@ Any element can be added to the list. The more the elements, the slower the sear
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case sensitive** ("Bronsted" and "BRONSTED" acts the same as author). Accents must be avoided ("Brönsted" is not a valid argument).
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case or accent sensitive** ("Brönsted", "Bronsted" and "BRONSTED" are equivalent syntax).
 
 **Search for keywords**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive** (Selenium and SELENIUM are both equivalent title keywords). Accents must be avoided ("Sélénium" is not a valid argument).
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not case or accent sensitive** ("Sélénium", "Selenium" and "SELENIUM" are equivalent syntax).
 
 **Export your queries**
 ```matlab
@@ -76,7 +76,6 @@ And copy/paste the new database you want to process, update the name in [Service
 The script will:
 - detect any lacking field / inconsistency and report it in the **[./Codes/Service_folder/Error_outputs/](/Codes/Service_folder/Error_outputs)** folder. The original database contains lots of missinge titles, this is normal. Any other lacking field should be fixed soon;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. It also adds a starting / to each "cle" to fasten search for multinaries;
-- remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
 The original database is never modified during the maintenance, all operations are made on the working database only.
