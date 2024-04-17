@@ -15,7 +15,19 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 **It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands.** All codes are directly compatible with Matlab in case you own a license.
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
-- Download the repository an unzip it to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
+- Download the repository an unzip it to a local folder and go to the **./Code** folder;
+
+**Easy launch:**
+- Right click on **Script.m** -> Open with -> GNU Octave Launcher;
+- Edit the script;
+- Run with "Save and run"
+- Choose "Change directory"
+![](/Scripting.png)
+
+Go to the "command window" or to the dedicated result folder to see the results.
+
+**Command line launch:**
+- from the GNU Octave CLI or GUI, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
 - Use the intuitive syntax or execute scripts from Octave CLI or GUI to extract references from the database; 
 - Results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
 - Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
@@ -56,10 +68,6 @@ Opens the results of latter search in notepad for Windows users. You can of cour
 **Scripting**
 
 Commands can scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files and can just be executed with the "Save and run" button.
-
-![](/Scripting.png)
-
-Go to the "command window" or to the dedicated folder to see the results.
 
 ## Database maintenance for administrators
 
