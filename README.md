@@ -75,6 +75,7 @@ The script will:
 - detect any lacking field / inconsistency and report it in the **[./Codes/Service_folder/Error_outputs/](/Codes/Service_folder/Error_outputs)** folder. The original database contains lots of missinge titles, this is normal. Any other lacking field should be fixed soon;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. It also adds a starting / to each "cle" to fasten search for multinaries;
 - sort and copy by descending year all entries of the original database to the working database;
+- remove the accents from European names/titles.
 
 The original database is never modified during the maintenance, all operations are made on the working database only.
 
