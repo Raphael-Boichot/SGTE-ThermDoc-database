@@ -32,7 +32,7 @@ Search_for_elements('Mo')           %search for citations about pure Molybdenum 
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements** (MO and Mo acts the same to search for molybdenum).
+Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements** ('MO' and 'Mo' acts the same as argument to search for molybdenum).
 
 **Search for authors**
 ```matlab
