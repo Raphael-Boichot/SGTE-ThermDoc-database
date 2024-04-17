@@ -32,25 +32,19 @@ Search_for_elements('Mo')           %search for citations about pure Molybdenum 
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements:**
-
-```matlab
-Search_for_elements('Al','Mo')
-Search_for_elements('AL','MO') 
-```
-Both commands act the same.
+Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements** (MO and Mo acts the same to search for molybdenum).
 
 **Search for authors**
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not accent or case sensitive.**
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not accent or case sensitive** (Brönsted and BRONSTED acts the same as author).
 
 **Search for keywords**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive.**
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive** (Sélénium and SELENIUM are both equivalent title keywords) .
 
 **Export your queries**
 ```matlab
