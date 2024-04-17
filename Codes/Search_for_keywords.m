@@ -7,7 +7,7 @@ for j=1:1:nargin
     identifier=[identifier,'-',varargin{j}];
 end
 for j=1:1:nargin
-    varargin{j}=upper(remove_accents_from_string(varargin{j}));
+    varargin{j}=upper(remove_accents_from_string(char(unicode2native(varargin{j},'ISO-8859-1'))));
 end
 output_file=['./Search_results/',identifier(2:end),'.txt'];
 out = fopen(output_file,'w');
@@ -62,7 +62,7 @@ while ~feof(fid)
             fwrite(out,['Date      : ',date]);
             fwrite(out,char(13));
             fwrite(out,newline);
-            
+
             disp('****************************************************')
             disp(['Rank      : ',num2str(counter)]);
             disp(['Title     : ',title(1:end-2)]);
