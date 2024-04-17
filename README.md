@@ -17,7 +17,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
 - Download the repository an unzip it to a local folder and go to the **./Code** folder;
 
-**Easy launch:**
+**Easy launch with the GNU Octave GUI:**
 - Right click on **Script.m** -> Open with -> GNU Octave Launcher;
 - Edit the script;
 - Run with "Save and run";
@@ -27,7 +27,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 ![](/Scripting.png)
 
 **Linux feeling launch:**
-- from the GNU Octave CLI or GUI, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
+- from the **GNU Octave CLI**, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
 - Use the intuitive syntax or execute scripts from Octave CLI or GUI to extract references from the database; 
 - Results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
 - Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
