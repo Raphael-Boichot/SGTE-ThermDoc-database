@@ -28,11 +28,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 **Linux feeling launch with the GNU Octave CLI:**
 - from the **GNU Octave CLI**, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax (see next) or edit the **Script** in the current folder like this:
-```matlab
-open 'Script.m' 
-```
-Then save from text editor and run it like this:
+- Use the intuitive syntax (see next section) or edit **Script.m** in any text editor, then save and run it like this:
 ```matlab
 Script 
 ```
@@ -86,7 +82,7 @@ Regular users are not expected to perform this task as the provided files are up
 ```
 And copy/paste the new database you want to process, update the name in [Service_script.m](/Codes/Service_folder/Service_script.m#L6), then run:
 ```matlab
-./Codes/Service_folder/Service_script.m
+Service_script
 ```
 ![](/Images/Scripting_3.png)
 
