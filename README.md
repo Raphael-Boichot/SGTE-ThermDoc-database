@@ -40,7 +40,7 @@ Script
 Each inquiry takes about 10 seconds on GNU Octave. References will be sorted by descending year.
 
 ## Example of syntax
-Here are some example of commands that can be used, supposed you are in the **[./Code](/Codes)** directory:
+Here are some example of commands that can be used directly or scripted, supposing that you are in the **[./Code](/Codes)** directory:
 
 **Search for elements and multinaries**
 ```matlab
@@ -48,7 +48,7 @@ Search_for_elements('Mo')           %search for citations about pure Molybdenum 
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements** ('MO' and 'Mo' acts the same as argument to search for molybdenum).
+Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements** ('MO' and 'Mo' acts the same as argument to include molybdenum into the search).
 
 **Search for authors**
 ```matlab
