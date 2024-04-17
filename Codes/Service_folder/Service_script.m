@@ -1,6 +1,7 @@
 clc
 disp('***************************************************************')
 disp('******Start of database formatting, this may take a while******')
+%disp('***********Maintenance must be made with MATLAB ONLY***********')
 disp('***************************************************************')
 disp(' ')
 database_in='./Source_database/ThermDoc23a.bib';
