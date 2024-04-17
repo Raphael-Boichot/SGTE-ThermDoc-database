@@ -20,11 +20,11 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 **Easy launch:**
 - Right click on **Script.m** -> Open with -> GNU Octave Launcher;
 - Edit the script;
-- Run with "Save and run"
-- Choose "Change directory"
-![](/Scripting.png)
+- Run with "Save and run";
+- Choose "Change directory";
+- Go to the "command window" or to the dedicated result folder to see the results.
 
-Go to the "command window" or to the dedicated result folder to see the results.
+![](/Scripting.png)
 
 **Linux feeling launch:**
 - from the GNU Octave CLI or GUI, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
