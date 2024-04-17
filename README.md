@@ -62,13 +62,6 @@ Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in th
 ```
 The command extract references with Keyword#1 **and** Keyword#2 **and** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent arguments).
 
-**Export your queries**
-```matlab
-cd Search_results
-open 'Plutonium-Osmium.txt' 
-```
-Opens the results of latter search in notepad for Windows users. You can of course just seek for them directly in the dedicated folder.
-
 **Scripting**
 
 Commands can scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files and can just be executed with the "Save and run" button.
