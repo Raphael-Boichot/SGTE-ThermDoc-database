@@ -26,7 +26,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 ![](/Scripting.png)
 
-**Linux feeling launch:**
+**Linux feeling launch with the GNU Octave CLI:**
 - from the **GNU Octave CLI**, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
 - Use the intuitive syntax (see next) or edit the **Script** in the current folder like this:
 ```matlab
