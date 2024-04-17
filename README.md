@@ -28,8 +28,11 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 **Linux feeling launch:**
 - from the **GNU Octave CLI**, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax or execute scripts from Octave CLI or GUI to extract references from the database; 
-- Results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
+- Use the intuitive syntax (see next) or execute the **Script** in the current folder like this:
+```matlab
+open 'Script.m' 
+```
+- Search results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
 - Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
 
