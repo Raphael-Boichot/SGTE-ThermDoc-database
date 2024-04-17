@@ -12,16 +12,16 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 ## Installation and use
 
-**It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands.**
+**It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands.** All codes are directly compatible with Matlab in case you own a license.
 
-- Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
+- Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
 - Download the repository an unzip it to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
 - Use the intuitive syntax or execute scripts from Octave CLI or GUI to extract references from the database; 
 - Results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
-- *.m scripts are just text files that can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
+- Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
 
-Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same. Each reference list will be sorted by descending year.
+Each inquiry takes about 10 seconds on GNU Octave. References will be sorted by descending year.
 
 ## Example of syntax
 Here are some example of commands that can be used, supposed you are in the **[./Code](/Codes)** directory:
@@ -38,28 +38,28 @@ Any element can be added to the list. The more the elements, the slower the sear
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case or accent sensitive** ('Brönsted', 'Bronsted' and 'BRONSTED' are equivalent arguments).
+The command extract references with Author#1 **and** Author#2 **and** Author#3, and so on. Arguments are **not case or accent sensitive** ('Brönsted', 'Bronsted' and 'BRONSTED' are equivalent arguments).
 
-**Search for keywords**
+**Search for keywords in the reference title**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent arguments).
+The command extract references with Keyword#1 **and** Keyword#2 **and** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent arguments).
 
 **Export your queries**
 ```matlab
 cd Search_results
 open 'Plutonium-Osmium.txt' 
 ```
-Opens the results of latter search in notepad for Windows users (you can of course seek for them directly in the dedicated folder).
+Opens the results of latter search in notepad for Windows users. You can of course just seek for them directly in the dedicated folder.
 
 **Scripting**
 
-Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files and can just be executed with the "Save and run" button.
+Commands can scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files and can just be executed with the "Save and run" button.
 
 ![](/Scripting.png)
 
-Go to the "command window" to see the results.
+Go to the "command window" or to the dedicated folder to see the results.
 
 ## Database maintenance for administrators
 
