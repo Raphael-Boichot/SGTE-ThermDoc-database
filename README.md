@@ -14,7 +14,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 **It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands.** All codes are directly compatible with Matlab in case you own a license.
 
-- Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/);
+- Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) and associate with the *.m file extension;
 - Download the repository an unzip it to a local folder and go to the **./Code** folder;
 
 **Easy launch with the GNU Octave GUI:**
