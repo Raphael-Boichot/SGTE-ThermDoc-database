@@ -55,9 +55,7 @@ Opens the results of latter search in notepad for Windows users (you can of cour
 
 **Scripting**
 
-Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. 
-
-Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
+Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files.
 
 ## Database maintenance for administrators
 
