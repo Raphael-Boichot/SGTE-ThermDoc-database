@@ -63,7 +63,7 @@ Go to the "command window" to see the results.
 
 ## Database maintenance for administrators
 
-Database maintenance **requires using Matlab** as the extended ASCII character set is not properly handled by GNU Octave at the moment. 
+Database maintenance **requires using Matlab** as the extended ASCII character set is **not properly handled by GNU Octave** at the moment. Using GNU Octave for maintenance will mess-up the entries with accented characters.
 
 Regular users are not supposed to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
 ```
@@ -79,7 +79,7 @@ The script will:
 - remove any accent from any European reference to avoid missing them by accident;
 - sort and copy by descending year all entries of the original database to the working database;
 
-The original database is never modified during the maintenance, all operations are made on the working database only. The service script take about 20 minutes on GNU Octave.
+The original database is never modified during the maintenance, all operations are made on the working database only.
 
 ## Dev notes
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
