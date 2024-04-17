@@ -14,7 +14,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
 - Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave command interface accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax from the command window to extract references from the ThermDoc database or execute scripts;
+- Use the intuitive syntax from the command window (Octave CLI) or directly from Octave GUI to extract references from the ThermDoc database or execute scripts;
 - Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
 - *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
@@ -24,22 +24,25 @@ Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octav
 ## Example of syntax
 Here are some example of commands that can be used, supposed you are in the **[./Code](/Codes)** directory:
 
+**Search for elements and multinaries**
 ```matlab
 Search_for_elements('Mo')           %search for citations about pure Molybdenum metal only
 Search_for_elements('Al','Mo')      %search for citations about Al-Mo binary only
 Search_for_elements('Al','Cu','Mo') %search for citations about Al-Cu-Mo ternary only
 ```
-Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. This command is **not case sensitive.**
+Any element can be added to the list. The more the elements, the slower the search as any possible combination (n! typically) must be assessed (elements are not always listed by atomic mass in the database). The current version of the code does not allow yet to refine an enquiry (like papers about Mg-Al binaries from a particular author), may be programmed on request. Arguments are **not case sensitive for elements.**
 
+**Search for authors**
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. This command is **not accent or case sensitive.**
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not accent or case sensitive.**
 
+**Search for keywords**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. This command is **not accent or case sensitive.**
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive.**
 
 ```matlab
 cd Search_results
