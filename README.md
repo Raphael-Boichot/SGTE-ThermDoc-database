@@ -63,9 +63,7 @@ Go to the "command window" to see the results.
 
 ## Database maintenance for administrators
 
-Database maintenance **requires using Matlab** as the extended ASCII character set is **not properly handled by GNU Octave** at the moment. Using GNU Octave for maintenance will mess-up the entries with accented characters.
-
-Regular users are not supposed to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
+Regular users are not expected to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
 ```
 ./Codes/Service_folder/Source_database/
 ```
