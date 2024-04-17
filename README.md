@@ -38,13 +38,13 @@ Any element can be added to the list. The more the elements, the slower the sear
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not accent or case sensitive** (Brönsted and BRONSTED acts the same as author).
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case sensitive** ("Bronsted" and "BRONSTED" acts the same as author). Accents must be avoided ("Brönsted" is not a valid argument).
 
 **Search for keywords**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive** (Sélénium and SELENIUM are both equivalent title keywords) .
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive** (Selenium and SELENIUM are both equivalent title keywords). Accents must be avoided ("Sélénium" is not a valid argument).
 
 **Export your queries**
 ```matlab
@@ -62,6 +62,8 @@ Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](
 Go to the "command window" to see the results.
 
 ## Database maintenance for administrators
+
+Database maintenance **requires using Matlab** as the extended ASCII character set is not properly handled by GNU Octave at the moment. 
 
 Regular users are not supposed to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
 ```
