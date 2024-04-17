@@ -35,7 +35,6 @@ Script
 ![](/Images/Scripting_2.png)
 
 - Search results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
-- Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
 
 Each inquiry takes about 10 seconds on GNU Octave. References will be sorted by descending year.
