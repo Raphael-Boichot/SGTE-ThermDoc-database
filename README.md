@@ -62,10 +62,6 @@ Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in th
 ```
 The command extract references with Keyword#1 **and** Keyword#2 **and** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent arguments).
 
-**Scripting**
-
-Commands can scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Scripts are stored as .m files and can just be executed with the "Save and run" button.
-
 ## Database maintenance for administrators
 
 Regular users are not expected to perform this task as the provided files are up to date and easier to clone from the repository but if you want to update it whatever the reason, go to:
