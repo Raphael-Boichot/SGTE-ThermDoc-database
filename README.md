@@ -12,9 +12,11 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 ## Installation and use
 
+**It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux Feeling on Windows and works the same but requires a precise syntax**
+
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
-- Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave command interface accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax from the command window (Octave CLI) or directly from Octave GUI to extract references from the ThermDoc database or execute scripts. **It is recommended to use Octace GUI which requires only editing pre-existing scripts and clicking on run**;
+- Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave command line interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
+- Use the intuitive syntax from Octave CLI or directly from Octave GUI to extract references from the ThermDoc database or execute scripts; 
 - Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
 - *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
