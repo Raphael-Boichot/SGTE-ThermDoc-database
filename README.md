@@ -32,7 +32,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 ```matlab
 open 'Script.m' 
 ```
-and run it like this:
+Then save from text editor and run it like this:
 ```matlab
 Script 
 ```
