@@ -1,4 +1,4 @@
-![](SGTE.gif)
+![](/Images/SGTE.gif)
 
 # SGTE ThermDoc database and exploration tools
 
@@ -24,7 +24,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 - Choose "Change directory";
 - Go to the "command window" or to the dedicated result folder to see the results.
 
-![](/Scripting.png)
+![](/Images/Scripting.png)
 
 **Linux feeling launch with the GNU Octave CLI:**
 - from the **GNU Octave CLI**, go to the **./Code** folder. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
@@ -36,6 +36,8 @@ Then save from text editor and run it like this:
 ```matlab
 Script 
 ```
+![](/Images/Scripting_2.png)
+
 - Search results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
 - Scripts (.m files) can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
@@ -86,6 +88,8 @@ And copy/paste the new database you want to process, update the name in [Service
 ```matlab
 ./Codes/Service_folder/Service_script.m
 ```
+![](/Images/Scripting_3.png)
+
 The script will:
 - detect any lacking field / inconsistency and report it in the **[./Codes/Service_folder/Error_outputs/](/Codes/Service_folder/Error_outputs)** folder. The original database contains lots of missinge titles, this is normal. Any other lacking field should be fixed soon;
 - detect any issue in the "cle" field containing elements. Indeed, the elements list does not always end by / which slows down the search. It also adds a starting / to each "cle" to fasten search for multinaries;
