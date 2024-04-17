@@ -14,7 +14,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
 - Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave command interface accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax from the command window (Octave CLI) or directly from Octave GUI to extract references from the ThermDoc database or execute scripts;
+- Use the intuitive syntax from the command window (Octave CLI) or directly from Octave GUI to extract references from the ThermDoc database or execute scripts. It is recommended to use Octace GUI which requires only editing pre-existing scripts and clicking on run;
 - Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
 - *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
@@ -44,13 +44,17 @@ Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in th
 ```
 The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not accent or case sensitive.**
 
+**Export your queries**
 ```matlab
 cd Search_results
 open 'Plutonium-Osmium.txt' 
 ```
 Opens the results of latter search in notepad for Windows users (you can of course seek for them directly in the dedicated folder).
 
-Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
+**Scripting**
+Commands can of course be scripted and ran as a batch, see **[./Codes/Script.m](/Codes/Script.m)** for example of script containing several commands. 
+
+Papers are listed by years to ease the reading and a command to extract certain years would have no purpose. These simple commands must cover 99% of the needs of database users.
 
 ## Database maintenance for administrators
 
