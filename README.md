@@ -38,13 +38,13 @@ Any element can be added to the list. The more the elements, the slower the sear
 ```matlab
 Search_for_authors('Chatillon','Nuta')  %search for Chatillon and Nuta as authors
 ```
-The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case or accent sensitive** ('Brönsted', 'Bronsted' and 'BRONSTED' are equivalent syntax).
+The command extract references with Author#1 **AND** Author#2 **AND** Author#3, and so on. Arguments are **not case or accent sensitive** ('Brönsted', 'Bronsted' and 'BRONSTED' are equivalent arguments).
 
 **Search for keywords**
 ```matlab
 Search_for_keywords('Plutonium','Osmium') %search for Plutonium and Osmium in the title
 ```
-The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent syntax).
+The command extract references with Keyword#1 **AND** Keyword#2 **AND** Keyword#3, and so on. Arguments are **not case or accent sensitive** ('Sélénium', 'Selenium' and 'SELENIUM' are equivalent arguments).
 
 **Export your queries**
 ```matlab
