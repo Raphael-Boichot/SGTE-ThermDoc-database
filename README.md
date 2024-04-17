@@ -12,13 +12,13 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 ## Installation and use
 
-**It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands**
+**It is recommended to use Octace GUI (Graphic User Interface) which requires only editing pre-existing scripts and clicking on run. Octave CLI (Command Line Interface) provides a Linux feeling on Windows and works the same but requires writing the complete commands.**
 
 - Install the multi-platforms [GNU Octave programming language for scientific computing](https://octave.org/) or use Matlab;
-- Clone the repository to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave command line interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
-- Use the intuitive syntax from Octave CLI or directly from Octave GUI to extract references from the ThermDoc database or execute scripts; 
-- Results are stored in the **./Search_results** folder, a file for each inquiry (results are just formatted in ASCII text file);
-- *.m scripts can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
+- Download the repository an unzip it to a local folder and go to the **./Code** folder **from the GNU Octave CLI or GUI**. GNU Octave Command Line Interface (CLI) accepts both the classical bash and DOS commands (pwd, cd, dir, ls, etc.) plus all the Matlab commands;
+- Use the intuitive syntax or execute scripts from Octave CLI or GUI to extract references from the database; 
+- Results are stored in the **./Search_results** folder, a txt file for each inquiry (results are just formatted in ASCII text file);
+- *.m scripts are just text files that can be edited with any tool (GNU Octave GUI, Notepad, Visual Studio Code, etc.);
 - You can kill a running process at any time with Ctrl+C.
 
 Each inquiry takes about 2-3 seconds on Matlab and about 10 seconds on GNU Octave but results are exactly the same. Each reference list will be sorted by descending year.
