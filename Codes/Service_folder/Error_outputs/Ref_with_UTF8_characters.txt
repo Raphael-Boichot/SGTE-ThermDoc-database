@@ -1,0 +1,1876 @@
+Rank      : 3348
+Title     : Thermodynamic mapping of austenite decompositionÿs approach toward equilibrium in Fe-C-Mn at 700 C.
+Author    : Aleks Y.M. Ontman/G.J. Shiflet/
+Reference : Acta Mater., 2015, 89, 98-108; 10.1016/j.actamat.2015.01.001
+Keyword   : C-Fe-Mn/
+Date      : 2015
+
+Rank      : 3428
+Title     : Corrigendum to "Phase equilibria and thermodynamics of the Fe-Al-C system: Critical evaluation, experiment and thermodynamic optimization" [Acta Mater. 79 (2014) 1âÿÿ15].
+Author    : Anh Thu Phan/Min-Kyu Paek/Youn-Bae Kang/
+Reference : Acta Mater., 2016, 115, 476-477; 10.1016/j.actamat.2016.05.038
+Keyword   : Al-Fe/Al-C-Fe/
+Date      : 2016
+
+Rank      : 3691
+Title     : Zr diffusion in BCC refractory high entropy alloys: A case of ÿnon-sluggishÿ diffusion behavior.
+Author    : Jingfeng Zhang/Christian Gadelmeier/Sandipan Sen/Rui Wang/Xi Zhang/Yu Zhong/Uwe Glatzel/Blazej Grabowski/Gerhard Wilde/Sergiy V. Divinski/
+Reference : Acta Mater., 2022, 233, 117970; 10.1016/j.actamat.2022.117970
+Keyword   : Hf-Nb-Ta-Ti-Zr/Hf-Nb-Ti-V-Zr/
+Date      : 2022
+
+Rank      : 5123
+Title     : Contribution à lÿétude des propriétés physiques de la vapeur de lithium
+Author    : Bogros, A.
+Reference : Ann. de Phys., 1932, 10, 17, 199-282; 10.1051/anphys/193210170199
+Keyword   : Li
+Date      : 1932
+
+Rank      : 6441
+Title     : Fe-Mo system
+Author    : A. Fernÿandez Guillermet
+Reference : Bull. Alloy Phase Diag., 1983, 4, 1, 28-28; 10.1007/BF02880313
+Keyword   : Fe-Mo
+Date      : 1983
+
+Rank      : 8102
+Title     : ASSESSMENT OF THE THERMODYNAMIC PROPERTIES AND PHASE DIAGRAM OF THE BI-PD SYSTEM
+Author    : J. VRESTÿAL/J. PINKAS/A. WATSON/A. SCOTT/J. HOUSEROVA/A. KROUPA/
+Reference : CALPHAD, 2006, 30, 1, 14-17; 10.1016/j.calphad.2005.12.001
+Keyword   : Bi-Pd/
+Date      : 2006
+
+Rank      : 8115
+Title     : Miedemaÿs model revisited: The Parameter Phi* for Ti, Zr, and Hf
+Author    : XING-QIUCHEN/R. PODLOUCKY/
+Reference : CALPHAD, 2006, 30, 3, 266-269; 10.1016/j.calphad.2006.04.004
+Keyword   : Ti/Zr/Hf/
+Date      : 2006
+
+Rank      : 8342
+Title     : THERMODYNAMIC MODELING OF LAVES PHASES IN THE CR-HF AND CR-TI SYSTEMS: REASSESSMENT USING FIRST-PRINCIPLES RESULTS
+Author    : J. PAVLU/J. VRESTÿAL/M. SOB/
+Reference : CALPHAD, 2010, 34, 2, 215-221; 10.1016/j.calphad.2010.03.003
+Keyword   : Cr-Hf/Cr-Ti/
+Date      : 2010
+
+Rank      : 8349
+Title     : EXPERIMENTAL STUDY AND THERMODYNAMIC REMODELING OF THE BI-CU-NI SYSTEM
+Author    : BRANISLAV MARKOVIC/DRAGANA ZIVKOVIC/JAN VRESTÿAL/DRAGAN MANASIJEVIC/ DUSKO MINIC/NADEZDA TALIJAN/JASNA STAJIC-TROSIC/RADISA TODOROVIC/
+Reference : CALPHAD, 2010, 34, 3, 294-300; 10.1016/j.calphad.2010.05.004
+Keyword   : Bi-Cu-Ni/
+Date      : 2010
+
+Rank      : 8375
+Title     : THERMODYNAMIC MODELING OF LAVES PHASES IN THE TA-V SYSTEM: REASSESSMENT USING FIRST-PRINCIPLES RESULTS
+Author    : J. PAVLU/J. VRESTÿAL/X.-Q. CHEN/P. ROGL/
+Reference : CALPHAD, 2011, 35, 1, 103-108; 10.1016/j.calphad.2010.12.002
+Keyword   : Ta-V/
+Date      : 2011
+
+Rank      : 9191
+Title     : Phase equilibria study in the system ÿFe2O3ÿ-ZnO-Al2O3-(PbO+CaO+SiO2) in air
+Author    : Jinfa Liao/Baojun Zhao
+Reference : CALPHAD, 2021, 74, 102283; 10.1016/j.calphad.2021.102282
+Keyword   : Al-Ca-Fe-O-Pb-Si-Zn
+Date      : 2021
+
+Rank      : 9194
+Title     : Experimental investigation of diffusion behaviors in gamma and gammaÿ Ni-Al-Co alloys
+Author    : Juan Chen/Yue Wang/Jinkun Xiao/Xiao-gang Lu/Lijun Zhang
+Reference : CALPHAD, 2021, 74, 102286; 10.1016/j.calphad.2021.102286
+Keyword   : Al-Co-Ni
+Date      : 2021
+
+Rank      : 9229
+Title     : Effects of Al2O3 and ÿCr2O3ÿ on phase equilibria of the system ÿFeOÿ-MgO-SiO2 at iron saturation
+Author    : Jinfa Liao/Baojun Zhao
+Reference : CALPHAD, 2021, 75, 102343; 10.1016/j.calphad.2021.102343
+Keyword   : Al-Cr-Fe-Mg-O-Si
+Date      : 2021
+
+Rank      : 9305
+Title     : Experimental determination of phase equilibria in the system Fe-Zr (0-100 at.% Zr) by using the ÿspotÿ technique, DSC, and XRD
+Author    : Biswajit Samanta/P. Ramakrishna/S. Balakrishnan/K. Ananthasivan
+Reference : CALPHAD, 2022, 78, 102458; 10.1016/j.calphad.2022.102458
+Keyword   : Fe-Zr
+Date      : 2022
+
+Rank      : 9688
+Title     : Properties of liquid CaO-SiO2 and CaO-SiO2-ÿFe2O3ÿtot slags measured by a combination of maximum bubble pressure and rotating bob methods
+Author    : Elizaveta Cheremisina/Oleksandr Kovtun/Anton Yehorov/Olena Volkova/Johannes Schenk
+Reference : Ceram. Int., 2023, 49, 18, 30104-30114; https://doi.org/10.1016/j.ceramint.2023.06.266
+Keyword   : Ca-O-Si/Ca-Fe-O-Si
+Date      : 2023
+
+Rank      : 10710
+Title     : Development of a second-nearest-neighbor modified embedded atom method potential for silicon-phosphorus binary system
+Author    : Bin Liu/Hao Zhang/Junyong Tao/Ziran Liu/Xun Chen/Yunÿan Zhang
+Reference : Comput. Mater. Sci., 2016, 120, 1-12; 10.1016/j.commatsci.2016.04.002
+Keyword   : P-Si
+Date      : 2016
+
+Rank      : 11199
+Title     : Nuclea : Thermodynamique de la Fusion du CÿUR d'une Centrale.
+Author    : B.CHEYNET/P.CHAUD/P.Y.CHEVALIER/E.FISCHER/P.MASON/M.MIGNANELLI/
+Reference : Defis Materiaux Pour Les Applications Hautes Temperatures Du Futur, Orleans, 20-21 Mars 2003.
+Keyword   : O/U/Zr/Ag/In/B/C/Fe/Cr/Ni/Ba/La/Ru/Sr/Al/Ca/Mg/Si/
+Date      : 2003
+
+Rank      : 13633
+Title     : 
+Author    : G.I. Dolivo-Dobrovolÿskaya/V.V. Zhdanova/V.P. Sergeev
+Reference : Fiz. Tverd. Tela, 1973, 15, 1378-1382
+Keyword   : Ge
+Date      : 1973
+
+Rank      : 14563
+Title     : Influence de lÿorigine de la phase gamma sur les températures et les chaleurs des transformations delta to gamme to beta du plutonium
+Author    : C. Prunier/C. Roux/B. Hocheid/M. Rapin
+Reference : High Temp. - High Press., 1970, 2, 2, 183-186
+Keyword   : Pu
+Date      : 1970
+
+Rank      : 16128
+Title     : BAWO4-BACUO2-Y2CU2O5-ÿ1010ÿ SECTION OF THE Y2O3-BAO-WO3-CUO SYSTEM
+Author    : KOL'TSOVA T. N./
+Reference : Inorg. Mater., 2004, 40, 6, 656-660; 10.1023/B:INMA.0000032002.30975.f5
+Keyword   : Ba-Cu-O-W-Y/
+Date      : 2004
+
+Rank      : 16553
+Title     : Viscosity of Fe-Cu melts
+Author    : O. A. Chikova/V. S. Tsepelev/A. N. Konstantinov/V. V. Vÿyukhin
+Reference : Inorg. Mater., 2014, 50, 6, 642-645; 10.1134/S0020168514060041
+Keyword   : Cu-Fe
+Date      : 2014
+
+Rank      : 16563
+Title     : Phase transformations in the Nd-Mn-O system
+Author    : L. B. Vedmidÿ/A. M. Yankin/O. M. Fedorova/V. M. Kozin
+Reference : Inorg. Mater., 2015, 51, 3, 288-293; 10.1134/S002016851502017X
+Keyword   : Mn-Nd-O
+Date      : 2015
+
+Rank      : 16575
+Title     : Thermal expansion of MZr2(AsO4)3 and MZr2(TO4)x(PO4)3-x (M = Li, Na, K, Rb, Cs; T = As, V)
+Author    : V. I. Petÿkov/A. S. Shipilov/M. V. Sukhanov
+Reference : Inorg. Mater., 2015, 51, 11, 1079-1085; 10.1134/S002016851510012X
+Keyword   : As-Li-O-Zr/As-Na-O-Zr/As-K-O-Zr/As-O-Rb-Zr/As-Cs-O-Zr/As-Li-O-P-Zr/As-Na-O-P-Zr/As-K-O-P-Zr/As-O-P-Rb-Zr/As-Cs-O-P-Zr/Li-O-P-V-Zr/Na-O-P-V-Zr/K-O-P-V-Zr/O-P-Rb-V-Zr/Cs-O-P-V-Zr/
+Date      : 2015
+
+Rank      : 16610
+Title     : A physicochemical study of the Sb2Se3-Nd2Se3 system
+Author    : F. M. Sadygov/T. M. Ilÿyasly/G. T. Ganbarova/V. P. Zlomanov/I. I. Aliev
+Reference : Inorg. Mater., 2017, 53, 7, 665-669; 10.1134/S0020168517070159
+Keyword   : Nd-Sb-Se
+Date      : 2017
+
+Rank      : 16613
+Title     : Mixing energies (interaction parameters) and decomposition temperatures in solid solutions of monazites of rare earth elements with structure La1-xLnxPO4
+Author    : E. I. Getÿman/S. V. Radio
+Reference : Inorg. Mater., 2017, 53, 7, 718-721; 10.1134/S0020168517070044
+Keyword   : Ce-La-O-P/La-O-P-Pr/La-Nd-O-P/La-O-P-Pm/La-O-P-Sm/Eu-La-O-P/Gd-La-O-P/La-O-P-Tb/Dy-La-O-P/
+Date      : 2017
+
+Rank      : 16633
+Title     : Predicting the Phase Stability of Sc1-xLnxPO4 (Ln = Gd-Lu, Y) Zircon-Structured Solid Solutions
+Author    : E. I. Getÿman/S. V. Radio/L. I. Ardanova
+Reference : Inorg. Mater., 2018, 54, 6, 596-600; 10.1134/S0020168518060031
+Keyword   : Gd-O-P-Sc/O-P-Sc-Tb/Dy-O-P-Sc/Ho-O-P-Sc/Er-O-P-Sc/O-P-Sc-Tm/O-P-Sc-Yb/Lu-O-P-Sc/O-P-Sc-Y/
+Date      : 2018
+
+Rank      : 16634
+Title     : Synthesis and Properties of Phases in the PbO-MO-Nb2O5 (M = Cu, Ni) Systems
+Author    : A. L. Podkorytov/A. L. Timofeev/I. A. Shevyakova/V. O. Malÿtseva/S. A. Shtin/N. N. Zabolotskikh/
+Reference : Inorg. Mater., 2018, 54, 7, 672-675; 10.1134/S0020168518070142
+Keyword   : Cu-Nb-O-Pb/Nb-Ni-O-Pb
+Date      : 2018
+
+Rank      : 16663
+Title     : Crystal Structure of Solid Solutions in the Sm2O3-CaO-MO and Ln2O3-SrO-MO Systems (Ln = Sm, Gd; M = Fe, Co)
+Author    : L. V. Khvostova/A. P. Galayda/A. V. Maklakova/A. S. Batenÿkova/A. A. Startseva/N. E. Volkova/L. Ya. Gavrilova/V. A. Cherepanov
+Reference : Inorg. Mater., 2019, 55, 10, 1001-1006; 10.1134/S0020168519080041
+Keyword   : Ca-Co-O-Sm/Ca-Fe-O-Sm/Co-O-Sm-Sr/Co-Gd-O-Sr/Fe-O-Sm-Sr/Fe-Gd-O-Sr
+Date      : 2019
+
+Rank      : 16665
+Title     : Effect of Oxygen Pressure on the Thermodynamic Stability of Nd0.85Ba0.15MnO3
+Author    : O. M. Fedorova/L. B. Vedmidÿ/V. M. Dimitrov
+Reference : Inorg. Mater., 2019, 55, 10, 1026-1030; 10.1134/S0020168519100030
+Keyword   : Ba-Mn-Nd-O
+Date      : 2019
+
+Rank      : 16697
+Title     : KLa(SO4)2-CaSO4 System
+Author    : N. N. Bushuev/A. N. Egorova/G. S. Tyulÿbendzhyan
+Reference : Inorg. Mater., 2021, 57, 2, 142-145; 10.1134/S0020168521020047
+Keyword   : Ca-K-La-O-S
+Date      : 2021
+
+Rank      : 16701
+Title     : Effect of Barium Concentration on the Structural Properties and Electrical Conductivity of Pr1 - xBaxMnO3 (x = 0, 0.15, 0.25) Solid Solutions
+Author    : O. M. Fedorova/L. B. Vedmidÿ/V. B. Balakireva/V. A. Vorotnikov/V. F. Balakirev
+Reference : Inorg. Mater., 2021, 57, 4, 392-398; 10.1134/S002016852104004X
+Keyword   : Ba-Mn-O-Pr
+Date      : 2021
+
+Rank      : 16702
+Title     : Effect of Hydrogen on the Structure and Magnetic Properties of (Sm1-xErx)2Fe17 (x = 0.1, 0.4) Solid Solutions
+Author    : S. V. Veselova/I. S. Tereshina/V. N. Verbetsky/K. V. Zakharov/A. N. Vasilÿev
+Reference : Inorg. Mater., 2021, 57, 5, 475-480; 10.1134/S0020168521050101
+Keyword   : Er-Fe-Sm
+Date      : 2021
+
+Rank      : 16704
+Title     : Synthesis, Thermal Expansion Behavior and Sintering of Sodium Zirconium Nickel and Calcium Zirconium Nickel Phosphates
+Author    : D. O. Savinykh/S. A. Khainakov/M. S. Boldin/A. I. Orlova/A. A. Aleksandrov/A. A. Popov/A. A. Murashov/S. Garcia-Granda/A. V. Nokhrin/V. N. Chuvilÿdeev
+Reference : Inorg. Mater., 2021, 57, 5, 529-540; 10.1134/S0020168521050071
+Keyword   : Na-Ni-O-P-Zr/Ca-Ni-O-P-Zr
+Date      : 2021
+
+Rank      : 16706
+Title     : Synthesis, Structure, and Heat Capacity of Bi4-xNdxTi3O12 (x = 0.4, 0.8, 1.2, 1.6) Solid Solutions
+Author    : L. T. Denisova/L. G. Chumilina/Yu. F. Kargin/N. V. Belousova/V. M. Denisov/G. V. Vasilÿev
+Reference : Inorg. Mater., 2021, 57, 7, 714-719; 10.1134/S0020168521070049
+Keyword   : Bi-Nd-O-Ti
+Date      : 2021
+
+Rank      : 16708
+Title     : Structure Formation and Thermal Expansion of M0.5+xMgxZr2-x(PO4)3 (M = Cd, Sr) Phosphates
+Author    : E. R. Perova/P. A. Maiorov/E. A. Asabina/V. I. Petÿkov/A. M. Kovalskii
+Reference : Inorg. Mater., 2021, 57, 7, 741-747; 10.1134/S0020168521070141
+Keyword   : Cd-Mg-O-P-Zr/Mg-O-P-Sr-Zr
+Date      : 2021
+
+Rank      : 16711
+Title     : Thermodynamic Modeling of Phase Equilibria in the U-Zr-N System
+Author    : A. I. Ogarkov/A. L. Voskov/I. A. Kovalev/A. V. Shokodÿko/S. S. Strelÿnikova/A. S. Chernyavskii/K. A. Solntsev
+Reference : Inorg. Mater., 2021, 57, 8, 790-797; 10.1134/S0020168521080070
+Keyword   : N-U-Zr
+Date      : 2021
+
+Rank      : 16713
+Title     : Synthesis and Thermal Expansion of a New Family of Phosphates-Analogs of alpha-CaMg2(SO4)3
+Author    : V. I. Petÿkov/D. A. Lavrenov/A. M. Kovalskii
+Reference : Inorg. Mater., 2021, 57, 8, 819-823; 10.1134/S0020168521080094
+Keyword   : B-Fe-O-P/Bi-Cr-O-P-Sb
+Date      : 2021
+
+Rank      : 16715
+Title     : Synthesis, Crystal Structure, and Physicochemical Properties of Bi4-xPrxTi3O12 (x = 0.4, 0.8, 1.2, 1.6) Solid Solutions
+Author    : L. T. Denisova/M. S. Molokeev/Yu. F. Kargin/V. P. Gerasimov/A. S. Krylov/A. S. Aleksandrovskii/L. G. Chumilina/V. M. Denisov/G. V. Vasilÿev
+Reference : Inorg. Mater., 2021, 57, 9, 919-928; 10.1134/S002016852109003X
+Keyword   : Bi-O-Pr-Ti
+Date      : 2021
+
+Rank      : 16724
+Title     : Phase Formation and Ionic Conductivity of Na1 + 2xZnxZr2 - x(PO4)3 Phosphates
+Author    : V. Yu. Bedin/O. V. Kazachiner/E. A. Asabina/V. I. Petÿkov/I. A. Stenina/A. M. Kovalskii/A. B. Yaroslavtsev
+Reference : Inorg. Mater., 2022, 58, 1, 64-70; 10.1134/S0020168522010046
+Keyword   : Na-O-P-Zn-Zr
+Date      : 2022
+
+Rank      : 16725
+Title     : Synthesis, Temperature Behavior, and Hydrolytic Stability of Na-Zr and Ca-Zr Phosphate Molybdates and Phosphate Tungstates
+Author    : M. E. Karaeva/D. O. Savinykh/A. I. Orlova/S. A. Khainakov/M. S. Boldin/A. A. Popov/A. V. Nokhrin/S. Garcia-Granda/V. N. Chuvilÿdeev
+Reference : Inorg. Mater., 2022, 58, 1, 78-89; 10.1134/S002016852201006X
+Keyword   : Mo-Na-O-P-Zr/Ca-Mo-O-P-Zr/Na-O-P-W-Zr/Ca-O-P-W-Zr/
+Date      : 2022
+
+Rank      : 16728
+Title     : Effect of the Isotopic Composition of Fe on the Kinetics of Its alpha => gamma Phase Transition
+Author    : Yu. S. Belozerov/A. D. Plekhovich/O. Yu. Troshin/A. D. Bulanov/A. M. Kutÿin/Yu. P. Kirillov
+Reference : Inorg. Mater., 2022, 58, 3, 252-258; 10.1134/S0020168522030025
+Keyword   : Fe
+Date      : 2022
+
+Rank      : 16731
+Title     : Phase Transformations Accompanying High-Temperature Nitridation of Zr-Nb Alloys
+Author    : I. A. Kovalev/S. V. Kannykin/A. A. Konovalov/G. P. Kochanov/A. I. Ogarkov/B. A. Tarasov/D. P. Shornikov/S. S. Strelÿnikova/A. S. Chernyavskii/K. A. Solntsev
+Reference : Inorg. Mater., 2022, 58, 4, 364-370; 10.1134/S0020168522040070
+Keyword   : N-Nb-Zr
+Date      : 2022
+
+Rank      : 16734
+Title     : Thermodynamic Modeling of Phase Equilibria in the Nb-Zr-N System
+Author    : A. L. Voskov/I. A. Kovalev/G. P. Kochanov/A. V. Shokodÿko/A. I. Ogarkov/S. S. Strelÿnikova/A. S. Chernyavskii/K. A. Solntsev
+Reference : Inorg. Mater., 2022, 58, 5, 509-515; 10.1134/S0020168522050119
+Keyword   : N-Nb-Zr
+Date      : 2022
+
+Rank      : 16741
+Title     : Caloric and Volumetric Properties of the Bi2O3-B2O3-BaO Glass-Forming System for Optical Applications
+Author    : A. D. Plekhovich/E. E. Rostokina/M. E. Komshina/K. V. Balueva/K. F. Ignatova/A. M. Kutÿin
+Reference : Inorg. Mater., 2022, 58, 7, 736-743; 10.1134/S0020168522060097
+Keyword   : B-Ba-Bi-O
+Date      : 2022
+
+Rank      : 16745
+Title     : Effect of Heat Treatment of Molten 6Bi2O3.SiO2 on the Phase Composition and Microstructure of Its Solidification Products
+Author    : T. V. Bermeshev/V. P. Zhereb/M. P. Bundin/A. S. Yasinsky/O. V. Yushkova/D. S. Voroshilov/A. S. Samoilo/E. V. Mazurova/A. N. Zaloga/O. V. Yakivyuk/P. O. Yurÿev
+Reference : Inorg. Mater., 2023, 58, 11, 1168-1178; https://doi.org/10.1134/S0020168522110024
+Keyword   : Bi-O-Si
+Date      : 2023
+
+Rank      : 18849
+Title     : Experimental investigation on the phase equilibria in the system Sn-Zr (0-100 at.% Zr) by using ÿspot-techniqueÿ and DTA.
+Author    : Biswajit Samanta/S. Balakrishnan/K. Ananthasivan/
+Reference : Intermetallics, 2021, 131, 107082; 10.1016/j.intermet.2020.107082
+Keyword   : Sn-Zr/
+Date      : 2021
+
+Rank      : 19132
+Title     : Development of a Quasi-chemical Viscosity Model for Fully Liquid Slags in the Al2O3-CaO-ÿFeOÿ-MgO-SiO2 System. Part 1. Description of the Model and Its Application to the MgO, MgO-SiO2, Al2O3-MgO and CaO-MgO Sub-systems
+Author    : Alex Kondratiev/Peter C. Hayes/Evgueni Jak
+Reference : ISIJ Int., 2006, 46, 3, 359-367; 10.2355/isijinternational.46.359
+Keyword   : Al-Ca-Fe-Mg-O-Si/Mg-O/Mg-O-Si/Al-Mg-O/Ca-Mg-O
+Date      : 2006
+
+Rank      : 19133
+Title     : Development of a Quasi-chemical Viscosity Model for Fully Liquid Slags in the Al2O3-CaO-ÿFeOÿ-MgO-SiO2 System. Part 2. A Review of the Experimental Data and the Model Predictions for the Al2O3-CaO-MgO, CaO-MgO-SiO2 and Al2O3-MgO-SiO2 Systems
+Author    : Alex Kondratiev/Peter C. Hayes/Evgueni Jak
+Reference : ISIJ Int., 2006, 46, 3, 368-374; 10.2355/isijinternational.46.368
+Keyword   : Al-Ca-Fe-Mg-O-Si/Al-Ca-Mg-O/Ca-Mg-O-Si/Al-Mg-O-Si
+Date      : 2006
+
+Rank      : 19134
+Title     : Development of a Quasi-chemical Viscosity Model for Fully Liquid Slags in the Al2O3-CaO-ÿFeOÿ-MgO-SiO2 System. Part 3. Summary of the Model Predictions for the Al2O3-CaO-MgO-SiO2 System and Its Sub-systems
+Author    : Alex Kondratiev/Peter C. Hayes/Evgueni Jak
+Reference : ISIJ Int., 2006, 46, 3, 375-384; 10.2355/isijinternational.46.375
+Keyword   : Al-Ca-Fe-Mg-O-Si/Al-Ca-Mg-O-Si
+Date      : 2006
+
+Rank      : 19161
+Title     : Development of a Quasi-chemical Viscosity Model for Fully Liquid Slags in the Al2O3-CaO-ÿFeOÿ-MgO-SiO2 System. The Experimental Data for the ÿFeOÿ-MgO-SiO2, CaO-ÿFeOÿ-MgO-SiO2 and Al2O3-CaO-ÿFeOÿ-MgO-SiO2 Systems at Iron Saturation
+Author    : Alex Kondratiev/Peter C. Hayes/Evgueni Jak
+Reference : ISIJ Int., 2008, 48, 1, 7-16; 10.2355/isijinternational.48.7
+Keyword   : Al-Ca-Fe-Mg-O-Si/Fe-Mg-O-Si/Ca-Fe-Mg-O-Si
+Date      : 2008
+
+Rank      : 19165
+Title     : Temperature Dependence of Ti Deoxidation Equilibria of Liquid Iron in Coexistence with ÿTi3O5ÿ and Ti2O3
+Author    : Woo-Yeol Cha/Takahiro Miki/Yasushi Sasaki/Mitsutaka Hino
+Reference : ISIJ Int., 2008, 48, 6, 729-738; 10.2355/isijinternational.48.729
+Keyword   : Fe-O-Ti
+Date      : 2008
+
+Rank      : 19211
+Title     : Equilibrium between Ti and O in Molten Fe-Ni, Fe-Cr and Fe-Cr-Ni Alloys Equilibrated with ÿTi3O5ÿ Solid Solution
+Author    : Seong-Ho Seok/Takahiro Miki/Mitsutaka Hino
+Reference : ISIJ Int., 2011, 51, 4, 566-572; 10.2355/isijinternational.51.566
+Keyword   : Fe-Ni-O-Ti/Cr-Fe-Ni-O-Ti/Cr-Fe-O-Ti
+Date      : 2011
+
+Rank      : 19254
+Title     : Activity Measurement of FeO-Cr2O3 in ÿFeO-(Cr,Al)2O3ÿ Solid Solution
+Author    : Masaki Shimamoto/Yusuke Mizukami/Takahiro Miki/Mitsutaka Hino
+Reference : ISIJ Int., 2013, 53, 7, 1161-1164; 10.2355/isijinternational.53.1161
+Keyword   : Al-Cr-Fe-O
+Date      : 2013
+
+Rank      : 19282
+Title     : Development of a Quasi-chemical Viscosity Model for Fully Liquid Slags in the Al2O3-CaO-ÿFeOÿ-MgO-SiO2 System: The Revised Model to Incorporate Ferric Oxide
+Author    : Masanori Suzuki/Evgueni Jak
+Reference : ISIJ Int., 2014, 54, 10, 2134-2143; 10.2355/isijinternational.54.2134
+Keyword   : Al-Ca-Fe-Mg-O-Si
+Date      : 2014
+
+Rank      : 19342
+Title     : A Review of the Chemistry, Structure and Formation Conditions of Silico-Ferrite of Calcium and Aluminum (ÿSFCAÿ) Phases
+Author    : Stuart Nicol/Jiang Chen/Mark Ian Pownceby/Nathan A. S. Webster
+Reference : ISIJ Int., 2018, 58, 12, 2157-2172; 10.2355/isijinternational.ISIJINT-2018-203
+Keyword   : Al-Ca-Fe-O-Si
+Date      : 2018
+
+Rank      : 25613
+Title     : Corrigendum to ÿThe crystal structures of Rb2MgH4 and Rb3MgH5 by neutron powder diffractionÿ [J. Alloys Comp. 268 (1998) 173-176]
+Author    : M. Bortz/A. Hewat/K. Yvon
+Reference : J. Alloys Compounds, 1999, 288, 1-2, 326-326; https://doi.org/10.1016/S0925-8388(99)00072-9
+Keyword   : H-Mg-Rb/
+Date      : 1999
+
+Rank      : 26248
+Title     : Corrigendum to ÿThe influence of the kinetics of the hydrogenation of Nd-Fe-B alloys on hydrogen distribution in the alloy phasesÿ: [J. Alloys Comp. 309 (2000) 239-243]
+Author    : K. Turek/P. Liszkowski/H. Figiel
+Reference : J. Alloys Compounds, 2001, 315, 1-2, 284-284; https://doi.org/10.1016/S0925-8388(01)00890-8
+Keyword   : B-Fe-H-Nb/
+Date      : 2001
+
+Rank      : 27113
+Title     : Erratum to ÿOptimisation of the thermodynamic properties of the Ti-H and Zr-H systemsÿ: [J. Alloys Comp. 299 (2000) 148-152]
+Author    : E Königsberger/G Eriksson/W.A Oates
+Reference : J. Alloys Compounds, 2002, 343, 1-2, 243-243; https://doi.org/10.1016/S0925-8388(02)00934-9
+Keyword   : H-Ti/H-Zr/
+Date      : 2002
+
+Rank      : 28101
+Title     : Addendum to ÿSynthesis and crystal structure of the tetrelides A12M17 (A = Na, K, Rb, Cs; M = Si, Ge, Sn) and A4Pb9 (A = K, Rb)ÿ: [J. Alloys Comp. 361 (2003) 206-221]
+Author    : Constantin Hoch/Marco Wendorff/Caroline Röhr
+Reference : J. Alloys Compounds, 2004, 366, 1-2, 309-309; https://doi.org/10.1016/j.jallcom.2004.01.001
+Keyword   : Na-Si/Ge-Na/Na-Sn/Rb-Si/Ge-Rb/Rb-Sn/K-Si/Ge-K/K-Sn/Cs-Si/Cs-Ge/Cs-Sn/K-Pb/Pb-Rb/
+Date      : 2004
+
+Rank      : 28581
+Title     : HEAT CAPACITY AND PHASE TRANSITION OF FEXNBS2 AT LOW TEMPERATURE
+Author    : YASUHISA YAMAMURA/SINICHI MORIYAMA/TOSHIHIDE TSUJI/YOSHIHIRO IWASA/ MIKIO KOYANO/SINÿICHI KATAYAMA/MITSURU ITO/
+Reference : J. Alloys Compounds, 2004, 383, 1-2, 338-341; https://doi.org/10.1016/j.jallcom.2004.04.045
+Keyword   : Fe-Nb-S/
+Date      : 2004
+
+Rank      : 28586
+Title     : OXYGEN STOICHIOMETRY AND STRUCTURAL PARAMETERS OF SM1+XBA2-XCU3OY SOLID SOLUTIONS VERSUS COMPOSITION AND TEMPERATURE
+Author    : V. A. DROZD/I. L. BAGINSKI/S. A. NEDILKO/V. S. MELÿNIKOV/
+Reference : J. Alloys Compounds, 2004, 384, 1-2, 44-50; https://doi.org/10.1016/j.jallcom.2004.03.125
+Keyword   : Ba-Cu-O-Sm/
+Date      : 2004
+
+Rank      : 28634
+Title     : Corrigendum to ÿ(LiNH2-MgH2): a viable hydrogen storage systemÿ: [J. Alloys Comp. 381 (2004) 284-287]
+Author    : Weifang Luo
+Reference : J. Alloys Compounds, 2004, 385, 1-2, 316-316; 10.1016/j.jallcom.2004.10.017
+Keyword   : H-Li-Mg-N/
+Date      : 2004
+
+Rank      : 28635
+Title     : Corrigendum to ÿPhase equilibria and primary crystallisation field for Sm1+yBa2-yCu3O7 at various p(O2)ÿ: [J. Alloys Comp. 381 (2004) 320-326]
+Author    : C. Wende/B. Schüpp/G. Krabbes
+Reference : J. Alloys Compounds, 2004, 385, 1-2, 317-317; 10.1016/j.jallcom.2004.10.018
+Keyword   : Ba-Cu-O-Sm-Y/
+Date      : 2004
+
+Rank      : 28636
+Title     : Corrigendum to ÿControlled mechano-chemical synthesis of nanostructured ternary complex hydride Mg2FeH6 under low-energy impact mode with and without pre-millingÿ: [J. Alloys Comp. 384 (2004) 231-248]
+Author    : Songlin Li/R.A. Varin/O. Morozova/T. Khomenko
+Reference : J. Alloys Compounds, 2004, 385, 1-2, 318-318; 10.1016/j.jallcom.2004.10.020
+Keyword   : Fe-H-Mg/
+Date      : 2004
+
+Rank      : 28637
+Title     : Erratum to ÿThe bulk modulus of ThO2-an experimental and theoretical studyÿ: [J. Alloys Comp. 381 (2004) 37-40]
+Author    : J. Staun Olsen/L. Gerward/V. Kanchana/G. Vaitheeswaran
+Reference : J. Alloys Compounds, 2004, 385, 1-2, 319-319; 10.1016/j.jallcom.2004.10.019
+Keyword   : O-Th/
+Date      : 2004
+
+Rank      : 29215
+Title     : CRYSTAL STRUCTURE OF THE NEW TERNARY ALUMINIDE CERU3-XAL10+X (X = 0. 17)
+Author    : A.I. TURSINA/N.G. BUKHANÿKO/A.V. GRIBANOV/H. NOËL/T. ROISNEL/Y.D. SEROPEGIN/
+Reference : J. Alloys Compounds, 2005, 400, 1-2, 194-196; https://doi.org/10.1016/j.jallcom.2005.03.051
+Keyword   : Al-Ce-Ru/
+Date      : 2005
+
+Rank      : 29221
+Title     : PREPARATION OF NANOCOMPOSITE ALUMINA-SN2FE BY MECHANICAL ALLOYING
+Author    : R.A. DUNLAP/S.W. KEHOE/J.R. DAHN/J.W. OÿBRIEN/
+Reference : J. Alloys Compounds, 2005, 400, 1-2, 252-256; https://doi.org/10.1016/j.jallcom.2005.03.080
+Keyword   : Al-Fe-O-Sn/
+Date      : 2005
+
+Rank      : 29390
+Title     : THE PHASE DIAGRAM AND SUPERABUNDANT VACANCY FORMATION IN CO-H ALLOYS
+Author    : YUH FUKAI/SAORI YOKOTA/JUNÿICHI YANAGAWA/
+Reference : J. Alloys Compounds, 2006, 407, 1-2, 16-24; https://doi.org/10.1016/j.jallcom.2005.06.016
+Keyword   : Co-H/
+Date      : 2006
+
+Rank      : 29399
+Title     : STRUCTURE, PHASE COMPOSITION AND MAGNETIC PROPERTIES OF MECHANICALLY ALLOYED AND ANNEALED QUASIBINARY FE(70)SI(X)C(30 - X) ALLOYS
+Author    : E.P. YELSUKOV/A.N. MARATKANOVA/S.F. LOMAYEVA/G.N. KONYGIN/O.M. NEMTSOVA/A.I. ULÿYANOV/A.A. CHULKINA/
+Reference : J. Alloys Compounds, 2006, 407, 1-2, 98-105; https://doi.org/10.1016/j.jallcom.2005.05.035
+Keyword   : C-Fe-Si/
+Date      : 2006
+
+Rank      : 29443
+Title     : THE NB-SB SYSTEM
+Author    : YA.F. LOMNYTSKA/YU.B. KUZÿMA/
+Reference : J. Alloys Compounds, 2006, 413, 1-2, 114-117; https://doi.org/10.1016/j.jallcom.2005.07.002
+Keyword   : Nb-Sb/
+Date      : 2006
+
+Rank      : 29553
+Title     : THE INTERACTIONS BETWEEN THE COMPONENTS IN THE GD-AG-GA SYSTEM
+Author    : R.V. GUMENIUK/I.B. TARAS/YU. B. KUZÿMA/
+Reference : J. Alloys Compounds, 2006, 416, 1-2, 131-134; https://doi.org/10.1016/j.jallcom.2005.08.038
+Keyword   : Ag-Ga-Gd/
+Date      : 2006
+
+Rank      : 29652
+Title     : MOKE STUDY OF CO/TI/(GD-CO) MULTILAYERS NEAR THE MAGNETIC COMPENSATION STATE
+Author    : A.V. SVALOV/A. FERNANDEZ/V.O. VASÿKOVSKIY/G.V. KURLYANDSKAYA/J.M. BARANDIARÁN/R. LOPEZ ANTON/M. TEJEDOR/
+Reference : J. Alloys Compounds, 2006, 419, 1-2, 25-31; https://doi.org/10.1016/j.jallcom.2005.10.001
+Keyword   : Co-Gd-Ti/
+Date      : 2006
+
+Rank      : 30040
+Title     : ELECTRICAL, MAGNETIC, THERMAL AND THERMOELECTRIC PROPERTIES OF THE ÿBERGMAN PHASEÿ MG32(AL,ZN)49 COMPLEX METALLIC ALLOY
+Author    : A. SMONTARA/I. SMILJANIC/A. BILUSIC/Z. JAGLICIC/M. KLANJSEK/S. ROITSCH/J. DOLINSEK/M. FEUERBACHER/
+Reference : J. Alloys Compounds, 2007, 430, 1-2, 29-38; 10.1016/j.jallcom.2006.05.026
+Keyword   : Al-Mg-Zn/
+Date      : 2007
+
+Rank      : 30151
+Title     : COMMENTS ON ÿPRECIPITATION KINETICS OF AL-1.12MG2SI-0.35SI AND AL-1. 07MG2SI-0.33CU ALLOYSÿ
+Author    : M.J. STARINK/
+Reference : J. Alloys Compounds, 2007, 433, 1-2, L4-L6; https://doi.org/10.1016/j.jallcom.2006.06.069
+Keyword   : Al-Mg-Si/Al-Cu-Mg-Si/
+Date      : 2007
+
+Rank      : 30163
+Title     : FORMATION OF TIAL INTERMETALLICS BY HEAT TREATMENT OF COLD-SPRAYED PRECURSOR DEPOSITS
+Author    : T. NOVOSELOVA/S. CELOTTO/R. MORGAN/P. FOX/W. OÿNEILL/
+Reference : J. Alloys Compounds, 2007, 436, 1-2, 69-77; https://doi.org/10.1016/j.jallcom.2006.06.101
+Keyword   : Al-Ti/
+Date      : 2007
+
+Rank      : 30300
+Title     : EFFECTS OF CE AND MM ADDITIONS ON THE GLASS FORMING ABILITY OF AL-NI-SI METALLIC GLASS ALLOYS
+Author    : KAIKAI SONG/XIUFANG BIAN/JING GUO/SHENGHAI WANG/BAOÿAN SUN/XUELIAN LI/CAIDONG WANG/
+Reference : J. Alloys Compounds, 2007, 440, 1-2, L8-L12; https://doi.org/10.1016/j.jallcom.2006.09.002
+Keyword   : Al-Ce-Ni-Si/
+Date      : 2007
+
+Rank      : 30340
+Title     : COMBUSTION SYNTHESIS AND PHOTOLUMINESCENCE OF PEROVSKITE PBTIO3 NANOPOWDERS
+Author    : SUWEN LIU/ZHILIANG XIU/JIANÿAN LIU/FENGXIU XU/WEINA YU/JIE PAN/ XIAOPENG CUI/JIAOXIAN YU/
+Reference : J. Alloys Compounds, 2007, 441, 1-2, L7-L9; https://doi.org/10.1016/j.jallcom.2006.09.100
+Keyword   : O-Pb-Ti/
+Date      : 2007
+
+Rank      : 30446
+Title     : THERMO-MECHANICAL BEHAVIOUR OF NANOSTRUCTURED COPPER
+Author    : CYRIL LANGLOIS/SANDRINE GUÉRIN/MOHAMED SENNOUR/MARTIN J. HÿTCH/ CÉCILIE DUHAMEL/YANNICK CHAMPION/
+Reference : J. Alloys Compounds, 2007, 434-435, 279-282; https://doi.org/10.1016/j.jallcom.2006.08.300
+Keyword   : Cu/
+Date      : 2007
+
+Rank      : 30450
+Title     : PHASE TRANSFORMATIONS STUDY ON NI75AL25 AND NI50AL50 DURING MECHANICAL ALLOYING AND SINTERING
+Author    : L. DÿANGELO/G. GONZALEZ/J. OCHOA/
+Reference : J. Alloys Compounds, 2007, 434-435, 348-353; https://doi.org/10.1016/j.jallcom.2006.08.212
+Keyword   : Al-Ni/
+Date      : 2007
+
+Rank      : 30686
+Title     : PHASE TRANSITIONS IN CD3P2 AT HIGH PRESSURES AND HIGH TEMPERATURES
+Author    : F.S. YELÿKIN/V.A. SIDOROV/A. WASKOWSKA/L. GERWARD/J. STAUN OLSEN/G. VAITHEESWARAN/V. KANCHANA/
+Reference : J. Alloys Compounds, 2008, 450, 1-2, 79-85; 10.1016/j.jallcom.2006.11.075
+Keyword   : Cd-P/
+Date      : 2008
+
+Rank      : 30762
+Title     : IONIC DYNAMICS OF MOLTEN CUPROUS IODIDE
+Author    : YUKINOBU KAWAKITA/YASUHIKO KATO/HIROYUKI SHIGETA/KAORU SHIBATA/ SHINÿICHI TAKEDA/
+Reference : J. Alloys Compounds, 2008, 452, 1, 136-139; 10.1016/j.jallcom.2007.01.179
+Keyword   : Cu-I/
+Date      : 2008
+
+Rank      : 30888
+Title     : CRYSTAL STRUCTURES OF ISOTYPIC ALUMINIDES CERUAL AND CERHAL
+Author    : A.V. GRIBANOV/A.I. TURSINA/A.V. GRYTSIV/E.V. MURASHOVA/N.G. BUKHANÿKO/P. ROGL/Y.D. SEROPEGIN/G. GIESTER/
+Reference : J. Alloys Compounds, 2008, 454, 1-2, 164-167; 10.1016/j.jallcom.2006.12.087
+Keyword   : Al-Ce-Ru/Al-Ce-Rh/
+Date      : 2008
+
+Rank      : 31106
+Title     : COMBUSTION SYNTHESIS AND CHARACTERIZATION OF PEROVSKITE SRTIO3 NANOPOWDERS
+Author    : SUWEN LIU/ZHILIANG XIU/JIANÿAN LIU/FENGXIU XU/WEINA YU/JIAOXIAN YU/ GUANGJIAN FENG/
+Reference : J. Alloys Compounds, 2008, 457, 1-2, L12-L14; 10.1016/j.jallcom.2007.03.080
+Keyword   : O-Sr-Ti/
+Date      : 2008
+
+Rank      : 31220
+Title     : COMMENT ON ÿDIFFUSION MOBILITIES FOR THE B2-BCC PHASE IN THE NI-AL BINARY SYSTEMÿ
+Author    : YAJUN LIU/DONG LIANG/
+Reference : J. Alloys Compounds, 2008, 459, 1-2, L5-L7; 10.1016/j.jallcom.2007.04.256
+Keyword   : Al-Ni/
+Date      : 2008
+
+Rank      : 31496
+Title     : SYNTHESIS AND TRANSPORT PROPERTIES OF SOLID SOLUTIONS SR1-XKXPBO3- YFY (0 = X, Y = 0.20)
+Author    : V.O. DROZD/A.M. GABOVICH/S.O. SOLOPAN/S.A. NEDILÿKO/M. PEKALA/O.G. DZYAZÿKO/
+Reference : J. Alloys Compounds, 2008, 465, 1-2, 15-19; 10.1016/j.jallcom.2007.10.129
+Keyword   : F-K-O-Pb-Sr/
+Date      : 2008
+
+Rank      : 31668
+Title     : CRYSTAL CHEMISTRY AND MAGNETIC PROPERTIES OF TERNARY COMPOUNDS REAGXGA3-X (RE = SM, GD, TB, DY, HO, ER, TM, LU)
+Author    : R. GUMENIUK/YU. PROTS/W. SCHNELLE/U. BURKHARDT/YU. KUZÿMA/YU. GRIN/
+Reference : J. Alloys Compounds, 2009, 469, 1-2, 28-33; 10.1016/j.jallcom.2008.02.003
+Keyword   : Ag-Ga-Sm/Ag-Ga-Gd/Ag-Ga-Tb/Ag-Dy-Ga/Ag-Ga-Ho/Ag-Er-Ga/Ag-Ga-Tm/Ag-Ga-Lu/
+Date      : 2009
+
+Rank      : 31836
+Title     : A SIMPLE DETONATION TECHNIQUE TO SYNTHESIZE CARBON-COATED COBALT
+Author    : GUILEI SUN/XIAOJIE LI/YUEJU ZHANG/XIAOHONG WANG/DEÿAN JIANG/FEI MO/
+Reference : J. Alloys Compounds, 2009, 473, 1-2, 212-214; 10.1016/j.jallcom.2008.05.034
+Keyword   : C-Co/
+Date      : 2009
+
+Rank      : 31946
+Title     : MICROSTRUCTURAL EVOLUTION AND TENSILE PROPERTIES OF SN-AG-CU MIXED WITH SN-PB SOLDER ALLOYS
+Author    : FENGJIANG WANG/MATTHEW OÿKEEFE/BRANDON BRINKMEYER/
+Reference : J. Alloys Compounds, 2009, 477, 1-2, 267-273; 10.1016/j.jallcom.2008.10.141
+Keyword   : Ag-Cu-Pb-Sn/
+Date      : 2009
+
+Rank      : 32181
+Title     : Corrigendum to ÿHydrogen storage property of MgH2 synthesized by hydriding chemical vapor depositionÿ [J. Alloys Compd. 446-447 (2007) 80-83]
+Author    : I. Saita/T. Toshima/S. Tanda/T. Akiyama
+Reference : J. Alloys Compounds, 2009, 482, 1-2, 556-556; 10.1016/j.jallcom.2009.04.001
+Keyword   : H-Mg/
+Date      : 2009
+
+Rank      : 32311
+Title     : Corrigendum to ÿCatalytic activities of iron phosphide for NO dissociation and reduction with hydrogenÿ [J. Alloys Compd. 474 (2009) L10-L13]
+Author    : Z.W. Yao/Haitao Dong/Yunshuai Shang
+Reference : J. Alloys Compounds, 2009, 484, 1-2, 973-973; 10.1016/j.jallcom.2009.06.014
+Keyword   : Mo-P/
+Date      : 2009
+
+Rank      : 32312
+Title     : Corrigendum to ÿExploration on synthesis of activated carbon supported molybdenum carbide, nitride and phosphide via carbothermal reduction routeÿ [J. Alloys Compd. 475 (2009) L38-L41]
+Author    : Z.W. Yao
+Reference : J. Alloys Compounds, 2009, 484, 1-2, 974-974; 10.1016/j.jallcom.2009.06.015
+Keyword   : Mo-P/C-Mo/Mo-N/
+Date      : 2009
+
+Rank      : 32827
+Title     : MICROSTRUCTURAL CHARACTERIZATION OF SPRAY FORMED FE66B30NB4 ALLOY
+Author    : LUIZ F. BONAVINA/CLAUDEMIRO BOLFARINI/WALTER J. BOTTA/EDSON R. DÿALMEIDA/CLAUDIO S. KIMINAMI/
+Reference : J. Alloys Compounds, 2010, 495, 2, 417-419; 10.1016/j.jallcom.2009.11.023
+Keyword   : B-Fe-Nb/
+Date      : 2010
+
+Rank      : 32858
+Title     : THERMAL STABILITY OF THE AL70NI10TI10ZR5TA5 AMORPHOUS ALLOY POWDER FABRICATED BY MECHANICAL ALLOYING
+Author    : XIU WEI/XINFU WANG/FUSHENG HAN/HAOWEN XIE/CUIÿE WEN/
+Reference : J. Alloys Compounds, 2010, 496, 1-2, 313-316; 10.1016/j.jallcom.2010.02.003
+Keyword   : Al-Ni-Ta-Ti-Zr/
+Date      : 2010
+
+Rank      : 32971
+Title     : CARBOTHERMAL REDUCTION METHOD FOR FE3O4 POWDER SYNTHESIS
+Author    : HUA WANG/PING HU/DEÿAN PAN/JIANJUN TIAN/SHENGEN ZHANG/ALEX A. VOLINSKY/
+Reference : J. Alloys Compounds, 2010, 502, 2, 338-340; 10.1016/j.jallcom.2010.03.001
+Keyword   : C-Fe-O/
+Date      : 2010
+
+Rank      : 33234
+Title     : COMMENT ON THE PAPER ÿTHERMAL STABILITY OF THE AL70NI10TI10ZR5TA5 AMORPHOUS ALLOY POWDER FABRICATED BY MECHANICAL ALLOYINGÿ BY XIU WEI, XINFU WANG, FUSHENG HAN, HAOWEN XIE, CUIÿE WEN, J. ALLOYS COMPD. 496 (2010) 313-316
+Author    : K.G. PRASHANTH/
+Reference : J. Alloys Compounds, 2010, 507, 2, L32-L34; 10.1016/j.jallcom.2010.07.209
+Keyword   : Al-Ni-Ta-Ti-Zr/
+Date      : 2010
+
+Rank      : 33252
+Title     : CRYSTAL STRUCTURE OF ERFE2D3.1 AND ERFE2H3.1 AT 450 K
+Author    : E.A. SHERSTOBITOVA/A. GUBKIN/L.A. STASHKOVA/N.V. MUSHNIKOV/P.B. TERENTÿEV/D. CHEPTIAKOV/A.E. TEPLYKH/JUNGHWAN PARK/A.N. PIROGOV/
+Reference : J. Alloys Compounds, 2010, 508, 2, 348-353; 10.1016/j.jallcom.2010.04.043
+Keyword   : D-Er-Fe/Er-Fe-H/
+Date      : 2010
+
+Rank      : 33272
+Title     : IN SITU DIFFRACTION STUDY OF THERMAL DECOMPOSITION IN MAXTHAL TI2ALC
+Author    : W.K. PANG/I.M. LOW/B.H. OÿCONNOR/V.K. PETERSON/A.J. STUDER/J.P. PALMQUIST/
+Reference : J. Alloys Compounds, 2011, 509, 1, 172-176; 10.1016/j.jallcom.2010.09.019
+Keyword   : Al-C-Ti/
+Date      : 2011
+
+Rank      : 33429
+Title     : HIGH-FIELD MAGNETIZATION OF A DY2FE14SI3 SINGLE CRYSTAL
+Author    : A.V. ANDREEV/M.D. KUZÿMIN/S. YOSHII/E.A. TERESHINA/K. KINDO/M. HAGIWARA/F.R. DE BOER/
+Reference : J. Alloys Compounds, 2011, 509, 16, 5042-5046; 10.1016/j.jallcom.2011.02.012
+Keyword   : Dy-Fe-Si/
+Date      : 2011
+
+Rank      : 33694
+Title     : MAGNETIC PROPERTIES OF A GDMN6SN6 SINGLE CRYSTAL
+Author    : D.I. GORBUNOV/M.D. KUZÿMIN/K. UHLIROVA/M. ZACEK/M. RICHTER/Y. SKOURSKI/A.V. ANDREEV/
+Reference : J. Alloys Compounds, 2012, 519, 47-54; 10.1016/j.jallcom.2011.12.016
+Keyword   : Gd-Mn-Sn/
+Date      : 2012
+
+Rank      : 33741
+Title     : SPECTROSCOPIC PROPERTIES OF ND0.5GD0.5FE3(BO3)4 SINGLE CRYSTAL
+Author    : A.V. MALAKHOVSKII/A.L. SUKHACHEV/A.A. LEONTÿEV/I.A. GUDIM/A.S. KRYLOV/A.S. ALEKSANDROVSKY/
+Reference : J. Alloys Compounds, 2012, 529, 38-43; 10.1016/j.jallcom.2012.03.066
+Keyword   : B-Fe-Gd-Nd-O/
+Date      : 2012
+
+Rank      : 33758
+Title     : COMMENT ON ÿSTRUCTURAL PROPERTIES AND ELECTRICAL RESISTIVITY OF NA- SUBSTITUTED LANTHANUM MANGANITES: LA1-XNAXMNO3+Y (X = 0.1, 0.125 AND 0.15)ÿ AND ÿSTRUCTURE AND ELECTRICAL RESISTIVITY OF LA1- XBAXMNO3 (0. 25 = X = 0.35) PEROVSKITESÿ
+Author    : E. ROZENBERG/
+Reference : J. Alloys Compounds, 2012, 533, 41-42; 10.1016/j.jallcom.2012.04.027
+Keyword   : La-Mn-Na-O/
+Date      : 2012
+
+Rank      : 33829
+Title     : STRUCTURAL AND MAGNETIC PROPERTIES OF ERFE2D3.1
+Author    : E.A. SHERSTOBITOVA/A.F. GUBKIN/P.B. TERENTÿEV/A.A. SHERSTOBITOV/A.N. PIROGOV/N.V. MUSHNIKOV/
+Reference : J. Alloys Compounds, 2012, 538, 79-84; 10.1016/j.jallcom.2012.05.107
+Keyword   : D-Er-Fe/
+Date      : 2012
+
+Rank      : 34029
+Title     : Corrigendum to ÿThe experimental investigation of phase equilibria in the Al-rich corner within the ternary Al-Mn-Be systemÿ [J. Alloys Compd. 570 (2013) 125-132]
+Author    : Franc Zupanic/Bostjan Markoli/Iztok Naglic/Tonica Boncina
+Reference : J. Alloys Compounds, 2013, 576, 30-30; 10.1016/j.jallcom.2013.04.151
+Keyword   : Al-Be-Mn/
+Date      : 2013
+
+Rank      : 34065
+Title     : ON THE OXIDATION OF TI2GEC IN AIR
+Author    : BABAK ANASORI/ELÿAD N. CASPI/YASMINE ELRAHEB/MICHEL W. BARSOUM/
+Reference : J. Alloys Compounds, 2013, 580, 550-557; 10.1016/j.jallcom.2013.06.103
+Keyword   : C-Ge-O-Ti/
+Date      : 2013
+
+Rank      : 34212
+Title     : On the crystal structure and physical properties of the UFeSb2 compound
+Author    : A.P. Gonçalves/M.S. Henriques/J.C. Waerenborgh/I. Curlik/S. Ilÿkovic/M. Reiffers
+Reference : J. Alloys Compounds, 2014, 616, 601-606; 10.1016/j.jallcom.2014.07.153
+Keyword   : Fe-Sb-U
+Date      : 2014
+
+Rank      : 34441
+Title     : Experimental investigation of Mg-Zn-Al metal alloys for latent heat storage application
+Author    : Elena Risueño/Stefania Doppiu/Javier Rodríguez-Aseguinolaza/Pablo Blanco/Antoni Gil/Manuel Tello/Abdessamad Faik/Bruno DÿAguanno
+Reference : J. Alloys Compounds, 2016, 685, 724-732; 10.1016/j.jallcom.2016.06.222
+Keyword   : Al-Mg-Zn
+Date      : 2016
+
+Rank      : 34849
+Title     : High-temperature behavior of calcium substituted layered neodymium nickelates
+Author    : S.M. Pikalov/L.B. Vedmidÿ/E.A. Filonova/E. Yu. Pikalova/J.G. Lyagaeva/N.A. Danilov/A.A. Murashkina
+Reference : J. Alloys Compounds, 2019, 801, 558-567; 10.1016/j.jallcom.2019.05.349
+Keyword   : Ca-Nd-Ni-O
+Date      : 2019
+
+Rank      : 35071
+Title     : Corrigendum to ÿThe structural and mechanical properties of Gd and Nd substituted double layered LaCaMnO7 ceramicsÿ [J. Alloy. Compd. 797 (15 August 2019) 1173-1180]
+Author    : R. Terzioglu
+Reference : J. Alloys Compounds, 2021, 865, 159225; 10.1016/j.jallcom.2021.159225
+Keyword   : Ca-Gd-La-Mn-O/Ca-La-Mn-Nd-O
+Date      : 2021
+
+Rank      : 35072
+Title     : The spinodal decomposition in the BST system
+Author    : L.A. Shilkina/A.V. Nagaenko/P.G. Grinÿ/Kh.A. Sadykov/S.V. Khasbulatov/S.I. Dudkina/L.A. Reznichenko
+Reference : J. Alloys Compounds, 2021, 866, 158871; 10.1016/j.jallcom.2021.158871
+Keyword   : Ba-O-Sr-Ti
+Date      : 2021
+
+Rank      : 35133
+Title     : Solid gas and electrochemical hydrogenation of the selected alloys (Rÿ,Rÿÿ)2-xMgxNi4-yCoy (Rÿ, Rÿÿ = Pr, Nd; x = 0.8-1.2; y = 0-2)
+Author    : Yuriy Verbovytskyy/Volodymyr Oprysk/Valérie Paul-Boncour/Ihor Zavaliy/Vasyl Berezovets/Pavlo Lyutyy/Yuriy Kosarchyn
+Reference : J. Alloys Compounds, 2021, 876, 160155; 10.1016/j.jallcom.2021.160155
+Keyword   : Co-Mg-Ni-Pr/Co-Mg-Nd-Ni/Co-H-Mg-Ni-Pr/Co-H-Mg-Nd-Ni
+Date      : 2021
+
+Rank      : 35176
+Title     : Experimental study of ÿCuO0.5ÿ-ÿFeOÿ-SiO2 and ÿFeOÿ-SiO2 systems in equilibrium with metal at 1400-1680 °C
+Author    : X. Wen/M. Shevchenko/E. Jak
+Reference : J. Alloys Compounds, 2021, 885, 160853; 10.1016/j.jallcom.2021.160853
+Keyword   : Cu-Fe-O-Si/Fe-O-Si
+Date      : 2021
+
+Rank      : 35220
+Title     : Formation of the alpha''-phase and study of the solubility of Mn in Cd3As2
+Author    : A.I. Rilÿ/S.F. Marenkin/V.V. Volkov/L.N. Oveshnikov/V.V. Kozlov
+Reference : J. Alloys Compounds, 2022, 892, 162082; 10.1016/j.jallcom.2021.162082
+Keyword   : As-Cd/As-Cd-Mn
+Date      : 2022
+
+Rank      : 35528
+Title     : Layered ternary transition metal nitrides; synthesis, structure and physical properties
+Author    : Duncan H. Gregory/Paul M. OÿMeara/Alexandra G. Gordon/Daniel J. Siddons/Alexander J. Blake/Marten G. Barker/Thomas A. Hamor/Peter P. Edwards
+Reference : J. Alloys Compounds, 2001, 317-318, 237-244; https://doi.org/10.1016/S0925-8388(00)01340-2
+Keyword   : Co-Li-N/Li-N-Ni/Cu-Li-N/Be-N-Ti/Mg-N-Ti/Ca-N-Ti/N-Sr-Ti/Ba-N-Ti/Be-N-Zr/Mg-N-Zr/Ca-N-Zr/N-Sr-Zr/Ba-N-Zr/Be-Hf-N/Hf-Mg-N/Ca-Hf-N/Hf-N-Sr/Ba-Hf-N
+Date      : 2001
+
+Rank      : 35639
+Title     : Synthesis, structure and ionic conductivity of nanocrystalline Ce1-xLaxO2-d as an electrolyte for intermediate temperature solid oxide fuel cells
+Author    : Naeemakhtar Momin/J. Manjanna/Lawrence DÿSouza/S.T. Aruna/S. Senthil Kumar
+Reference : J. Alloys Compounds, 2022, 896, 163012; 10.1016/j.jallcom.2021.163012
+Keyword   : Ce-La-O
+Date      : 2022
+
+Rank      : 35640
+Title     : Phase diagram and order-disorder transitions in Y0.9Gd0.1Fe2Hx hydrides (x >= 2.9)
+Author    : V. Paul-Boncour/K. Provost/E. Alleno/A. NÿDiaye/F. Couturas/E. Elkaim
+Reference : J. Alloys Compounds, 2022, 896, 163016; 10.1016/j.jallcom.2021.163016
+Keyword   : Fe-Gd-H-Y
+Date      : 2022
+
+Rank      : 35670
+Title     : The diffusion process of La, Fe and Si through the La(Fe,Si)13 phase - A Fickÿs 1st law based approach
+Author    : Allan Marciel Döring/Marcelo Augusto Rosa/Matheus Campos Hemkemaier/Paulo Antônio Pereira Wendhausen/Jaime Andrés Lozano/Jader Riso Barbosa Jr./Cristiano da Silva
+Reference : J. Alloys Compounds, 2022, 902, 163688; 10.1016/j.jallcom.2022.163688
+Keyword   : Fe-La-Si
+Date      : 2022
+
+Rank      : 35681
+Title     : Magnetocaloric effect and magnetic phase diagram of Ni-Mn-Ga Heusler alloy in steady and pulsed magnetic fields
+Author    : Yu.S. Koshkidÿko/E.T. Dilmieva/A.P. Kamantsev/J. Cwik/K. Rogacki/A.V. Mashirov/V.V. Khovaylo/C. Salazar Mejia/M.A. Zagrebin/V.V. Sokolovskiy/V.D. Buchelnikov/P. Ari-Gur/P. Bhale/V.G. Shavrov/V.V. Koledov
+Reference : J. Alloys Compounds, 2022, 904, 164051; 10.1016/j.jallcom.2022.164051
+Keyword   : Ga-Mn-Ni
+Date      : 2022
+
+Rank      : 35697
+Title     : Magnetic, structural and magnetocaloric properties of Y0.9Gd0.1Fe2Hx hydrides
+Author    : V. Paul-Boncour/K. Provost/T. Mazet/A. NÿDiaye/E. Alleno/F. Couturas
+Reference : J. Alloys Compounds, 2022, 907, 164390; 10.1016/j.jallcom.2022.164390
+Keyword   : Fe-Gd-H-Y
+Date      : 2022
+
+Rank      : 37386
+Title     : Reply to "Comment on ÿLow-Temperature Phase Transition in AgNbO3ÿ"
+Author    : Tingsong Zhang/Chenyang Zhang/Ling Wang/Yisheng Chai/Shipeng Shen/Young Sun/Hongming Yuan/Shouhua Feng
+Reference : J. Amer. Ceram. Soc., 2015, 98, 3, 1042-1042; 10.1111/jace.13424
+Keyword   : Ag-Nb-O
+Date      : 2015
+
+Rank      : 38290
+Title     : Phase transformations and magnetostriction in Fe100-xGax bulk alloys
+Author    : Marco Coïsson/Kouassi Dakmak NÿDri/Lindor Diallo/Elena S. Olivetti/Luca Martino/Carlo P. Sasso/Federica Celegato/Gabriele Barrera/Massimo Pasquale/Paola Rizzi/Mery Malandrino/Olha Nakonechna/Fabien Cuvilly/Paola Tiberto/Jean Juraszek/Saïda Bahamid/Abdeslem Fnidiki
+Reference : J. Appl. Phys., 2022, 132, 18, 183912; 10.1063/5.0097930
+Keyword   : Fe-Ga
+Date      : 2022
+
+Rank      : 38592
+Title     : Experimental Measurement and Calculation of Mole Heat Capacity and Thermodynamic Functions of Wulfenite PbMoO4
+Author    : Mira R. Bissengaliyeva/Michael A. Bespyatov/Daniil B. Gogolÿ
+Reference : J. Chem. Eng. Data, 2010, 55, 9, 2974-2979; 10.1021/je901040d
+Keyword   : Mo-O-Pb
+Date      : 2010
+
+Rank      : 38647
+Title     : Experimental Calorimetric Study of Thermodynamic Properties of Two Magnesium Phosphates, MgHPO4·3H2O and MgKPO4·6H2O
+Author    : Maxim I. Lelet/Maria L. Yakunÿkova/Dmitry A. Mikhailov/Julia N. Lelet
+Reference : J. Chem. Eng. Data, 2021, 66, 7, 2723-2732; 10.1021/acs.jced.1c00067
+Keyword   : H-Mg-O-P/K-Mg-O-P
+Date      : 2021
+
+Rank      : 38648
+Title     : Structural Characteristics, Heat Capacity, and Thermal Expansion of BiFe2(PO4)3
+Author    : Vladimir I. Petÿkov/Dmitry A. Lavrenov/Elena V. Kulikova/Natalia N. Smirnova/Alexey V. Markin
+Reference : J. Chem. Eng. Data, 2021, 66, 8, 3020-3027; 10.1021/acs.jced.1c00074
+Keyword   : Be-Fe-O-P
+Date      : 2021
+
+Rank      : 38673
+Title     : Correction to ÿThermodynamic Properties and Phase Equilibria in the H2O-Ca(NO3)2 Systemÿ
+Author    : Artem A. Novikov/Alexander V. Dzuban/Nikita A. Kovalenko/Irina A. Uspenskaya
+Reference : J. Chem. Eng. Data, 2022, 67, 6, 1596-1596; 10.1021/acs.jced.2c00301
+Keyword   : Ca-H-N-O
+Date      : 2022
+
+Rank      : 39646
+Title     : Advances in the experimental exploration of waterÿs phase diagram
+Author    : Christoph G. Salzmann
+Reference : J. Chem. Phys., 2019, 150, 6, 60901; 10.1063/1.5085163
+Keyword   : H-O
+Date      : 2019
+
+Rank      : 39701
+Title     : Structure of crystalline and amorphous materials in the NASICON system Na1+xAlxGe2-x(PO4)3 featured
+Author    : Lawrence V. D. Gammond/Henry Auer/Rita Mendes Da Silva/Anita Zeidler/Jairo F. Ortiz-Mosquera/Adriana M. Nieto-Muñoz/Ana Candida M. Rodrigues/Igor dÿAnciães Almeida Silva/Hellmut Eckert/Chris J. Benmore/Philip S. Salmon
+Reference : J. Chem. Phys., 2021, 155, 7, 074501; 10.1063/5.0049399
+Keyword   : Al-Ge-Na-O-P
+Date      : 2021
+
+Rank      : 39711
+Title     : Erratum: ÿAccurate semiempirical potential energy curves for the a3Sigma+-state of NaCs, KCs, and RbCsÿ [J. Chem. Phys. 154, 154304 (2021)]
+Author    : M. Schwarzer/J. Peter Toennies
+Reference : J. Chem. Phys., 2022, 156, 6, 064506; 10.1063/5.0085404
+Keyword   : Cs-Na/Cs-K/Cs-Rb
+Date      : 2022
+
+Rank      : 39715
+Title     : Breaking covalent bonds in the context of the many-body expansion (MBE). I. The purported ÿfirst row anomalyÿ in XHn (X = C, Si, Ge, Sn; n = 1-4)
+Author    : Demeter Tzeli/Sotiris S. Xantheas
+Reference : J. Chem. Phys., 2022, 156, 24, 244303; 10.1063/5.0095329
+Keyword   : C-H/H-Si/Ge-H/H-Sn
+Date      : 2022
+
+Rank      : 40744
+Title     : THERMODYNAMIC PROPERTIES OF VANADIUM SILICIDES II. STANDARD MOLAR ENTHALPY OF FORMATION DELTAFHMO(298.15 K) AND REASSESSED THERMODYNAMIC PROPERTIES OF TRIVANADIUM MONOSILICIDE (V3SI)
+Author    : P. A. G. OÿHARE/K. WATLING/G. A. HOPE
+Reference : J. Chem. Thermodyn., 2000, 32, 4, 427-437; 10.1006/jcht.1999.0612
+Keyword   : Si-V/
+Date      : 2000
+
+Rank      : 40754
+Title     : ENTHALPIES OF FORMATION OF ALLOYS IN THE PSEUDOBINARY LAALXNI5-X SYSTEM
+Author    : R. KLEIN/P. A. G. OÿHARE/I. JACOB
+Reference : J. Chem. Thermodyn., 2000, 32, 12, 1607-1615; 10.1006/jcht.2000.0701
+Keyword   : Al-La-Ni/
+Date      : 2000
+
+Rank      : 40818
+Title     : THERMODYNAMIC PROPERTIES OF TRIZIRCONIUM TETRAPHOSPHATE
+Author    : V.I. PETÿKOV/E.A. ASABINA/K.V. KIRÿYANOV/A.V. MARKIN/N.N. SMIRNOVA/ D.B. KITAEV/A.M. KOVALSKY
+Reference : J. Chem. Thermodyn., 2005, 37, 5, 467-476; 10.1016/j.jct.2004.11.002
+Keyword   : O-P-Zr/
+Date      : 2005
+
+Rank      : 40857
+Title     : THERMODYNAMIC PROPERTIES OF CAESIUM-MAGNESIUM MONOPHOSPHATE
+Author    : E.A. ASABINA/A.R. ZARIPOV/V.I. PETÿKOV/A.V. MARKIN/K.V. KIRÿYANOV/N. N. SMIRNOVA/S.I. ROVNY
+Reference : J. Chem. Thermodyn., 2008, 40, 4, 653-660; 10.1016/j.jct.2007.11.001
+Keyword   : Cs-Mg-O-P/
+Date      : 2008
+
+Rank      : 40945
+Title     : S6 Isomer of C60(CF3)12: Synthesis, properties and thermodynamic functions
+Author    : Natalia A. Romanova/Tatÿyana S. Papina/Vera A. Lukÿyanova/Anastasiya G. Buyanovskaya/Raisa M. Varuschenko/Anna I. Druzhinina/Alexey A. Goryunkov/Vitaliy Yu. Markov/Roman A. Panin/Lev N. Sidorov
+Reference : J. Chem. Thermodyn., 2013, 66, 59-64; 10.1016/j.jct.2013.06.004
+Keyword   : C-F
+Date      : 2013
+
+Rank      : 40971
+Title     : Thermodynamic properties of caesium-manganese phosphate CsMnPO4
+Author    : I.V. Korchemkin/V.I. Petÿkov/A.V. Markin/N.N. Smirnova/A.M. Kovalsky/N.N. Efimov/V.M. Novotortsev
+Reference : J. Chem. Thermodyn., 2014, 78, 114-119; 10.1016/j.jct.2014.06.012
+Keyword   : Cs-Mn-O-P
+Date      : 2014
+
+Rank      : 41028
+Title     : Enthalpy of formation of natural hydrous copper sulfate: Chalcanthite
+Author    : Mira Bissengaliyeva/Lyubov Ogorodova/Marina Vigasina/Lyubov Melÿchakova/Dariya Kosova/Igor Bryzgalov/Dmitrii Ksenofontov
+Reference : J. Chem. Thermodyn., 2016, 95, 142-148; 10.1016/j.jct.2015.12.010
+Keyword   : Cu-O-S/Cu-H-O-S
+Date      : 2016
+
+Rank      : 41030
+Title     : Thermodynamic properties of caesium-cobalt phosphate CsCoPO4
+Author    : I.V. Korchemkin/V.I. Petÿkov/A.V. Markin/N.N. Smirnova/A.M. Kovalskii
+Reference : J. Chem. Thermodyn., 2016, 96, 34-40; 10.1016/j.jct.2015.12.017
+Keyword   : Co-Cs-O-P
+Date      : 2016
+
+Rank      : 41214
+Title     : Détermination des grandeurs molaires partielles de mélange de lÿoxygène dans le protoxyde de fer à 1 075°C  II. - Mesures des pressions partielles dÿoxygène en équilibre avec le protoxyde.
+Author    : J.F. MARUCCO/C. PICARD/P. GERDANIAN/D. DODE/
+Reference : J. Chim. Phys., 1970, 67, 4, 914-916
+Keyword   : Fe-O/
+Date      : 1970
+
+Rank      : 41224
+Title     : Dissolution de lÿoxygène dans le niobium de 720 a 1940 K par réaction dÿoxygène et de vapeur dÿeau sous 10-7 a 10-4 TORR
+Author    : JUPILLE J./MICHEL J.M./WACH J./
+Reference : J. Chim. Phys., 1974, 71, 2, 262-270
+Keyword   : Nb-O/
+Date      : 1974
+
+Rank      : 41244
+Title     : Intéractions de lÿoxygène sous faible pression avec un alliage tantale-rhénium à haute température
+Author    : PHILIPPART J.-L./HURON P./WEBER B./
+Reference : J. Chim. Phys., 1982, 79, 9, 687-689
+Keyword   : O-Re-Ta/
+Date      : 1982
+
+Rank      : 41245
+Title     : Interaction de lÿoxygène sous faible pression avec des alliages niobium-molybdène à haute temperature
+Author    : HURON P./MESBOUA N./PACIA N./WEBER B./
+Reference : J. Chim. Phys., 1983, 80, 11-12, 799-804
+Keyword   : Mo-Nb-O/
+Date      : 1983
+
+Rank      : 41249
+Title     : Etude de lÿinterface Pd/Al2O3 application aux phénomènes de mouillage et dÿadhésion
+Author    : GILLET E./LEGRESSUS C./GILLET M./
+Reference : J. Chim. Phys., 1987, 84, 2, 167-174
+Keyword   : Al-O-Pd/
+Date      : 1987
+
+Rank      : 48895
+Title     : Heat capacity, thermal expansion and barocaloric effect in fluoride K2TaF7
+Author    : I. N. Flerov/M. V. Gorev/A. V. Kartashev/E. I. Pogorelÿtsev/N. M. Laptash
+Reference : J. Mater. Sci., 2019, 54, 23, 14287-14295; 10.1007/s10853-019-03924-8
+Keyword   : F-K-Ta
+Date      : 2019
+
+Rank      : 49974
+Title     : Investigation of the structure of CaO-Al2O3-SiO2 melts as a basis for the development of new agglomerated welding fluxes and industrial refractories
+Author    : V. E. Sokolÿskii/D. V. Pruttskov/V. M. Busko/V. P. Kazimirov/O. S. Roik/A. D. Chyrkin/V. I. Galinich/I. A. Goncharov/
+Reference : J. Min. Metall. B, 2018, 54, 2, 133-141; 10.2298/JMMB170908001S
+Keyword   : Al-Ca-O-Si/
+Date      : 2018
+
+Rank      : 49994
+Title     : X-ray diffraction study of structure of CaO-Al2O3-SiO2 ternary compounds in molten and crystalline states
+Author    : Sokolÿskii V.E./Pruttskov D.V./Yakovenko O.M./Kazimirov V.P./Roik O.S./Golovataya N.V./Sokolsky G.V.
+Reference : J. Min. Metall. B, 2020, 56, 2, 269-277; 10.2298/JMMB190806016S
+Keyword   : Al-Ca-O-Si/
+Date      : 2020
+
+Rank      : 51706
+Title     : CORRIGENDUM TO: ÿHELIUM THERMAL DIFFUSION IN A URANIUM DIOXIDE MATRIXÿ [J. Nucl. Mater. 325 (2004) 148-158] - ERRATUM.
+Author    : DANIELE ROUDIL/XAVIER DESCHANELS/PATRICK TROCELLIER/CHRISTOPHE JEGOU/SYLVAIN PEUGET/JEAN-MICHEL BART/
+Reference : J. Nucl. Mater., 2004, 327, 2-3, 226-226; 10.1016/j.jnucmat.2004.02.008
+Keyword   : He-O-U/
+Date      : 2004
+
+Rank      : 51841
+Title     : ERRATUM TO ÿFOUR THALLIUM(I) URANATES(VI), THEIR PREPARATION, STRUCTURE AND PROPERTIESÿ [J. Nucl. Mater. 344 (2005) 73-78]
+Author    : VLADIMIR A. VOLKOVICH/IAIN MAY/TREVOR R. GRIFFITHS/JOHN M. CHARNOCK/ BOB LEWIN/
+Reference : J. Nucl. Mater., 2006, 348, 3, 335-335; 10.1016/j.jnucmat.2005.11.001
+Keyword   : O-Tl-U/
+Date      : 2006
+
+Rank      : 52103
+Title     : NICKEL SOLUBILITY LIMIT IN LIQUID LEAD-BISMUTH EUTECTIC
+Author    : L. MARTINELLI/F. VANNEROY/J.C. DIAZ ROSADO/D. LÿHERMITE/M. TABARANT/
+Reference : J. Nucl. Mater., 2010, 400, 3, 232-239; 10.1016/j.jnucmat.2010.03.008
+Keyword   : Bi-Ni-Pb/
+Date      : 2010
+
+Rank      : 52126
+Title     : GD2ZR2O7 PYROCHLORE: POTENTIAL HOST MATRIX FOR SOME CONSTITUENTS OF THORIA BASED REACTORÿS WASTE
+Author    : B.P. MANDAL/M. PANDEY/A.K. TYAGI/
+Reference : J. Nucl. Mater., 2010, 406, 2, 238-243; 10.1016/j.jnucmat.2010.08.042
+Keyword   : Gd-O-Zr/
+Date      : 2010
+
+Rank      : 52143
+Title     : Dynamic Youngÿs Moduli of Tungsten and Tantalum at High Temperature and Stress
+Author    : G.P. SKORO/J.R.J. BENNETT/T.R. EDGECOCK/S.A. GRAY/A.J. MCFARLAND/C. N. BOOTH/K.J. RODGERS/J.J. BACK/
+Reference : J. Nucl. Mater., 2011, 409, 1, 40-46; 10.1016/j.jnucmat.2010.12.222
+Keyword   : Ta/W/
+Date      : 2011
+
+Rank      : 52213
+Title     : STUDIES ON THE PHASE DIAGRAM OF PB-FE-O SYSTEM AND STANDARD MOLAR GIBBS ENERGY OF FORMATION OF ÿPBFE5O8.5ÿ AND PB2FE2O5
+Author    : SULATA KUMARI SAHU/RAJESH GANESAN/T. GNANASEKARAN/
+Reference : J. Nucl. Mater., 2012, 426, 1-3, 214-222; 10.1016/j.jnucmat.2012.03.032
+Keyword   : Fe-O-Pb/
+Date      : 2012
+
+Rank      : 52232
+Title     : CORRIGENDUM TO: ÿANALYTICAL DETERMINATION OF THERMAL CONDUCTIVITY OF W-UO2 AND W-UN CERMET NUCLEAR FUELSÿ [J. Nucl. Mater. 427 (2012) 87-94]
+Author    : JONATHAN A. WEBB/INDRAJIT CHARIT/
+Reference : J. Nucl. Mater., 2013, 432, 1-3, 548-548; 10.1016/j.jnucmat.2012.07.043
+Keyword   : O-U-W/N-U-W/
+Date      : 2013
+
+Rank      : 52846
+Title     : Response to Pulsÿ critique of the McRae-Coleman interpretation of the Zr-H solubility limit
+Author    : G.A. McRae/C.E. Coleman
+Reference : J. Nucl. Mater., 2023, 581, 154423; https://doi.org/10.1016/j.jnucmat.2023.154423
+Keyword   : H-Zr
+Date      : 2023
+
+Rank      : 54411
+Title     : Comments on the Li-Sr system as shown in ASMÿs Binary alloy phase Diagrams
+Author    : Frederick E. Wang
+Reference : J. Phase Equil., 2003, 24, 4, 293-295; 10.1361/105497103770330271
+Keyword   : Li-Sr
+Date      : 2003
+
+Rank      : 54413
+Title     : Rebuttal to ÿComments on the Li-Sr systemÿ by F.E. Wang A.D. Pelton and C.W. Bale École Polytechnique de Montréal
+Author    : A. D. Pelton/C. W. Bale
+Reference : J. Phase Equil., 2003, 24, 4, 305-306; 10.1007/s11669-003-0027-z
+Keyword   : Li-Sr
+Date      : 2003
+
+Rank      : 55834
+Title     : Thermodynamic Description of the Ce-Ga Binary System
+Author    : Mohamed Idbenali/Colette Servant/Mÿbarek Feddaoui
+Reference : J. Phase Equil. Diffusion, 2013, 34, 6, 467-473; 10.1007/s11669-013-0261-y
+Keyword   : Ce-Ga/
+Date      : 2013
+
+Rank      : 56165
+Title     : Experimental Investigations on the Quaternary Interdiffusion Coefficients, Youngÿs Modulus and Hardness in bcc Ti-Nb-Ta-Zr Quaternary Alloys
+Author    : Weimin Chen/Lijun Zhang
+Reference : J. Phase Equil. Diffusion, 2019, 40, 2, 138-147; 10.1007/s11669-018-0702-8
+Keyword   : Nb-Ta-Ti-Zr
+Date      : 2019
+
+Rank      : 56185
+Title     : Multiphase Characterization of Phase Equilibria in the Tb-Rich Corner of the Co-Cu-Tb System
+Author    : Pavel A. Prokofev/Natalia B. Kolchugina/Gennady S. Burkhanov/Alexander A. Lukin/Yuri S. Koshkidÿko/Katerina Skotnicova/Tomas Cegan/Ondrej Zivotsky/Miroslav Kursa/Henrik Drulis/Alisia Hackemer
+Reference : J. Phase Equil. Diffusion, 2019, 40, 3, 403-412; 10.1007/s11669-019-00735-x
+Keyword   : Co-Cu-Tb
+Date      : 2019
+
+Rank      : 56207
+Title     : Solid Solution Li(Ni,Mn,Co,Fe)O2 Homogeneity Range
+Author    : G. D. Nipan/M. N. Smirnova/M. A. Kopÿeva/G. E. Nikiforova/N. P. Simonenko
+Reference : J. Phase Equil. Diffusion, 2019, 40, 5, 725-731; 10.1007/s11669-019-00758-4
+Keyword   : Co-Fe-Li-Mn-Ni-O
+Date      : 2019
+
+Rank      : 56218
+Title     : Correction to: Solid Solution Li(Ni,Mn,Co,Fe)O2 Homogeneity Range
+Author    : G. D. Nipan/M. N. Smirnova/M. A. Kopÿeva/G. E. Nikiforova/N. P. Simonenko
+Reference : J. Phase Equil. Diffusion, 2019, 40, 6, 842; 10.1007/s11669-019-00763-7
+Keyword   : Co-Fe-Li-Mn-Ni-O
+Date      : 2019
+
+Rank      : 56293
+Title     : High-Temperature Area of the Fe-Ni-Co-Cu Phase Diagram: Experimental Study and Computer Design
+Author    : V. P. Vorobÿeva/A. E. Zelenaya/V. I. Lutsyk/S. I. Sineva/R. V. Starykh/O. S. Novozhilova
+Reference : J. Phase Equil. Diffusion, 2021, 42, 2, 175-193; 10.1007/s11669-021-00863-3
+Keyword   : Co-Cu-Fe-Ni
+Date      : 2021
+
+Rank      : 56311
+Title     : Experimental Phase Equilibria Study and Thermodynamic Modelling of the PbO-ÿFeOÿ-SiO2, PbO-ÿFeOÿ-CaO and PbO-ÿFeOÿ-CaO-SiO2 Systems in Equilibrium with Metallic Pb and Fe
+Author    : Maksym Shevchenko/Lin Chen/Evgueni Jak
+Reference : J. Phase Equil. Diffusion, 2021, 42, 4, 452-467; 10.1007/s11669-021-00911-y
+Keyword   : Fe-O-Pb-Si/Ca-Fe-O-Pb/Ca-Fe-O-Pb-Si
+Date      : 2021
+
+Rank      : 56334
+Title     : Limited Solid Solutions LiMn2-xBxO4 (Fd-3m) and Li(Ni,Mn,Co)1-zBzO2 (R-3m)
+Author    : G. D. Nipan/M. N. Smirnova/D. Yu. Kornilov/M. A. Kopÿeva/G. E. Nikiforova/S. P. Gubin
+Reference : J. Phase Equil. Diffusion, 2021, 42, 6, 842-850; 10.1007/s11669-021-00932-7
+Keyword   : B-Li-Mn-O/B-Co-Li-Mn-Ni-O
+Date      : 2021
+
+Rank      : 56383
+Title     : A Systematic First-Principles Study of Computational Parameters Affecting Self-diffusion Coefficients in FCC Ag, Cu, and Ni
+Author    : Chelsey Z. Hargather/John M. OÿConnell
+Reference : J. Phase Equil. Diffusion, 2022, 43, 6, 764-779; 10.1007/s11669-022-00991-4
+Keyword   : Ag/Cu/Ni
+Date      : 2022
+
+Rank      : 56403
+Title     : A Mathematical Computer Model for Estimating Phase Weight/Atomic Fractions for Iron Slagsÿ System (SiO2-Al203-CaO-MgO) at Subsolidus Temperatures
+Author    : Tanju Yelkenci/Z. Engin Erkmen
+Reference : J. Phase Equil. Diffusion, 2023, 44, 2, 200-207; https://doi.org/10.1007/s11669-023-01033-3
+Keyword   : Al-Ca-Mg-O-Si
+Date      : 2023
+
+Rank      : 56404
+Title     : Correction to: A Mathematical Computer Model for Estimating Phase Weight/Atomic Fractions for Iron Slagsÿ System (SiO2-Al203-CaO-MgO) at Subsolidus Temperatures
+Author    : Tanju Yelkenci/Z. Engin Erkmen
+Reference : J. Phase Equil. Diffusion, 2023, 44, 2, 208-208; https://doi.org/10.1007/s11669-023-01036-0
+Keyword   : Al-Ca-Mg-O-Si
+Date      : 2023
+
+Rank      : 56415
+Title     : Solidus Surface of the Hf-Rh-Ir System
+Author    : Lyudmila Kriklya/Kostyantyn Korniyenko/Vasylÿ Petyukh/Irina Tikhonova/Anatoliy Samelyuk/Viktor Sobolev/Petro Levchenko
+Reference : J. Phase Equil. Diffusion, 2023, 44, 3, 394-407; https://doi.org/10.1007/s11669-023-01046-y
+Keyword   : Hf-Ir-Rh
+Date      : 2023
+
+Rank      : 57438
+Title     : Gas-Phase Chemistry of the Sulfur Hexafluoride Fragment Ions SFn+ (n = 0-5) and SFn2+ (n = 2, 4). Ab Initio Thermochemistry of Novel Reactions of S+ÿ and SF+
+Author    : Regina Sparrapan/Maria Anita Mendes/Isabel P. P. Ferreira/Marcos N. Eberlin/Cristiano Santos/José Carlos Nogueira
+Reference : J. Phys. Chem. A, 1998, 102, 27, 5189-5195; 10.1021/jp980876g
+Keyword   : F-S/
+Date      : 1998
+
+Rank      : 57501
+Title     : Performance of DFT for C60 Isomerization Energies: A Noticeable Exception to Jacobÿs Ladder
+Author    : Amir Karton/Simone L. Waite/Alister J. Page
+Reference : J. Phys. Chem. A, 2019, 123, 1, 257-266; 10.1021/acs.jpca.8b10240
+Keyword   : C
+Date      : 2019
+
+Rank      : 57578
+Title     : Waterÿs Unusual Thermodynamics in the Realm of Physical Chemistry
+Author    : Claudio A. Cerdeiriña
+Reference : J. Phys. Chem. B, 2022, 126, 35, 6608-6613; 10.1021/acs.jpcb.2c05274
+Keyword   : H-O
+Date      : 2022
+
+Rank      : 57769
+Title     : Thermodynamic Properties of Gaseous Silicon Monotelluride and the Bond Dissociation Enthalpy D°m(SiTe) at T->0
+Author    : P. A. G. OÿHare
+Reference : J. Phys. Chem. Ref. Data, 1993, 22, 6, 1455-1458; 10.1063/1.555932
+Keyword   : Si-Te/
+Date      : 1993
+
+Rank      : 57770
+Title     : The Disilicides of Tungsten, Molybdenum, Tantalum, Titanium, Cobalt, and Nickel, and Platinum Monosilicide: A Survey of Their Thermodynamic Properties
+Author    : M. S. Chandrasekharaiah/J. L. Margrave/P. A. G. OÿHare
+Reference : J. Phys. Chem. Ref. Data, 1993, 22, 6, 1459-1468; 10.1063/1.555922
+Keyword   : Si-W/Mo-Si/Si-Ta/Si-Ti/Co-Si/Ni-Si/Pt-Si/
+Date      : 1993
+
+Rank      : 57800
+Title     : Erratum: ÿEquation of state for solid benzene valid for temperatures up to 470 K and pressures up to 1800 MPaÿ [J. Phys. Chem. Ref. Data 50, 043104 (2021)]
+Author    : Xiong Xiao/J. P. Martin Trusler/Xiaoxian Yang/Monika Thol/Saif Z. S. Al Ghafri/Darren Rowland/Eric F. May
+Reference : J. Phys. Chem. Ref. Data, 2022, 51, 2, 029901; 10.1063/5.0088871
+Keyword   : C-H
+Date      : 2022
+
+Rank      : 57906
+Title     : Comments on ÿhigh-temperature thermodynamic properties of the UC1->2 phaseÿ
+Author    : G.E.Murch
+Reference : J. Phys. Chem. Sol., 1980, 41, 4, 411-411; 10.1016/0022-3697(80)90217-6
+Keyword   : C-U/
+Date      : 1980
+
+Rank      : 58429
+Title     : STRUCTURAL, ELECTRONIC AND PHONON PROPERTIESÿ INVESTIGATION OF YP AND YAS COMPOUNDS
+Author    : F. SOYALP/S. UGUR/
+Reference : J. Phys. Chem. Sol., 2008, 69, 4, 791-798; 10.1016/j.jpcs.2007.11.013
+Keyword   : P-Y/As-Y/
+Date      : 2008
+
+Rank      : 58448
+Title     : FIRST-PRINCIPLES CALCULATIONS FOR STRUCTURAL PHASE TRANSITION OF LIXFES2
+Author    : ATSUSHI HONDA/SHINÿICHI HIGAI/NOBUYUKI WADA/YUKIO SAKABE/
+Reference : J. Phys. Chem. Sol., 2008, 69, 5-6, 1353-1355; 10.1016/j.jpcs.2007.10.084
+Keyword   : Fe-Li-S/
+Date      : 2008
+
+Rank      : 58455
+Title     : FIRST-PRINCIPLES STUDY ON ELECTRONIC STRUCTURES OF BAWO4 CRYSTALS CONTAINING F-TYPE COLOR CENTERS
+Author    : HAIYAN ZHANG/TINGYU LIU/QIREN ZHANG/XIÿEN WANG/JIGANG YIN/MIN SONG/ XIAOFENG GUO/
+Reference : J. Phys. Chem. Sol., 2008, 69, 7, 1815-1819; 10.1016/j.jpcs.2008.02.001
+Keyword   : Ba-O-W/
+Date      : 2008
+
+Rank      : 58792
+Title     : Comparative analysis of long- and short-range structures features in titanates Ln2Ti2O7 and zirconates Ln2Zr2O7 (Ln = Gd, Tb, Dy) upon the crystallization process
+Author    : V. V. Popov/A. P. Menushenkov/A. A. Ivanov/B. R. Gaynanov/A. A. Yastrebtsev/F. dÿAcapito/A. Puri/G.R. Castro/I.V. Shchetinin/M.V. Zheleznyi/Ya.V. Zubavichus/K.V. Ponkratov
+Reference : J. Phys. Chem. Sol., 2019, 130, 144-153; 10.1016/J.JPCS.2019.02.019
+Keyword   : Dy-O-Ti/Dy-O-Zr/Gd-O-Ti/Gd-O-Zr/O-Tb-Ti/O-Tb-Zr/
+Date      : 2019
+
+Rank      : 58885
+Title     : Synthesis, structure, and properties of new Dion-Jacobson compounds AÿLnNaNb3O10 (Aÿ = Cs, Rb, H; Ln = Nd, Pr)
+Author    : E.V. Syrov/O.V. Krasheninnikova/A.V. Knyazev/D.G. Fukina/E.V. Suleimanov/N.S. Volkova/A.P. Gorshkov/S.M. Smirnov
+Reference : J. Phys. Chem. Sol., 2021, 156, 110184; 10.1016/J.JPCS.2021.110184
+Keyword   : Na-Nb-Nd-O-Rb/Cs-Na-Nb-Nd-O/Na-Nb-O-Pr-Rb/Cs-Na-Nb-O-Pr/H-Na-Nb-Nd-O/H-Na-Nb-O-Pr/
+Date      : 2021
+
+Rank      : 64700
+Title     : Two novel centrosymmetric barium strontium borates with a deep-UV cut-off edge: Ba2Sr3B4O11 and Ba3Sr3B4O12
+Author    : S. Volkov/R. Bubnova/A. Povolotskiy/V. Ugolkov/Maxim Arsentÿev
+Reference : J. Solid State Chem., 2020, 281, 121023; 10.1016/J.JSSC.2019.121023
+Keyword   : B-Ba-O-Sr/
+Date      : 2020
+
+Rank      : 64721
+Title     : Crystal structure, spectroscopic, optical, thermal and magnetic studies of new orthoborate Sr2Co(BO3)2
+Author    : F.-E. Nÿfaoui/J. Aride/A. Boukhari/M. Taibi/H. Saadaoui/M. Rouziéres/M. Saadi/L. El Ammari
+Reference : J. Solid State Chem., 2020, 283, 121167; 10.1016/J.JSSC.2019.121167
+Keyword   : B-Co-O-Sr/
+Date      : 2020
+
+Rank      : 64775
+Title     : Crystal structure and magnetic properties of novel La(Ce, Pr)RÿPbSi2S8 (Rÿ = Ce, Pr, Sm, Tb, Dy, Y, Ho and Er) compounds
+Author    : D. Kaczorowski/Kh.O. Melnychuk/O.V. Marchuk/L.D. Gulay/M. Daszkiewicz
+Reference : J. Solid State Chem., 2020, 290, 121565; 10.1016/J.JSSC.2020.121565
+Keyword   : Ce-La-Pb-S-Si/La-Pb-Pr-S-Si/La-Pb-S-Si-Sm/La-Pb-S-Si-Tb/Dy-La-Pb-S-Si/La-Pb-S-Si-Y/Ho-La-Pb-S-Si/Er-La-Pb-S-Si/
+Date      : 2020
+
+Rank      : 64782
+Title     : Corrigendum to: ÿPhase transitions in the hexagonal tungsten bronze RbNbW2O9ÿ [J. Solid State Chem. 286 (2020) 121275]
+Author    : Jason A. McNulty/Alexandra S. Gibbs/Christopher J. Howard/Philip Lightfoot/Finlay D. Morrison
+Reference : J. Solid State Chem., 2020, 291, 121548; 10.1016/J.JSSC.2020.121548
+Keyword   : Nb-O-Rb-W/
+Date      : 2020
+
+Rank      : 64843
+Title     : High-temperature chemistry of Y, La and lanthanide trifluorides in RF3-RÿF3 systems. Part 2. Phase diagrams of the studied systems
+Author    : Boris P. Sobolev
+Reference : J. Solid State Chem., 2021, 298, 122078; 10.1016/J.JSSC.2021.122078
+Keyword   : Dy-F-Ho/Ce-F-La/F-Nd-Pr/Ce-F-Nb/F-La-Nd/Er-F-Y/F-Tm-Y/F-Y-Yb/F-Lu-Y/F-Gd-La/Ce-F-Gd/F-Gd-Pr/F-Gd-Nb/F-Gd-Tb/Dy-F-Gd/F-Gd-Ho/Er-F-Ho/F-Lu-Tb/F-Tb-Y/Dy-F-Y/F-Ho-Y/F-Nd-Tb/Er-F-Gd/F-Gd-Tm/F-Gd-Yb/F-Gd-Lu/F-Gd-Y/Er-F-Nd/F-Nb-Yb/F-La-Lu/F-Nd-Y/
+Date      : 2021
+
+Rank      : 64844
+Title     : High-temperature chemistry of Y, La and lanthanide trifluorides in RF3-RÿF3 systems. Part 1. Chemical classification of systems
+Author    : Boris P. Sobolev
+Reference : J. Solid State Chem., 2021, 298, 122079; 10.1016/J.JSSC.2021.122079
+Keyword   : F-La-Nd/F-Gd-Pm/F-Ho-Tb/Er-F-Lu/Er-F-Y/
+Date      : 2021
+
+Rank      : 64845
+Title     : High-temperature chemistry of Y, La and lanthanide trifluorides in RF3-RÿF3 systems. Part 3. Phase composition of the studied systems
+Author    : Boris P. Sobolev
+Reference : J. Solid State Chem., 2021, 298, 122080; 10.1016/J.JSSC.2021.122080
+Keyword   : Dy-F-Ho/Ce-F-La/F-Nd-Pr/Ce-F-Nb/F-La-Nd/Er-F-Y/F-Tm-Y/F-Y-Yb/F-Lu-Y/F-Gd-La/Ce-F-Gd/F-Gd-Pr/F-Gd-Nb/F-Gd-Tb/Dy-F-Gd/F-Gd-Ho/Er-F-Ho/F-Lu-Tb/F-Tb-Y/Dy-F-Y/F-Ho-Y/F-Nd-Tb/Er-F-Gd/F-Gd-Tm/F-Gd-Yb/F-Gd-Lu/F-Gd-Y/Er-F-Nd/F-Nb-Yb/F-La-Lu/F-Nd-Y/
+Date      : 2021
+
+Rank      : 64968
+Title     : ÿw-Al2O3ÿ a microcrystalline ordered form of transition spinel alumina metastable up to 1200 C
+Author    : Gilles Wallez
+Reference : J. Solid State Chem., 2022, 312, 123303; 10.1016/J.JSSC.2022.123303
+Keyword   : Al-O/
+Date      : 2022
+
+Rank      : 65296
+Title     : Low-temperature calorimetric study of layered perovskite-like ferrites GdSrFeO4 and Gd2SrFe2O7
+Author    : Anna M. Sankovich/Irina V. Chislova/Andrey V. Blokhin/Mikhail D. Balÿmakov/Irina A. Zvereva
+Reference : J. Therm. Anal. Calorim., 2016, 126, 2, 601-608; 10.1007/s10973-016-5542-3
+Keyword   : Fe-Gd-O-Sr
+Date      : 2016
+
+Rank      : 65336
+Title     : Isobaric heat capacity and standard thermodynamic properties of NaLaTiO4 and Na2La2Ti3O10 over the range of (7-670) K
+Author    : Anna M. Sankovich/Alexey V. Markin/Natalia N. Smirnova/Mikhail D. Balÿmakov/Irina A. Zvereva
+Reference : J. Therm. Anal. Calorim., 2018, 131, 2, 1107-1114; 10.1007/s10973-017-6685-6
+Keyword   : La-Na-O-Ti
+Date      : 2018
+
+Rank      : 65344
+Title     : Enthalpy of formation of yeÿelimite and ternesite
+Author    : Solon Skalamprinos/Isabel Galan/Theodore Hanein/Fredrik Glasser
+Reference : J. Therm. Anal. Calorim., 2018, 131, 3, 2345-2359; 10.1007/s10973-017-6751-0
+Keyword   : Al-Ca-O-S/Ca-O-S-Si
+Date      : 2018
+
+Rank      : 65353
+Title     : Heat capacity measurements on Ba1.5Fe2(PO4)3 and its thermodynamic functions
+Author    : V. I. Petÿkov/A. V. Markin/A. A. Alekseev/N. N. Smirnova
+Reference : J. Therm. Anal. Calorim., 2018, 132, 1, 353-364; 10.1007/s10973-017-6925-9
+Keyword   : Ba-Fe-O-P
+Date      : 2018
+
+Rank      : 65398
+Title     : Calorimetric and volumetric functions of AsxSe1-x (x = 0.3-0.5) glasses and their model representation
+Author    : A. M. Kutÿin/V. S. Shiryaev/A. D. Plekhovich/S. D. Plekhovich
+Reference : J. Therm. Anal. Calorim., 2020, 139, 2, 1443-1452; 10.1007/s10973-019-08491-3
+Keyword   : As-Se
+Date      : 2020
+
+Rank      : 65419
+Title     : Thermal analysis of the oxide-chloride systems GdCl3-Gd2O3 and GdCl3-KCl-Gd2O3
+Author    : Iraida V. Korzun/Elena V. Nikolaeva/Irina D. Zakirÿyanova
+Reference : J. Therm. Anal. Calorim., 2021, 144, 4, 1343-1349; 10.1007/s10973-020-09558-2
+Keyword   : Cl-Gd-O/Cl-Gd-K-O
+Date      : 2021
+
+Rank      : 71553
+Title     : Corrigendum to ÿFirst-principles study of crystal structure prediction, electronic, thermodynamic and mechanical properties of Al-Li binary systemÿ [Mater. Today Commun. 29 (2021) 1-9]
+Author    : Yan Huang/Xiaozhe Zhang/Shaodong Sun
+Reference : Materials Today Commun., 2022, 30, 103069; 10.1016/j.mtcomm.2021.103069
+Keyword   : Al-Li
+Date      : 2022
+
+Rank      : 71556
+Title     : Synthesis, structural and spectral characteristics of Cd3O2SO4
+Author    : V.N. Krasilÿnikov/A.P. Tyutyunnik/V.P. Zhukov/I.V. Baklanova/O.G. Reznitskikh/E.V. Chulkov
+Reference : Materials Today Commun., 2022, 30, 103215; 10.1016/j.mtcomm.2022.103215
+Keyword   : Cd-O-S
+Date      : 2022
+
+Rank      : 72135
+Title     : Discussion of ÿkinetics and phase transformation evaluation of Fe-Zn-Al mechanically alloyed phasesÿ
+Author    : Nai-Yong Tang
+Reference : Metall. Mater. Trans. A, 1997, 28, 11, 2433-2434; 10.1007/s11661-997-0201-8
+Keyword   : Al-Fe-Zn/
+Date      : 1997
+
+Rank      : 72616
+Title     : Thermodynamic estimation of DH°ÿ for CaGa2 intermetallic
+Author    : B. Mishra/J. J. Moore
+Reference : Metall. Mater. Trans. B, 1994, 25, 1, 151-154; 10.1007/BF02663189
+Keyword   : Ca-Ga
+Date      : 1994
+
+Rank      : 72858
+Title     : Review of experimental data and modeling of the viscosities of fully liquid slags in the Al2O3-CaO-ÿFeOÿ-SiO2 system
+Author    : Alex Kondratiev/Evgueni Jak
+Reference : Metall. Mater. Trans. B, 2001, 32, 6, 1015-1025; 10.1007/s11663-001-0090-y
+Keyword   : Al-Ca-Fe-O-Si
+Date      : 2001
+
+Rank      : 72986
+Title     : LIQUIDUS TEMPERATURE DEPRESSION IN CRYOLITIC MELTS
+Author    : ASBJÿRN SOLHEIM
+Reference : Metall. Mater. Trans. B, 2012, 43, 4, 995-1000; 10.1007/s11663-012-9664-0
+Keyword   : Al-F-Mg-Na/
+Date      : 2012
+
+Rank      : 73038
+Title     : DEOXIDATION EQUILIBRIA OF MANGANESE, SILICON, AND ALUMINUM IN IRON-NICKEL-CHROMIUM MELTS
+Author    : Viktor Dashevskii/Aleksandr Aleksandrov/Akim Kanevskii/Leopold Leontÿev
+Reference : Metall. Mater. Trans. B, 2016, 47, 3, 1839-1850; 10.1007/s11663-016-0609-x
+Keyword   : Al-Cr-Fe-Mg-Ni-O-Si
+Date      : 2016
+
+Rank      : 73115
+Title     : Experimental Studies in Phase Equilibrium of the System ÿFeOÿ-SiO2-MgO-Al2O3-ÿCr2O3ÿ at Iron Saturation
+Author    : J. Liao/B. Zhao/
+Reference : Metall. Mater. Trans. B, 2021, 52, 4, 2364-2374; 10.1007/s11663-021-02195-6
+Keyword   : Al-Cr-Fe-Mg-O-Si
+Date      : 2021
+
+Rank      : 73170
+Title     : Authorÿs reply to Discussion of ÿthe activity of zinc in liquid Zn-Al alloys from isopiestic measurementsÿ
+Author    : KAUFMAN L.
+Reference : Metall. Trans., 1970, 1, 2, 541-542
+Keyword   : Al-Zn/
+Date      : 1970
+
+Rank      : 73171
+Title     : Discussion of ÿthe activity of zinc in liquid Zn-Al alloys from isopiestic measurementsÿ
+Author    : BOLSAITIS P./
+Reference : Metall. Trans., 1970, 1, 2, 542-543
+Keyword   : Al-Zn/
+Date      : 1970
+
+Rank      : 73175
+Title     : Authorsÿ reply to Discussion of ÿthe activities of oxygen in liquid copper and its alloys with silver and tinÿ
+Author    : OATES W.A./MC LELLAN R.B./
+Reference : Metall. Trans., 1970, 1, 4, 1037-1038
+Keyword   : Cu-O/Ag-Cu-O/Ag-O-Sn/
+Date      : 1970
+
+Rank      : 73176
+Title     : Discussion of ÿthe activities of oxygen in liquid copper and its alloys with silver and tinÿ
+Author    : R. J. Fruehan/F. D. Richardson
+Reference : Metall. Trans., 1970, 1, 4, 1038
+Keyword   : Cu-O/Ag-Cu-O/Ag-O-Sn/
+Date      : 1970
+
+Rank      : 74535
+Title     : Influence of Yttrium on the Phase Composition of the Ti-Al System Obtained by the ÿHydride Technologyÿ
+Author    : Natalia Karakchieva/Alina Artemenko/Olga Lepakova/Victor Sachkov/Irina Kurzina
+Reference : Metals, 2022, 12, 9, 1481; https://doi.org/10.3390/met12091481
+Keyword   : Al-Ti-Y
+Date      : 2022
+
+Rank      : 74864
+Title     : Phase Equilibria in the Ag-In-Pd System at 700°C
+Author    : Adéla Zemanová/Olga Semenova/Ales Kroupa/Jan Vrestÿál/Karthik Chandrasekaran/Klaus W. Richter/Herbert Ipser
+Reference : Monat. Chem., 2005, 136, 11, 1931-1937; 10.1007/s00706-005-0384-x
+Keyword   : Ag-In-Pd
+Date      : 2005
+
+Rank      : 74865
+Title     : Comparison of Prediction of Phase Equilibria in the Ag-In-Sb System at 200°C with Experimental Data
+Author    : Veronika Buchtová/Dragana Zivkovic/Jan Vrestÿál/Dragan Manasijevic/Ales Kroupa
+Reference : Monat. Chem., 2005, 136, 11, 1939-1945; 10.1007/s00706-005-0383-y
+Keyword   : Ag-In-Sb
+Date      : 2005
+
+Rank      : 77442
+Title     : Systematic structural study in praseodymium compressed in a neon pressure medium up to 185 Gpa
+Author    : E. F. OÿBannon, III/O. S. Pardo/P. Söderlind/D. Sneed/M. J. Lipp/C. Park/Zs. Jenei
+Reference : Phys. Rev. B, 2022, 105, 14, 144107; 10.1103/PhysRevB.105.144107
+Keyword   : Pr/Nd/Ce/U
+Date      : 2022
+
+Rank      : 77449
+Title     : High-pressure structural systematics of dysprosium metal compressed in a neon pressure medium to 182 Gpa
+Author    : D. T. Sneed/P. Söderlind/E. F. OÿBannon/III, H. Cynn/D. Smith/J. S. Smith/C. Park/Zs. Jenei
+Reference : Phys. Rev. B, 2022, 105, 21, 214110; 10.1103/PhysRevB.105.214110
+Keyword   : Dy
+Date      : 2022
+
+Rank      : 77500
+Title     : Equation of state, phase transitions, and band-gap closure in PbCl2 and SnCl2
+Author    : T. J. Smart/E. F. OÿBannon, III/M. R. Diamond/S. Stackhouse/B. K. Godwal/Q. Williams/R. Jeanloz
+Reference : Phys. Rev. B, 2023, 107, 13, 134113; https://doi.org/10.1103/PhysRevB.107.134113
+Keyword   : Cl-Pb/Cl-Sn
+Date      : 2023
+
+Rank      : 82824
+Title     : NA2MOO4-K2MOO4-H2O SYSTEM AT 25C
+Author    : R. S. MIRZOEV/R. A. SHETOV/M. KH. LIGIDOV/R. M. ELÿMESOVA/
+Reference : Russ. J. Inorg. Chem., 2010, 55, 1, 96-102; 10.1134/S0036023610010195
+Keyword   : H-K-Mo-Na-O/
+Date      : 2010
+
+Rank      : 82832
+Title     : ISOTHERMAL SECTION OF THE IRON-MOLYBDENUM-SAMARIUM SYSTEM AT 773 K
+Author    : F. A. AGAEVA/N. I. KALOEV/I. M. BIGAEVA/L. K. ESIEVA/G. M. CHELÿDIEVA/
+Reference : Russ. J. Inorg. Chem., 2010, 55, 2, 286-290; 10.1134/S0036023610020233
+Keyword   : Fe-Mo-Sm/
+Date      : 2010
+
+Rank      : 82862
+Title     : K3VO2(SO4)2 : FORMATION CONDITIONS, CRYSTAL STRUCTURE, AND PHYSICOCHEMICAL PROPERTIES
+Author    : V. N. KRASILÿNIKOV/A. P. TYUTYUNNIK/V. G. ZUBKOV/I. F. BERGER/L. A. PERELYAEVA/
+Reference : Russ. J. Inorg. Chem., 2011, 56, 1, 18-25; 10.1134/S0036023610081029
+Keyword   : K-O-S-V/
+Date      : 2011
+
+Rank      : 82864
+Title     : THE LA(CCL3COO)3-NACCL3COO-H2O SYSTEM AT 298 K
+Author    : L. S. GRIGORÿEVA/
+Reference : Russ. J. Inorg. Chem., 2011, 56, 1, 110-112; 10.1134/S0036023611010104
+Keyword   : C-Cl-H-La-Na-O/
+Date      : 2011
+
+Rank      : 82865
+Title     : PHASE FORMATION IN THE BAB2O4-NABO2-MBO3 (M = SC, LA, Y) SYSTEM AND NEW ORTHOBORATE SCBANA(BO3 )2
+Author    : T. N. SVETLYAKOVA/N. G. KONONOVA/A. E. KOKH/K. A. KOKH/N. A. PALÿCHIK/
+Reference : Russ. J. Inorg. Chem., 2011, 56, 1, 113-117; 10.1134/S0036023611010219
+Keyword   : B-Ba-Na-O-Sc/B-Ba-La-Na-O/B-Ba-Na-O-Y/
+Date      : 2011
+
+Rank      : 82910
+Title     : SOLUBILITY OF EUROPIUM OXIDES IN NAI MELTS AT 700°C
+Author    : T. P. REBROVA/V. L. CHERGINETS/YU. N. DATSÿKO/E. E. VORONKINA/
+Reference : Russ. J. Inorg. Chem., 2012, 57, 3, 427-429; 10.1134/S0036023612030242
+Keyword   : Eu-I-Na-O/
+Date      : 2012
+
+Rank      : 82920
+Title     : NA2CRO4-NAF-NAI AND K2CRO4-KF-KI THREE-COMPONENT SYSTEMS
+Author    : I. K. GARKUSHIN/E. O. IGNATÿEVA/E. M. DVORYANOVA/
+Reference : Russ. J. Inorg. Chem., 2012, 57, 5, 732-737; 10.1134/S0036023612050063
+Keyword   : Cr-F-I-Na-O/Cr-F-I-K-O/
+Date      : 2012
+
+Rank      : 82937
+Title     : PHASE FORMATION IN THE AG3PO4-SCPO4 QUASI-BINARY SYSTEM
+Author    : L. N. KOMISSAROVA/O. I. SOLOVÿEV/D. A. RUSAKOV/M. A. STRELKOV/A. A. FILARETOV/
+Reference : Russ. J. Inorg. Chem., 2013, 58, 1, 84-87; 10.1134/S0036023613010105
+Keyword   : Ag-O-P-Sc/
+Date      : 2013
+
+Rank      : 82942
+Title     : PHASE EQUILIBRIA IN THE STABLE TETRAHEDRON NAF-KF-KBR-K2CRO4 OF THE QUATERNARY MUTUAL SYSTEM NA,K/F,BR,CRO4
+Author    : E. O. IGNATÿEVA/E. M. BEKHTEREVA/I. K. GARKUSHIN/I. M. KONDRATYUK/
+Reference : Russ. J. Inorg. Chem., 2013, 58, 4, 468-473; 10.1134/S0036023613040050
+Keyword   : Br-Cr-F-K-Na-O/
+Date      : 2013
+
+Rank      : 82957
+Title     : PHYSICOCHEMICAL STUDY OF THE SB2SE3-HO2SE3 SYSTEM
+Author    : F. M. SADYGOV/T. M. ILÿYASLY/L. E. NASIBOVA/I. I. ALIEV/
+Reference : Russ. J. Inorg. Chem., 2013, 58, 9, 1121-1124; 10.1134/S0036023613090180
+Keyword   : Ho-Sb-Se/
+Date      : 2013
+
+Rank      : 82991
+Title     : HEAT CAPACITY AND THERMODYNAMIC FUNCTIONS OF MG(FE0.8GA0.2)2O4 AT HIGH TEMPERATURES
+Author    : O. N. KONDRATÿEVA/A. V. KHOROSHILOV/
+Reference : Russ. J. Inorg. Chem., 2015, 60, 12, 1544-1547; 10.1134/S0036023615120141
+Keyword   : Fe-Ga-Mg-O
+Date      : 2015
+
+Rank      : 82999
+Title     : PHASE EQUILIBRIA IN THE BAS-GA2S3 SYSTEM
+Author    : A. V. KERTMAN/N. V. SHALÿNEV/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 1, 109-114; 10.1134/S0036023616010101
+Keyword   : Ba-Ga-S
+Date      : 2016
+
+Rank      : 83001
+Title     : 3D MODEL OF THE T-X-Y DIAGRAM OF THE BI-IN-SN SYSTEM FOR DESIGNING MICROSTRUCTURE OF ALLOYS
+Author    : V. I. LUTSYK/V. P. VOROBÿEV/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 2, 188-207; 10.1134/S0036023616020121
+Keyword   : Bi-In-Sn
+Date      : 2016
+
+Rank      : 83003
+Title     : THERMODYNAMICS OF HIGH-PURITY CALCIUM PRODUCTION
+Author    : M. L. KOTSARÿ/A. A. TALANO/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 3, 344-350; 10.1134/S003602361603013X
+Keyword   : C-Ca-Cl-Cu-H-N-O
+Date      : 2016
+
+Rank      : 83011
+Title     : VERIFICATION OF THE T-X-Y DIAGRAM OF THE AG-AU-BI SYSTEM USING A 3D COMPUTER MODEL
+Author    : V. I. LUTSYK/V. P. VOROBÿEVA/S. YA. SHODOROV/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 7, 858-866; 10.1134/S0036023616070123
+Keyword   : Ag-Au-Bi
+Date      : 2016
+
+Rank      : 83013
+Title     : THE NACL-ALCL3-HCL-H2O SYSTEM AT 25°C
+Author    : G. S. SKIBA/YU. A. SELÿKIN/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 8, 1031-1034; 10.1134/S0036023616080179
+Keyword   : Al-Cl-H-Na-O
+Date      : 2016
+
+Rank      : 83016
+Title     : PHASE EQUILIBRIA IN THE TERNARY SYSTEMS KF-K2CRO4-K2MOO4 AND KI-K2CRO4-K2MOO4
+Author    : E. M. DVORYANOVA/E. V. TERENTÿEVA/
+Reference : Russ. J. Inorg. Chem., 2016, 61, 9, 1182-1186; 10.1134/S0036023616090035
+Keyword   : Cr-F-K-Mo-O/Cr-I-K-Mo-O
+Date      : 2016
+
+Rank      : 83022
+Title     : HEAT CAPACITY AND THERMODYNAMIC PROPERTIES OF MG(FE0.6GA0.4)2O4 IN THE 0-800 K TEMPERATURE RANGE
+Author    : O. N. KONDRATÿEVA/A. V. TYURIN/G. E. NIKIFOROVA/
+Reference : Russ. J. Inorg. Chem., 2017, 62, 2, 204-210; 10.1134/S0036023617020097
+Keyword   : Fe-Ga-Mg-O
+Date      : 2017
+
+Rank      : 83023
+Title     : DETERMINATION OF LOW-MELTING ALLOYS IN THE TERNARY RECIPROCAL SYSTEM NA,K:BR,WO4
+Author    : E. O. IGNATÿEVA/E. M. DVORYANOVA/
+Reference : Russ. J. Inorg. Chem., 2017, 62, 2, 236-239; 10.1134/S0036023617020073
+Keyword   : Br-K-Na-O-W
+Date      : 2017
+
+Rank      : 83024
+Title     : PHASE EQUILIBRIA AND CRITICAL PHENOMENA IN THE CESIUM NITRATE-WATER-PYRIDINE TERNARY SYSTEM
+Author    : M. P. SMOTROV/D. G. CHERKASOV/K. K. ILÿI/
+Reference : Russ. J. Inorg. Chem., 2017, 62, 3, 386-390; 10.1134/S0036023617030159
+Keyword   : C-Cs-H-N-O
+Date      : 2017
+
+Rank      : 83031
+Title     : PHASE FORMATION IN THE SYSTEM ZN(VO3)2-HCL-VOCL2-H2O
+Author    : N. V. PODVALÿNAYA/G. S. ZAKHAROVA/Y. LI/
+Reference : Russ. J. Inorg. Chem., 2017, 62, 8, 1104-1110; 10.1134/S0036023617080150
+Keyword   : Cl-H-O-V-Zn
+Date      : 2017
+
+Rank      : 83131
+Title     : Diagram of Solid-Phase Equilibria in the SnSe-Sb2Se3-Se System and Thermodynamic Properties of Tin Antimony Selenides
+Author    : E. N. Ismailova/L. F. Mashadieva/D. M. Babanly/A. V. Shevelÿkov/M. B. Babanly/
+Reference : Russ. J. Inorg. Chem., 2021, 66, 1, 96-103; 10.1134/S0036023621010046
+Keyword   : Sb-Se-Sn
+Date      : 2021
+
+Rank      : 83132
+Title     : Heat Capacity and Thermodynamic Functions of Neodymium Orthoniobate
+Author    : G. E. Nikiforova/O. N. Kondratÿeva/A. V. Tyurin/M. A. Ryumin/A. V. Khoroshilov/K. S. Gavrichev/
+Reference : Russ. J. Inorg. Chem., 2021, 66, 2, 237-244; 10.1134/S0036023621020145
+Keyword   : Nb-Nd-O
+Date      : 2021
+
+Rank      : 83135
+Title     : Investigation of the KLa(SO4)2·H2O-SrSO4·0.5H2O System
+Author    : N. N. Bushuev/G. S. Tyulÿbendzhyan/Y. A. Velikodnyi/A. N. Egorova/T. B. Shatalova/
+Reference : Russ. J. Inorg. Chem., 2021, 66, 3, 405-411; 10.1134/S0036023621030049
+Keyword   : H-K-La-O-S-Sr
+Date      : 2021
+
+Rank      : 83143
+Title     : Using a 3D Computer Model of the T-x-y Diagram of the ZrO2-SiO2-Al2O3 System to Resolve Contradictions in the Initial Experimental Data
+Author    : V. P. Vorobÿeva/A. E. Zelenaya/V. I. Lutsyk/
+Reference : Russ. J. Inorg. Chem., 2021, 66, 6, 894-901; 10.1134/S003602362106022X
+Keyword   : Al-O-Si-Zr
+Date      : 2021
+
+Rank      : 83554
+Title     : Heat Effects of the Thermal Decomposition of Amidoboranes of Potassium, Calcium, and Strontium
+Author    : Yu. V. Kondratÿev/A. V. Butlak/I. V. Kazakov/I. S. Krasnova/M. V. Chislov/A. Yu. Timoshkin
+Reference : Russ. J. Phys. Chem. A, 2018, 92, 5, 640-645; 10.1134/S0036024418040143
+Keyword   : B-H-K-N/B-Ca-H-N/B-H-N-Sr
+Date      : 2018
+
+Rank      : 83555
+Title     : Standard Thermodynamic Functions of Crystalline Arsenate Mg0.5Zr2(AsO4)3 in the Range from T = 0 to 670 K
+Author    : V. I. Petÿkov/A. S. Shipilov/A. V. Markin/N. N. Smirnova
+Reference : Russ. J. Phys. Chem. A, 2018, 92, 6, 646-652; 10.1134/S0036024418040246
+Keyword   : As-Mg-O-Zr
+Date      : 2018
+
+Rank      : 83561
+Title     : Viscosity of Fe-Mn-C Melts
+Author    : O. A. Chikova/N. I. Sinitsin/V. V. Vÿyukhin
+Reference : Russ. J. Phys. Chem. A, 2021, 95, 2, 244-249; 10.1134/S0036024421020084
+Keyword   : C-Fe-Mn
+Date      : 2021
+
+Rank      : 83563
+Title     : Viscosity of Al-In Melts
+Author    : O. A. Chikova/N. I. Sinitsin/V. V. Vÿyukhin
+Reference : Russ. J. Phys. Chem. A, 2021, 95, 5, 902-909; 10.1134/S0036024421050083
+Keyword   : Al-In
+Date      : 2021
+
+Rank      : 83569
+Title     : Phase Equilibria in the NaCl-NaBr-Na2CrO4 Ternary System
+Author    : M. A. Demina/E. M. Egorova/I. K. Garkushin/A. V. Burchakov/E. O. Ignatÿeva
+Reference : Russ. J. Phys. Chem. A, 2021, 95, 6, 1277-1279; 10.1134/S003602442106008X
+Keyword   : Br-Cl-Cr-Na-O
+Date      : 2021
+
+Rank      : 83576
+Title     : Surface Tension of Fe-Mn-C Melts
+Author    : N. I. Sinitsin/O. A. Chikova/V. V. Vÿyukhin
+Reference : Russ. J. Phys. Chem. A, 2021, 95, 12, 2492-2498; 10.1134/S0036024421120207
+Keyword   : C-Fe-Mn
+Date      : 2021
+
+Rank      : 83594
+Title     : Thermodynamic Properties and Thermal Expansion of Gd2Sn2O7 at High Temperatures
+Author    : A. V. Khoroshilov/V. N. Gusÿkov/A. V. Gusÿkov/P. G. Gagarin/K. S. Gavrichev
+Reference : Russ. J. Phys. Chem. A, 2022, 96, 5, 918-924; 10.1134/S0036024422050144
+Keyword   : Gd-O-Sn
+Date      : 2022
+
+Rank      : 83605
+Title     : Studying the Viscosity of Liquid Aluminum-Nickel Alloys
+Author    : A. L. Beltyukov/I. V. Sterkhova/V. I. Ladÿyanov/R. M. Khusnutdinoff/A. V. Mokshin
+Reference : Russ. J. Phys. Chem. A, 2022, 96, 12, 2598-2605; 10.1134/S003602442212007X
+Keyword   : Al-Ni
+Date      : 2022
+
+Rank      : 83606
+Title     : Variants of the 3D Computer Model of the LiF-KF-RbF T-x-y Diagram
+Author    : V. P. Vorobÿeva/A. E. Zelenaya/V. I. Lutsyk/M. D. Parfenova
+Reference : Russ. J. Phys. Chem. A, 2022, 96, 12, 2612-2620; 10.1134/S0036024422120299
+Keyword   : F-K-Li-Rb
+Date      : 2022
+
+Rank      : 83622
+Title     : Solubility in the Ternary Water-Salt System GdCl3-TbCl3-H2O at 25°C
+Author    : N. A. Charykov/A. A. Gurÿeva/V. P. German/V. A. Keskinov/A. V. Rumyantsev/K. N. Semenov/N. A. Kulenova/M. A. Sadenova/L. V. Shushkevich/D. G. Letenko/M. Yu. Matuzenko
+Reference : Russ. J. Phys. Chem. A, 2023, 97, 7, 1431-1437; https://doi.org/10.1134/S0036024423070051
+Keyword   : Cl-Gd-H-O-Tb
+Date      : 2023
+
+Rank      : 83627
+Title     : Solubility in Ternary System NdCl3-PrCl3-H2O at 25°C
+Author    : A. V. Rumyantsev/A. A. Gurÿeva/V. P. German/V. A. Keskinov/N. A. Charykov/A. A. Blokhin/N. A. Kulenova/B. K. Shaimardanova/M. A. Sadenova/L. V. Shushkevich
+Reference : Russ. J. Phys. Chem. A, 2023, 97, 8, 1685-1691; https://doi.org/10.1134/S0036024423080228
+Keyword   : Cl-H-Nd-O-Pr
+Date      : 2023
+
+Rank      : 83749
+Title     : OXIDATION OF COPPER ULTRAFINE POWDERS AND NANOPOWDERS PRODUCED BY VAPOR PHASE CONDENSATION
+Author    : S. V. ZHIDOVINOVA/L. V. ZOLOTUKHINA/B. R. GELÿCHINSKII/
+Reference : Russ. Metall. (Metally), 2010, 9, 774-778; 10.1134/S0036029510090053
+Keyword   : Cu-O/
+Date      : 2010
+
+Rank      : 83753
+Title     : SI-NI-FE ALLOYS FOR MAGNETRON SPUTTERING TARGETS
+Author    : I. G. KOLESNIKOVA/B. M. FREIDIN/YU. V. KUZÿMICH/D. L. ROGACHEV/L. A. MAIOROV/
+Reference : Russ. Metall. (Metally), 2010, 9, 847-850; 10.1134/S0036029510090168
+Keyword   : Fe-Ni-Si/
+Date      : 2010
+
+Rank      : 83773
+Title     : EXCESSIVE THERMODYNAMIC PROPERTIES OF PRASEODYMIUM IN A GALLIUM-INDIUM ALLOY
+Author    : S. YU. MELÿCHAKOV/L. F. YAMSHCHIKOV/V. A. IVANOV/V. A. VOLKOVICH/A. G. OSIPENKO/M. V. KORMILITSYN/V. A. NAGOVITSYN/
+Reference : Russ. Metall. (Metally), 2013, 8, 607-609; 10.1134/S0036029513080090
+Keyword   : Ga-In-Pr/
+Date      : 2013
+
+Rank      : 83784
+Title     : APPLICATION OF PHYSICAL-EMPIRICAL MODELS TO CALCULATE A FRAGMENT OF THE PHASE DIAGRAM AND THE PHYSICAL PROPERTIES OF BCC FE-CR ALLOYS: I. FORMULATION OF A MODEL AND THE ESTIMATION AND APPROXIMATION OF EXPERIMENTAL DATA
+Author    : A. L. UDOVSKII/D. A. VASILÿE/
+Reference : Russ. Metall. (Metally), 2015, 3, 237-243; 10.1134/S0036029515030106
+Keyword   : Cr-Fe
+Date      : 2015
+
+Rank      : 83788
+Title     : PHASE COMPOSITION OF AL-TI-NB-MO GAMMA ALLOYS IN THE HEAT-TREATMENT TEMPERATURE RANGE: CALCULATION AND EXPERIMENT
+Author    : N. A. BELOV/N. I. DASHKEVICH/S. O. BELÿTYUKOV/
+Reference : Russ. Metall. (Metally), 2015, 7, 576-584; 10.1134/S0036029515070046
+Keyword   : Al-Mo-Nb-Ti
+Date      : 2015
+
+Rank      : 83795
+Title     : APPLICATION OF PHYSICAL-EMPIRICAL MODELS TO CALCULATE A FRAGMENT OF THE PHASE DIAGRAM AND THE PHYSICAL PROPERTIES OF BCC FE-CR ALLOYS: II. CALCULATION OF PHASE BOUNDARIES, SPINODAL, AND THE TEMPERATURE DEPENDENCE OF THE HEAT CAPACITY OF AN ALLOY
+Author    : D. A. VASILÂÿEV/A. L. UDOVSKI/
+Reference : Russ. Metall. (Metally), 2016, 5, 443-449; 10.1134/S003602951605013X
+Keyword   : Cr-Fe
+Date      : 2016
+
+Rank      : 83806
+Title     : THERMODYNAMIC SIMULATION OF THE OXIDATION OF RADIOACTIVE GRAPHITE IN THE NA2CO3-K2CO3-NIO AND NA2CO3-K2CO3-CUO MELTS
+Author    : N. M. BARBIN/M. R. SHAVALEEV/D. I. TERENTÿEV/
+Reference : Russ. Metall. (Metally), 2017, 2, 136-145; 10.1134/S0036029517020045
+Keyword   : C-K-Na-Ni-O/C-Cu-K-Na
+Date      : 2017
+
+Rank      : 83808
+Title     : THERMODYNAMICS OF THE OXYGEN SOLUTIONS IN THE ALUMINUM-CONTAINING NI-CO MELTS
+Author    : A. A. ALEKSANDROV/V. YA. DASHEVSKII/L. I. LEONTÿE/
+Reference : Russ. Metall. (Metally), 2017, 7, 590-593; 10.1134/S0036029517070023
+Keyword   : Al-Co-Ni-O
+Date      : 2017
+
+Rank      : 86247
+Title     : Dependence of crystal structure, phase transition temperature, chemical state of Fe, oxygen content and electrical conductivity of Ba2-xLaxFe2O5+delta (x = 0.00âÿÿ0.15) on La content.
+Author    : Tsubasa Sato/Takashi Okiba/Katsumi Shozugawa/Motoyuki Matsuo/Fumito Fujishiro/Eiki Niwa/Takuya Hashimoto/
+Reference : Solid State Ionics, 2016, 290, 71-76; 10.1016/j.ssi.2016.03.019
+Keyword   : Ba-Fe-O/Ba-Fe-La-O/
+Date      : 2016
+
+Rank      : 86457
+Title     : COMMENT ON ÿPHASE FORMATION AND CRYSTAL STRUCTURE OF TERNARY COMPOUND NA2LI2TI6O14ÿ BY L.M. TORRES-MARTINEZ ET AL., Solid State Sci. 8 (2006) 1281-1289
+Author    : VLADIMIR B. NALBANDYAN/
+Reference : Solid State Sci., 2007, 9, 3-4, 329-330; 10.1016/j.solidstatesciences.2007.02.001
+Keyword   : Li-Na-O-Ti/
+Date      : 2007
+
+Rank      : 86471
+Title     : SYNTHESIS, CRYSTAL STRUCTURES, METAL-ATOM DISTRIBUTION AND MAGNETIC PROPERTIES OF CR5-XTIXSE8 (X ÿ 2, 3, 4)
+Author    : J. WONTCHEU/W. KOCKELMANN/ZHONG-LE HUANG/W. SCHNELLE/W. BENSCH/
+Reference : Solid State Sci., 2007, 9, 6, 506-514; 10.1016/j.solidstatesciences.2007.03.028
+Keyword   : Cr-Se-Ti/
+Date      : 2007
+
+Rank      : 86521
+Title     : LOCAL STRUCTURE OF PEROVSKITE-BASED ÿPB2FE2O5ÿ
+Author    : JOKE HADERMANN/ARTEM M. ABAKUMOV/IVAN V. NIKOLAEV/EVGENY V. ANTIPOV/ GUSTAAF VAN TENDELOO/
+Reference : Solid State Sci., 2008, 10, 4, 382-389; 10.1016/j.solidstatesciences.2007.12.008
+Keyword   : Fe-O-Pb/
+Date      : 2008
+
+Rank      : 87597
+Title     : 
+Author    : G.I. Dolivo-Dobrovolÿskaya/V.V. Zhdanova/V.P. Sergeev
+Reference : Sov. Phys.- Solid State, 1973, 15, 933-935
+Keyword   : Ge
+Date      : 1973
+
+Rank      : 88740
+Title     : Study of the Saturated Vapour Pressure of Ba
+Author    : KARMYSHIN YU.V./TOTSKII E.E./SHPILÿRAIN E.E./
+Reference : Teplofiz. Vys. Temp., 1974, 12, 3, 519-523
+Keyword   : Ba/
+Date      : 1974
+
+Rank      : 90299
+Title     : Thermal characterization of Se100-xSnx (x = 4, 6 and 8) chalcogenide glasses using differential scanning calorimeter
+Author    : Omar A. Lafi/Mousa M.A. Imran/Maÿrouf K. Abdullah/Samar A. Al-Sakhel
+Reference : Thermochimica Acta, 2013, 560, 71-75; 10.1016/j.tca.2013.03.024
+Keyword   : Se-Sn
+Date      : 2013
+
+Rank      : 90309
+Title     : Thermodynamic properties of Au-Hg binary solid solution
+Author    : Konstantin Chudnenko/Galina Palÿyanova
+Reference : Thermochimica Acta, 2013, 566, 175-180; 10.1016/j.tca.2013.05.041
+Keyword   : Au-Hg
+Date      : 2013
+
+Rank      : 90390
+Title     : Sublimation and thermal decomposition of ammonia borane: Competitive processes controlled by pressure
+Author    : Yu.V. Kondratÿev/A.V. Butlak/I.V. Kazakov/A.Y. Timoshkin
+Reference : Thermochimica Acta, 2015, 622, 64-71; 10.1016/j.tca.2015.08.021
+Keyword   : B-H-N
+Date      : 2015
+
+Rank      : 90407
+Title     : Thermodynamic functions of magnesium gallate MgGa2O4 in the temperature range 0-1200 K
+Author    : O.N. Kondratÿeva/A.V. Tyurin/G.E. Nikiforova/A.V. Khoroshilov/M.N. Smirnova/V.A. Ketsko/K.S. Gavrichev
+Reference : Thermochimica Acta, 2016, 641, 49-54; 10.1016/j.tca.2016.08.015
+Keyword   : Ga-Mg-O
+Date      : 2016
+
+Rank      : 90421
+Title     : On some corrections to paper ÿCaO solubility and activity coefficient in molten salts CaCl2-x (x = 0, NaCl, KCl, SrCl2, BaCl2 and LiCl)ÿ published in Thermochim. Acta, 2008, V. 470, No 1-2, pp. 105-107
+Author    : Victor L. Cherginets/Tatyana P. Rebrova
+Reference : Thermochimica Acta, 2017, 654, 51-53; 10.1016/j.tca.2017.05.001
+Keyword   : Ca-Cl-Na/Ca-Cl-K/Ca-Cl-Sr/Ba-Ca-Cl/Ca-Cl-Li/Ca-Cl
+Date      : 2017
+
+Rank      : 90424
+Title     : The standard enthalpy of formation of superionic solid electrolyte Li7La3Zr2O12
+Author    : E.A. Ilÿina/A.A. Raskovalov/A.P. Safronov
+Reference : Thermochimica Acta, 2017, 657, 26-30; 10.1016/j.tca.2017.09.019
+Keyword   : La-Li-O-Zr
+Date      : 2017
+
+Rank      : 90457
+Title     : Standard molar Gibbs energy of formation of ÿBi22Cr18O60ÿ and ÿBi38CrO60ÿ
+Author    : A.V. Meera/P.R. Reshmi/Rajesh Ganesan/T. Gnanasekaran
+Reference : Thermochimica Acta, 2019, 678, 178299; 10.1016/j.tca.2019.05.014
+Keyword   : Bi-Cr-O
+Date      : 2019
+
+Rank      : 90461
+Title     : Formation of Ba1-xCaxTiO3 solid solutions beyond the solubility limit by ÿsputter-annealÿ method
+Author    : Miho Ako/Takeshi Kogure/Yumie Kobayashi/Tôru Kyômen/Jun-ichi Fujisawa/Minoru Hanaya
+Reference : Thermochimica Acta, 2019, 679, 178339; 10.1016/j.tca.2019.178339
+Keyword   : Ba-Ca-O-Ti
+Date      : 2019
+
