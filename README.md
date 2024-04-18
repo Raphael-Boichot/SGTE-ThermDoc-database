@@ -19,6 +19,7 @@ The **ThermDoc** database itself is a collection of more than 100,000 literature
 
 **Easy launch with the GNU Octave GUI:**
 - Right click on **Script.m** -> Open with -> GNU Octave Launcher;
+
 OR
 - Launch GNU Octave GUI and navigate to the **./Code** folder from the "File browser" 
 - Edit the **script.m** file;
