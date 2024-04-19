@@ -57,8 +57,51 @@ while ~feof(fid)
 end
 fclose(fid);
 fclose(out);
+
+fid = fopen(input_file,'r');
+%disp('Scanning database, please wait...')
+list=[];
+while ~feof(fid)
+    a=fgets(fid);
+    if not(isempty(strfind(a,'tit')))
+        title=fgets(fid);
+        if max(double(title))>255
+            for i=1:1:length(title)
+                if title(i)>255
+                    list=[list,title(i)];
+                end
+            end
+        end
+        null=fgets(fid);
+        author=fgets(fid);
+        if max(double(author))>255
+            for i=1:1:length(author)
+                if author(i)>255
+                    list=[list,author(i)];
+                end
+            end
+        end
+        null=fgets(fid);
+        reference=fgets(fid);
+        if max(double(reference))>255
+            for i=1:1:length(reference)
+                if reference(i)>255
+                    list=[list,reference(i)];
+                end
+            end
+        end
+        null=fgets(fid);
+        cle=fgets(fid);
+        null=fgets(fid);
+        date=fgets(fid);
+    end
+end
+list=unique(list);
+fclose(fid);
+
 if i==0
     disp('No reference found')
 end
 disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found !']);
+disp(['List of Windows-1252 characters found: ',char(list)])
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
