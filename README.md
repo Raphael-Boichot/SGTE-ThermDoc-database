@@ -87,7 +87,6 @@ The original database is never modified during the maintenance, all operations a
 
 ## Dev notes
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
-- The working database contains some rare erroneous characters if generated from Matlab (377 exactly into the whole database in 2024, only 11 different: ŒŸƒ˜‘’“”•€™). From GNU Octave everything is OK. I search a way of fixing this. The reason is a difference between Matlab and GNU Octave when dealing with UTF-8 encoding. It anyway does not affect the code performance for its only task: finding references.
 
 ## Licenses
 - The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT).
