@@ -87,6 +87,7 @@ The original database is never modified during the maintenance, all operations a
 
 ## Dev notes
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
+- De to the more or less automated method for extraction of references, they sometimes contain characters from the extended Windows-1252 table which is not an ANSI standard. They are actively searched/cleared and replaced with corresponding ANSI standardized ISO-8859-1 characters.
 
 ## Licenses
 - The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT).
