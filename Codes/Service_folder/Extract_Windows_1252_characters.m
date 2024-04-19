@@ -1,10 +1,8 @@
-% The source database was encoded in Windows-1252 characters, which is a superset 
-% of ISO 8859-1, also known as ISO Latin-1. ISO 8859-1 contains all
-% European accents, which are easily substituable with a table but Windows-1252 
-% also contains characters like Œ or ™ which are not always substituable with a 
-% single character. These latter will be removed from source database as they 
-% can be not displayed/discarded properly depending on the OS the service 
-% script is running on
+% The source database has some characters from the Windows-1252 table, 
+% which is a non standard superset of ISO 8859-1, also known as ISO Latin-1. 
+% ISO 8859-1 contains all European accents, which are easily substituable. 
+% But Windows-1252 contains characters like Œ or ™ which cannot be displayed
+% correctly on some OS. They are actively replaced.
 
 function []=Extract_Windows_1252_characters(input_file)
 warning ('off','all');
