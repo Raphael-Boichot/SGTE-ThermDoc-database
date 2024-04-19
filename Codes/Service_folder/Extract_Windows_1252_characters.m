@@ -10,6 +10,8 @@ output_file='Error_outputs/Ref_with_Windows_1252_characters.txt';
 out = fopen(output_file,'w');
 fid = fopen(input_file,'r');
 %fid = fopen(input_file,'r','n','windows-1252');
+[filename,permission,machinefmt,encodingOut] = fopen(fid);
+disp(['File encoding: ', encodingOut])
 counter=0;
 match=0;
 while ~feof(fid)
