@@ -1,6 +1,6 @@
-% The source database has some characters from the Windows-1252 table, 
-% which is a non standard superset of ISO 8859-1, also known as ISO Latin-1. 
-% ISO 8859-1 contains all European accents, which are easily substituable. 
+% The source database has some characters from the Windows-1252 table,
+% which is a non standard superset of ISO 8859-1, also known as ISO Latin-1.
+% ISO 8859-1 contains all European accents, which are easily substituable.
 % But Windows-1252 contains characters like Œ or ™ which cannot be displayed
 % correctly on some OS. They are actively replaced.
 
@@ -57,6 +57,7 @@ fclose(fid);
 fclose(out);
 
 fid = fopen(input_file,'r');
+%fid = fopen(input_file,'r','n','windows-1252');
 %disp('Scanning database, please wait...')
 list=[];
 while ~feof(fid)
