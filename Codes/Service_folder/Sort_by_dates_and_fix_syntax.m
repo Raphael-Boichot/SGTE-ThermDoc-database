@@ -3,6 +3,7 @@ warning ('off','all');
 out = fopen(output_file,'w');
 %disp('Scanning database for unique dates, please wait...')
 fid = fopen(input_file,'r');
+%fid = fopen(input_file,'r','n','windows-1252');
 match=0;
 entries=0;
 while ~feof(fid)

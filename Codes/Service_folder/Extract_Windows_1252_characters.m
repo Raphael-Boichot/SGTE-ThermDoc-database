@@ -12,7 +12,6 @@ output_file='Error_outputs/Ref_with_Windows_1252_characters.txt';
 out = fopen(output_file,'w');
 fid = fopen(input_file,'r');
 %fid = fopen(input_file,'r','n','windows-1252');
-%disp('Scanning database, please wait...')
 counter=0;
 match=0;
 while ~feof(fid)
@@ -101,6 +100,6 @@ fclose(fid);
 if i==0
     disp('No reference found')
 end
-disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found !']);
+disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found ! (GNU Octave always return 0)']);
 disp(['List of Windows-1252 characters found: ',char(list)])
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
