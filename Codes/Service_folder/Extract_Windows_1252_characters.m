@@ -11,7 +11,7 @@ out = fopen(output_file,'w');
 fid = fopen(input_file,'r');
 %fid = fopen(input_file,'r','n','windows-1252');
 [filename,permission,machinefmt,encodingOut] = fopen(fid);
-disp(['File encoding: ', encodingOut])
+%disp(['File encoding: ', encodingOut])
 counter=0;
 match=0;
 while ~feof(fid)
@@ -97,9 +97,8 @@ while ~feof(fid)
 end
 list=unique(list);
 fclose(fid);
-
-if i==0
-    disp('No reference found')
+if isempty(list)
+    list='none';
 end
 disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found ! (GNU Octave always return 0)']);
 disp(['List of Windows-1252 characters found: ',char(list)])
