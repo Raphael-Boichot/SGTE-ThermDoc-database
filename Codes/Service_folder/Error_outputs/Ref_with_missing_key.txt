@@ -1,35 +1,7 @@
-Rank      : 10892
-Title     : Supervised deep learning prediction of the formation enthalpy of complex phases using a DFT database: The sigma phase as an example
-Author    : Jean-Claude Crivello/Jean-Marc Joubert/Nataliya Sokolovska
-Reference : Comput. Mater. Sci., 2022, 201, 110864; 10.1016/j.commatsci.2021.110864
-Keyword   : 
-Date      : 2022
-
-Rank      : 10893
-Title     : Phase stability and mechanical properties of carbide solid solutions with 2-5 principal metals
-Author    : Stepan Vorotilo/Kirill Sidnov/Alexey S. Sedegov/Mohammad Abedi/Kseniia Vorotilo/Dmitry O. Moskovskikh
-Reference : Comput. Mater. Sci., 2022, 201, 110869; 10.1016/j.commatsci.2021.110869
-Keyword   : 
-Date      : 2022
-
-Rank      : 35304
+Rank      : 25113
 Title     : Heat capacity of liquid and undercooled liquid metals and alloys
 Author    : F. Sommer
 Reference : J. Alloys Compounds, 1995, 220, 1-2, 174-178; 10.1016/0925-8388(94)06038-X
 Keyword   : 
 Date      : 1995
-
-Rank      : 35723
-Title     : Insights on phase formation from thermodynamic calculations and machine learning of 2436 experimentally measured high entropy alloys
-Author    : Chuangye Wang/Wei Zhong/Ji-Cheng Zhao
-Reference : J. Alloys Compounds, 2022, 915, 165173; 10.1016/j.jallcom.2022.165173
-Keyword   : 
-Date      : 2022
-
-Rank      : 35725
-Title     : Laves type intermetallic compounds as hydrogen storage materials: A review
-Author    : Volodymyr A. Yartys/Mykhaylo V. Lototskyy
-Reference : J. Alloys Compounds, 2022, 916, 165219; 10.1016/j.jallcom.2022.165219
-Keyword   : 
-Date      : 2022
 

@@ -1,298 +1,228 @@
-Rank      : 4600
+Rank      : 4625
 Title     : ALUMINUM BORIDES EVAPORATION RATE AND VAPOR PRESSURE AT 1100 TO 2000 DEG.C.
 Author    : 
 Reference : AEC-TR-4865 N.S.A. 16-2208(T), (1962).
 Keyword   : Al-B/
 Date      : 1962
 
-Rank      : 6242
+Rank      : 6268
 Title     : THE BI-CU SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 57-57; 10.1007/BF02883290
 Keyword   : Bi-Cu/
 Date      : 1980
 
-Rank      : 6245
+Rank      : 6271
 Title     : THE CD-CU SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 62-63; 10.1007/BF02883293
 Keyword   : Cd-Cu/
 Date      : 1980
 
-Rank      : 6248
+Rank      : 6274
 Title     : THE CU-GE SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 69-70; 10.1007/BF02883296
 Keyword   : Cu-Ge/
 Date      : 1980
 
-Rank      : 6251
+Rank      : 6277
 Title     : THE CU-IN SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 76-77; 10.1007/BF02883299
 Keyword   : Cu-In/
 Date      : 1980
 
-Rank      : 6254
+Rank      : 6280
 Title     : THE CU-PB SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 81-82; 10.1007/BF02883302
 Keyword   : Cu-Pb/
 Date      : 1980
 
-Rank      : 6257
+Rank      : 6283
 Title     : THE CU-SN SYSTEM .
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 1, 87-89; 10.1007/BF02883305
 Keyword   : Cu-Sn/
 Date      : 1980
 
-Rank      : 6263
+Rank      : 6289
 Title     : The Cu-In (Copper-Indium) system
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1980, 1, 2, 23-23; 10.1007/BF02881168
 Keyword   : Cu-In
 Date      : 1980
 
-Rank      : 6439
+Rank      : 6465
 Title     : Properties of cerium
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1983, 4, 1, 27-27; 10.1007/BF02880310
 Keyword   : Ce
 Date      : 1983
 
-Rank      : 6839
+Rank      : 6865
 Title     : Melting points of the elements
 Author    : 
 Reference : Bull. Alloy Phase Diag., 1986, 7, 6, 602-602; 10.1007/BF02869888
 Keyword   : Ag/Al/Am/Ar/As/At/Au/B/Ba/Be/Bi/Bk/Br/C/Ca/Cd/Ce/Cf/Cl/Cm/Co/Cr/Cs/Cu/Dy/Er/Es/Eu/F/Fe/Fm/Fr/Ga/Gd/Ge/H/He/Hf/Hg/Ho/I/In/Ir/K/Kr/La/Li/Lr/Lu/Md/Mg/Mn/Mo/N/Na/Nb/Nd/Ne/Ni/No/Np/O/Os/P/Pa/Pb/Pd/Pm/Po/Pr/Pt/Pu/Ra/Rb/Re/Rh/Rn/Ru/S/Sb/Sc/Se/Si/Sm/Sn/Sr/Ta/Tb/Tc/Te/Th/Ti/Tl/Tm/U/V/W/Xe/Y/Yb/Zn/Zr
 Date      : 1986
 
-Rank      : 7336
-Title     : VAPOR PRESSURE OF TICL4.
-Author    : 
-Reference : BULL. INST. PHYS. CHEM. RES. (TOKYO), 1929, 8, 714-8.
-Keyword   : Cl-Ti/
-Date      : 1929
-
-Rank      : 7485
-Title     : INTERACTION BETWEEN INTERSTITIALS AND ALPHA- ALPHA PRIME TRANSITION IN METALS.
-Author    : 
-Reference : Bussei Kenkyu, 1975, 25, 3, 139-154
-Keyword   : H-Nb/H-Pd/
-Date      : 1975
-
-Rank      : 11924
-Title     : THERMODYNAMICS OF LOWER OXIDES OF TUNGSTEN AS STUDIED BY THE EMF METHOD AT HIGH TEMPERATURES.
-Author    : 
-Reference : Dokl. Akad. Nauk, 1960, 134, 1350-1352
-Keyword   : O-W/
-Date      : 1960
-
-Rank      : 13112
+Rank      : 13187
 Title     : GALLIUM ARSENIDE AND RELATED COMPOUNDS.
 Author    : 
 Reference : FIFTH INT. SYMP. HELD IN DEAUVILLE, FRANCE, (SEPT.24-26, 1974). CONF. SERIES NUMBER 24, NEW YORK; AMERICAN INST.PHYS., 1975, 386 PP. (CONF-7409112-).
 Keyword   : As-Ga/
 Date      : 1974
 
-Rank      : 15482
+Rank      : 15561
 Title     : COMPOSES INTERMETALLIQUES DE NB ET SN.
 Author    : 
 Reference : IMPERIAL METAL INDUSTRIES, KYNOCH. (ADDN. TO NETH.APPL. 302,200) NETH.APPL. 6,613,066, -CL.C 23C-, MARCH 20, 1967.
 Keyword   : Nb-Sn/
 Date      : 1967
 
-Rank      : 15619
+Rank      : 15698
 Title     : VAPOR PRESSURES OF MERCURY AND ITS CHLORIDES. BIBLIOGRAPHICAL STUDY .
 Author    : 
 Reference : INF.CHIM., 1978, 182, 227-233.
 Keyword   : Cl-Hg/
 Date      : 1978
 
-Rank      : 23216
+Rank      : 23334
 Title     : ENTHALPIES OF FORMATION OF MOLTEN MANGANESE-SILICON ALLOYS.
 Author    : 
 Reference : Izv. Vyssh. Ucheb. Zaved., Chern. Metall., 1975, 2, 8-11
 Keyword   : Mn-Si/
 Date      : 1975
 
-Rank      : 25501
-Title     : THE INVESTIGATION OF THE ZR(1-Y)TI(Y)(CR(1-X)NI(X)2-H2 SYSTEM 0. 0<Y<1.0. PHASE COMPOSITION ANALYSIS AND THERMODYNAMIC PROPERTIES.
-Author    : 
-Reference : J. Alloys Compounds, 1998, 281, 2, 290-300; https://doi.org/10.1016/S0925-8388(98)00792-0
-Keyword   : Cr-H-Ni-Ti-Zr/
-Date      : 1998
-
-Rank      : 53114
+Rank      : 53487
 Title     : The melting and boiling points of mercury (Hg)
 Author    : 
 Reference : J. Phase Equil., 1992, 13, 4, 339-339; 10.1007/BF02674977
 Keyword   : Hg
 Date      : 1992
 
-Rank      : 53451
-Title     : COMMENT ON BI-GD (BISMUTH-GADOLINIUM).
-Author    : 
-Reference : J. Phase Equil., 1994, 15, 6, 650-650; 10.1007/BF02647641
-Keyword   : Bi-Gd/
-Date      : 1994
-
-Rank      : 53561
+Rank      : 53934
 Title     : Measurement of the peritectic phase composition in the Sn-Cd system through directional solidification techniques
 Author    : 
 Reference : J. Phase Equil., 1996, 17, 1, 7-7; 10.1007/BF02648362
 Keyword   : Cd-Sn
 Date      : 1996
 
-Rank      : 53651
-Title     : THE MN-NI PHASE DIAGRAM (ADDENDUM).
-Author    : 
-Reference : J. Phase Equil., 1996, 17, 6, 473-473; 10.1007/BF02665992
-Keyword   : Mn-Ni/
-Date      : 1996
-
-Rank      : 53721
-Title     : ADDENDA: PHASE DIAGRAM OF THE CA-I SYSTEM.
-Author    : 
-Reference : J. Phase Equil., 1997, 18, 3, 317
-Keyword   : Ca-I/
-Date      : 1997
-
-Rank      : 53722
-Title     : ADDENDA: PHASE DIAGRAM OF THE FE-ND SYSTEM.
-Author    : 
-Reference : J. Phase Equil., 1997, 18, 3, 318-318; 10.1007/BF02647867
-Keyword   : Fe-Nd/
-Date      : 1997
-
-Rank      : 53870
+Rank      : 54243
 Title     : ADDENDA: 450C ISOTHERM OF ZN-FE-AL PHASE DIAGRAM UPDATE.
 Author    : 
 Reference : J. Phase Equil., 1998, 19, 6, 500
 Keyword   : Al-Fe-Zn/
 Date      : 1998
 
-Rank      : 74889
+Rank      : 75424
 Title     : NEW RARE EARTH-IRON-OXYGEN TYPE THREE-COMPONENT COMPOUNDS.
 Author    : 
 Reference : MUKI ZAIKEN NYUSU, 1976, 39, 1-2.
 Keyword   : Fe-O-Yb/
 Date      : 1976
 
-Rank      : 74892
+Rank      : 75427
 Title     : Method for Controlling the Partial Pressure of Sulfur
 Author    : 
 Reference : MUKI ZAISHITSU KENKYUSHO KENKYU HOKOKUSHO, 1977, 12, 7-8
 Keyword   : S/
 Date      : 1977
 
-Rank      : 74893
+Rank      : 75428
 Title     : PHASE EQUILIBRIUM IN THE VANADIUM MONOSULFIDE (VS)-VANADIUM TETRASULFIDE (V3S4) SYSTEM .
 Author    : 
 Reference : MUKI ZAISHITSU KENKYUSHO KENKYU HOKOKUSHO, 1977, 12, 9-11
 Keyword   : S-V/
 Date      : 1977
 
-Rank      : 74894
+Rank      : 75429
 Title     : THERMOGRAVIMETRIC INVESTIGATION OF THE PHASE EQUILIBRIUM IN THE VANADIUM SULFUR SYSTEM . THE EXISTENCE OF VANADIUM SESQUISULFIDE (V2 S3) .
 Author    : 
 Reference : MUKI ZAISHITSU KENKYUSHO KENKYU HOKOKUSHO, 1977, 12, 12-13
 Keyword   : S-V/
 Date      : 1977
 
-Rank      : 74895
+Rank      : 75430
 Title     : PHASE EQUILIBRIUM IN THE IRON-VANADIUM-SULFUR SYSTEM .
 Author    : 
 Reference : MUKI ZAISHITSU KENKYUSHO KENKYU HOKOKUSHO, 1977, 12, 16-24
 Keyword   : Fe-S-V/
 Date      : 1977
 
-Rank      : 75941
+Rank      : 76476
 Title     : ACTINIDE OXIDES, NITRIDES, AND CARBIDES.
 Author    : 
 Reference : ORNL-5050, 70-71 PP. IN CHEMICAL TECHN.DIV. ANNUAL PROGRESS REPORT FOR PERIOD ENDING MARCH 31, 1975. OAK RIDGE NATL.LAB., TENN., USA.
 Keyword   : Ac-O/Ac-N/Ac-C/
 Date      : 1975
 
-Rank      : 79780
+Rank      : 80365
 Title     : STORING HYDROGEN IN THE SOLID STATE (IN EUPD OR EURH2) INTERMETALLICS  CONTAINING PLATINUM GROUP METALS .
 Author    : 
 Reference : Platinum Metals Rev., 1978, 22, 3, 91
 Keyword   : Eu-H-Pd/Eu-H-Rh/
 Date      : 1978
 
-Rank      : 80597
+Rank      : 81184
 Title     : LOW MELTING POINT EUTECTIC ALLOY LIQUID AT 10.7 DEG.C .
 Author    : 
 Reference : POWER WORKS ENG., 1980, (36), 9.
 Keyword   : Ga-In-Sn/
 Date      : 1980
 
-Rank      : 82045
+Rank      : 82635
 Title     : Molecular Beam Photoionization Study of Hg2
 Author    : 
 Reference : Report IS-T-1194 1985, 24-38. INIS ATOMINDEX, 1986, 17, (10), 17: 029247., 1985
 Keyword   : Hg/
 Date      : 1985
 
-Rank      : 82046
+Rank      : 82636
 Title     : MOLECULAR BEAM PHOTOIONIZATION STUDY OF HGKR AND HGXE .
 Author    : 
 Reference : Report IS-T-1194, 1985, 39-52. INIS ATOMINDEX, 1986, 17, (10), 17: 029321., 1985
 Keyword   : Hg-Xe/Hg-Kr/
 Date      : 1985
 
-Rank      : 82047
+Rank      : 82637
 Title     : Molecular Beam Photoionization Study of S2
 Author    : 
 Reference : Report IS-T-1194, 1985, 7-23.  INIS ATOMINDEX, 1986, 17, (10), 17: 029246., 1985
 Keyword   : S/
 Date      : 1985
 
-Rank      : 87540
+Rank      : 84246
+Title     : Activity Coefficients of the System {yNaCl + (1 - y)Na2HPO4}(aq) at T = 298.15 K Determined by Electromotive Force Measurements
+Author    : 
+Reference : Russ. J. Phys. Chem. A, 2023, 97, 12, 2693-2702; 10.1134/S0036024423120063
+Keyword   : Cl-H-Na-O-P
+Date      : 2023
+
+Rank      : 88186
 Title     : EXPERIMENTAL DETERMINATION OF MIXING ENTHALPY OF LEAD AND ANTIMONY .
 Author    : 
 Reference : Soobsch. Akad. Nauk Gruz. SSR, 1988, 132, 3, 565-568
 Keyword   : Pb-Sb/
 Date      : 1988
 
-Rank      : 88567
+Rank      : 89216
 Title     : TRANSPORT DE UC2 ET DES PHASES APPARENTEES.
 Author    : 
 Reference : TECH. REPORTS SERIES, NO.39, N.Y. NAT. AGENCY FOR INTERN PUBLI. 1965.
 Keyword   : C-U/
 Date      : 1965
 
-Rank      : 89152
-Title     : THE STANDARD FREE ENERGY OF DISSOLUTION OF PHOSPHOROUS GASES IN LIQUID IRON .
-Author    : 
-Reference : Testu-To-Hagane, J. Iron Steel Inst. Japan, 1980, 66, 14, 2032-2039
-Keyword   : Fe-P/
-Date      : 1980
-
-Rank      : 92580
-Title     : THE HIGH TEMPERATURE,HIGH VACUUM VAPORIZATION AND THERMO- DYNAMIC PROPERTIES OF UO2.
-Author    : 
-Reference : USAEC -ANL 5482. 116PP., (1955).
-Keyword   : O-U/
-Date      : 1955
-
-Rank      : 93468
+Rank      : 94121
 Title     : VAPORISATION DE COMPOSES ET D'ALLIAGES A HAUTE T. -24-DETERMINATION PAR SPECTROMETRIE DE MASSE DE LA STABILITE DE MOLYBDATES, TUNGS TATES, MOLYBDITES ET TUNGSTITES GAZEUX DE MG, CA, SR ET SN.
 Author    : 
 Reference : WADD TR 60-782 PART 24, SEPT 1964.
 Keyword   : Mg-Mo-O/Ca-Mo-O/Mo-O-Sr/Mo-O-Sn/Mg-O-W/Ca-O-W/O-Sr-W/O-Sn-W/
 Date      : 1964
 
-Rank      : 93499
-Title     : PHASE DIAGRAM OF THE TERNARY SYSTEM OF GALLIUM-ALUMINUM-ARSENIC.
-Author    : 
-Reference : Wu Li Hsueh Pao, 1975, 24, 4, 244-251
-Keyword   : Al-As-Ga/
-Date      : 1975
-
-Rank      : 100509
+Rank      : 101162
 Title     : SYSTEM LINO3-NANO3-SR(NO3)2.
 Author    : 
 Reference : Zh. Neorg. Khim., 1994, 39, 6, 1014-1015
