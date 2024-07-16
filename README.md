@@ -96,13 +96,13 @@ The original database is never modified during the maintenance, all operations a
 
 ## Authors who have contributed or are contributing today to the database
 - Himo Ansara, French National Centre for Scientific Research and founder member of CALPHAD
-- Aljette Ansara, Grenoble, France
+- Aljette Ansara, LTPCM, École nationale supérieure d'électrochimie et d'électrométallurgie de Grenoble, Grenoble Alpes University 
 - Bertrand Cheynet, French National Centre for Scientific Research
 - Philip Spencer, Aachen University of Technology, founder member of CALPHAD
 - Christian Chatillon, French National Centre for Scientific Research
 - Catherine Colinet, French National Centre for Scientific Research
 - Alan Dinsdale, Brunel University London · Brunel Centre for Advanced Solidification Technology
-- Annie Antoni, Institut Polytechnique de Grenoble, University Grenoble Alpes
+- Annie Antoni, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 - Bengt Hallstedt, Institute of Materials Applications in Mechanical Engineering, RWTH Aachen University
-- Evelyne Fisher, Institut Polytechnique de Grenoble, University Grenoble Alpes
+- Evelyne Fisher, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 
