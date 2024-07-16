@@ -95,5 +95,13 @@ The original database is never modified during the maintenance, all operations a
 - The ThermDoc database is shared free of charge and is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
 ## Authors
-- Citation reference to add
+- Himo Ansara
+- Bertrand Cheynet
+- Philip Spencer
+- Christian Chatillon
+- Catherine Colinet
+- Alan Dinsdale
+- Annie Antoni
+- Bengt Hallstedt
+- Evelyne Fisher
 
