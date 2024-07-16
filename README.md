@@ -1,4 +1,4 @@
-![](/Images/SGTE.gif)
+![](/Images/Logo%20SGTE.png)
 
 # SGTE ThermDoc database and exploration tools
 
