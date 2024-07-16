@@ -88,21 +88,21 @@ The original database is never modified during the maintenance, all operations a
 
 ## Dev notes
 - The codes attack the database in text format by brute force. It could appear slow but I've tried using more elaborated formats like structures and it does not speed up the process at all. It is slow because the database is huge.
-- Due to the more or less automated method for extraction of references, they sometimes contain characters from the extended Windows-1252 table which is not an ANSI standard. They are actively searched/cleared and replaced with corresponding ANSI standardized ISO-8859-1 characters.
+- Due to the more or less automated method for extraction of references, they could contain characters from the extended Windows-1252 table which is not an ANSI standard. They are actively searched/cleared and replaced with corresponding ANSI standardized ISO-8859-1 characters.
 
 ## Licenses
 - The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT).
-- The ThermDoc database is shared free of charge and is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
+- The ThermDoc database is shared free of charge and is property of the [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
-## Authors who have contributed or contributing to the database
+## Authors who have contributed or are contributing today to the database
 - Himo Ansara, French National Centre for Scientific Research and founder member of CALPHAD
-- Aljette Ansara
+- Aljette Ansara, Grenoble, France
 - Bertrand Cheynet, French National Centre for Scientific Research
 - Philip Spencer, Aachen University of Technology, founder member of CALPHAD
 - Christian Chatillon, French National Centre for Scientific Research
 - Catherine Colinet, French National Centre for Scientific Research
 - Alan Dinsdale, Brunel University London · Brunel Centre for Advanced Solidification Technology
-- Annie Antoni, Institut Polytechnique de Grenoble (Grenoble-INP)
+- Annie Antoni, Institut Polytechnique de Grenoble, University Grenoble Alpes
 - Bengt Hallstedt, Institute of Materials Applications in Mechanical Engineering, RWTH Aachen University
-- Evelyne Fisher, Institut Polytechnique de Grenoble (Grenoble-INP)
+- Evelyne Fisher, Institut Polytechnique de Grenoble, University Grenoble Alpes
 
