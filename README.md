@@ -95,14 +95,14 @@ The original database is never modified during the maintenance, all operations a
 - The ThermDoc database is shared free of charge and is property of [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
 ## Authors who have contributed or contributing to the database
-- Himo Ansara
-- Bertrand Cheynet
-- Philip Spencer
-- Christian Chatillon
-- Catherine Colinet
-- Alan Dinsdale
-- Annie Antoni
-- Bengt Hallstedt
-- Evelyne Fisher
+- Himo Ansara, French National Centre for Scientific Research and founder member of CALPHAD
 - Aljette Ansara
+- Bertrand Cheynet, French National Centre for Scientific Research
+- Philip Spencer, Aachen University of Technology, Chairman of the Scientific Group Thermodata Europe (SGTE), founder member of CALPHAD
+- Christian Chatillon, French National Centre for Scientific Research
+- Catherine Colinet, French National Centre for Scientific Research
+- Alan Dinsdale, Brunel University London · Brunel Centre for Advanced Solidification Technology
+- Annie Antoni, Institut Polytechnique de Grenoble (Grenoble-INP)
+- Bengt Hallstedt, Institute of Materials Applications in Mechanical Engineering, RWTH Aachen University
+- Evelyne Fisher, Institut Polytechnique de Grenoble (Grenoble-INP)
 
