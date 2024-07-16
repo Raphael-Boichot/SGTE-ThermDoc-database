@@ -104,7 +104,7 @@ The original database is never modified during the maintenance, all operations a
 - **Alan Dinsdale**, Brunel University London · Brunel Centre for Advanced Solidification Technology
 - **Annie Antoni**, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 - **Bengt Hallstedt**, Institute of Materials Applications in Mechanical Engineering, RWTH Aachen University
-- Evelyne Fisher, Institut Polytechnique de Grenoble, Grenoble Alpes University 
+- **Evelyne Fisher**, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 
 ## Aknowledgements
 Special thanks to Alexander Pisch (president of SGTE) and Evelyne Fisher for their confidence in giving me this task.
