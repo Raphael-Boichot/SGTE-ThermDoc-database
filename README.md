@@ -107,4 +107,4 @@ The original database is never modified during the maintenance, all operations a
 - **Evelyne Fisher**, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 
 ## Aknowledgements
-Special thanks to Alexander Pisch (president of SGTE) and Evelyne Fisher for their confidence in giving me this task.
+Special thanks to Alexander Pisch (president of SGTE) and Evelyne Fisher for their confidence and giving me feedback on the tool.
