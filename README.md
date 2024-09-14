@@ -91,7 +91,7 @@ The original database is never modified during the maintenance, all operations a
 - Due to the more or less automated method for extraction of references, they could contain characters from the extended Windows-1252 table which is not an ANSI standard. They are actively searched/cleared and replaced with corresponding ANSI standardized ISO-8859-1 characters.
 
 ## Licenses
-- The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT).
+- The GNU Octave codes are provided under the GPL-3.0 license. You are allowed to distribute/modify them as long as you cite the author (Raphaël BOICHOT, Institut Polytechnique de Grenoble).
 - The ThermDoc database is shared free of charge and is property of the [SGTE - Scientific Group Thermodata Europe](https://www.sgte.net/en/)
 
 ## Authors who have contributed or are contributing today to the database
