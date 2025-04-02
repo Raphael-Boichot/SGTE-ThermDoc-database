@@ -3,7 +3,7 @@ disp('***************************************************************')
 disp('******Start of database formatting, this may take a while******')
 disp('***************************************************************')
 disp(' ')
-database_in='./Source_database/ThermDoc23b.bib';
+database_in='./Source_database/ThermDoc24b.bib';
 database_out='./Source_database/Sorted_database.bib';
 Extract_missing_titles(database_in)
 Extract_missing_authors(database_in)
