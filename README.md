@@ -1,5 +1,4 @@
 # Current version: 2024b
-![](/Images/Logo%20SGTE.png)
 # SGTE ThermDoc database and exploration tools
 
 SGTE ThermDoc Datatabase and exploration tools in command line for finding references about thermodynamical properties of multinaries and inorganic compounds. Research functions are similar to Papyrus except for the Graphic User Interface.
@@ -105,6 +104,8 @@ The original database is never modified during the maintenance, all operations a
 - **Annie Antoni**, Institut Polytechnique de Grenoble, Grenoble Alpes University 
 - **Bengt Hallstedt**, Institute of Materials Applications in Mechanical Engineering, RWTH Aachen University
 - **Evelyne Fisher**, Institut Polytechnique de Grenoble, Grenoble Alpes University 
+
+![](/Images/Logo%20SGTE.png)
 
 ## Aknowledgements
 Special thanks to Alexander Pisch (president of SGTE) and Evelyne Fisher for their confidence and giving me feedback on the tool.
