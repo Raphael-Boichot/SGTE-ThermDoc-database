@@ -1,5 +1,5 @@
+# Current version: 2024b
 ![](/Images/Logo%20SGTE.png)
-
 # SGTE ThermDoc database and exploration tools
 
 SGTE ThermDoc Datatabase and exploration tools in command line for finding references about thermodynamical properties of multinaries and inorganic compounds. Research functions are similar to Papyrus except for the Graphic User Interface.
