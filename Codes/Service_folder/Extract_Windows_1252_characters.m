@@ -100,6 +100,6 @@ fclose(fid);
 if isempty(list)
     list='none';
 end
-disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found ! (GNU Octave always returns 0)']);
+disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found ! (GNU Octave always returns 0, use Matlab)']);
 disp(['List of Windows-1252 characters found: ',char(list)])
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
