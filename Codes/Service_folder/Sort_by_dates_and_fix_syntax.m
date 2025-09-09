@@ -1,115 +1,126 @@
-function []=Sort_by_dates_and_fix_syntax(input_file, output_file)
-warning ('off','all');
-out = fopen(output_file,'w');
-%disp('Scanning database for unique dates, please wait...')
-fid = fopen(input_file,'r');
-%fid = fopen(input_file,'r','n','windows-1252');
-match=0;
-entries=0;
+function [] = Sort_by_dates_and_fix_syntax(database_in, database_out)
+warning('off','all');
+
+% ==== Setup folder and filenames ====
+[input_folder,~,~] = fileparts(database_in);
+working_copy = fullfile(input_folder, 'working_copy.txt'); % copy of original
+temp_file    = fullfile(input_folder, 'temp_unsorted.txt'); % leftovers
+
+% Make a working copy of the precious database
+copyfile(database_in, working_copy);
+
+% ==== Open output file ====
+out = fopen(database_out,'w');
+
+% ==== Pre-scan to detect unique years ====
+fid = fopen(working_copy,'r');
+entries = 0;
+date_list = [];
 while ~feof(fid)
-    a=fgets(fid);
-    if not(isempty(strfind(a,'tit')))
-        entries=entries+1;
-        title=fgets(fid);
-        null=fgets(fid);
-        author=fgets(fid);
-        null=fgets(fid);
-        reference=fgets(fid);
-        null=fgets(fid);
-        cle=fgets(fid);
-        null=fgets(fid);
-        date=fgets(fid);
-        if length(date)>2
-            match=match+1;
-            date_list(match)=str2double(date(1:4));
+    a = fgets(fid);
+    if ~isempty(strfind(a,'tit'))
+        entries = entries + 1;
+        title     = fgets(fid);
+        null      = fgets(fid);
+        author    = fgets(fid);
+        null      = fgets(fid);
+        reference = fgets(fid);
+        null      = fgets(fid);
+        cle       = fgets(fid);
+        null      = fgets(fid);
+        date      = fgets(fid);
+        if length(date) >= 4
+            date_list(end+1) = str2double(date(1:4));
         end
     end
 end
+fclose(fid);
 
-%disp('End of pre-scan')
-%histogram(date_list,length(unique(date_list)))
-%xlabel('Years')
-%ylabel('Reference per year')
-%drawnow
-date_list=flip(unique(date_list));
-disp([num2str(length(date_list)),' different years of recording detected'])
-disp(['Now sorting references by year...'])
-ref_entered=0;
-for m=1:1:length(date_list)
-    date_ref=date_list(m);
-    %disp(['********Extracting, fixing and sorting references from year ',num2str(date_ref)])
-    counter=0;
-    match=0;
-    ill_formated=0;
-    fid = fopen(input_file,'r');
+date_list = flip(unique(date_list));
+disp([num2str(length(date_list)), ' different years detected'])
+
+% ==== Sort references by year ====
+ref_entered = 0;
+for y = date_list
+    fid = fopen(working_copy,'r');
+    temp = fopen(temp_file,'w');
+    match = 0;
+    ill_formated = 0;
+    
     while ~feof(fid)
-        a=fgets(fid);
-        if not(isempty(strfind(a,'tit')))
-            counter=counter+1;
-            title=fgets(fid);
-            null=fgets(fid);
-            author=fgets(fid);
-            null=fgets(fid);
-            reference=fgets(fid);
-            null=fgets(fid);
-            cle=fgets(fid);
-            null=fgets(fid);
-            date=fgets(fid);
-            flag=0;
-            if length(date)>4
-                if str2double(date(1:4))==date_ref
-                    flag=1;
-                end
-            end
-            if flag==1
-                match=match+1;
-                ref_entered=ref_entered+1;
-                fwrite(out,'tit');
-                fwrite(out,char(13));
-                fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(native2unicode(title,'ISO-8859-1'))));
-                fwrite(out,'aut');
-                fwrite(out,char(13));
-                fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(native2unicode(author,'ISO-8859-1'))));
-                fwrite(out,'ref');
-                fwrite(out,char(13));
-                fwrite(out,newline);
-                fwrite(out,remove_accents_from_string(char(native2unicode(reference,'ISO-8859-1'))));
-                if length(cle)>2
-                    if not(cle(end-2)=='/')
-                        cle=[cle(1:end-2),'/',cle(end-1:end)];
-                        ill_formated=ill_formated+1;
+        a = fgets(fid);
+        if ~isempty(strfind(a,'tit'))
+            % read full 9-line block
+            title     = fgets(fid);
+            null1     = fgets(fid);
+            author    = fgets(fid);
+            null2     = fgets(fid);
+            reference = fgets(fid);
+            null3     = fgets(fid);
+            cle       = fgets(fid);
+            null4     = fgets(fid);
+            date      = fgets(fid);
+
+            % determine if it matches current year
+            if length(date) >= 4 && str2double(date(1:4)) == y
+                % ---- MOVE to output directly ----
+                match = match + 1;
+                ref_entered = ref_entered + 1;
+
+                % fix cle formatting
+                if length(cle) > 2
+                    if cle(end-2) ~= '/'
+                        cle = [cle(1:end-2),'/',cle(end-1:end)];
+                        ill_formated = ill_formated + 1;
                     end
-                    if not(cle(1)=='/')
-                        cle=['/',cle];
+                    if cle(1) ~= '/'
+                        cle = ['/', cle];
                     end
                 end
-                fwrite(out,'cle');
-                fwrite(out,char(13));
-                fwrite(out,newline);
-                %fwrite(out,cle);
-                fwrite(out,cle);
-                fwrite(out,'dat');
-                fwrite(out,char(13));
-                fwrite(out,newline);
-                fwrite(out,date);
-                fwrite(out,'//');
-                fwrite(out,char(13));
-                fwrite(out,newline);
+
+                % Build exact-format block (squashed)
+                block = ['tit', char(13), newline, ...
+                         remove_accents_from_string(native2unicode(title,'ISO-8859-1')), ...
+                         'aut', char(13), newline, ...
+                         remove_accents_from_string(native2unicode(author,'ISO-8859-1')), ...
+                         'ref', char(13), newline, ...
+                         remove_accents_from_string(native2unicode(reference,'ISO-8859-1')), ...
+                         'cle', char(13), newline, ...
+                         cle, ...
+                         'dat', char(13), newline, ...
+                         date, ...
+                         '//', char(13), newline];
+
+                fwrite(out, block);
+            else
+                % ---- KEEP in temp file as one block ----
+                temp_block = ['tit', char(13), newline, title, ...
+                              'aut', char(13), newline, author, ...
+                              'ref', char(13), newline, reference, ...
+                              'cle', char(13), newline, cle, ...
+                              'dat', char(13), newline, date, ...
+                              '//', char(13), newline];
+                fwrite(temp, temp_block);
             end
         end
     end
     fclose(fid);
-    stars=[];
-    for m=1:40:match
-        stars=[stars,'X'];
-    end
-    disp(['Year ',num2str(date_ref),': ',stars,' ',num2str(match),' ref.'])
-    %disp([num2str(ill_formated),' keywords for elements corrected due to missing /'])
-    %disp([num2str(ref_entered),' references entered in the working database'])
+    fclose(temp);
+
+    % rename temp as new working copy
+    delete(working_copy);
+    movefile(temp_file, working_copy);
+
+    % progress report
+    stars = repmat('X',1,ceil(match/40));
+    disp(['Year ', num2str(y), ': ', stars, ' ', num2str(match), ' references'])
 end
+
 fclose(out);
-disp([num2str(entries),' references present in the original database'])
-disp([num2str(entries-ref_entered),' references discarded due to date format issue'])
-% msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);
+
+% cleanup working copy
+delete(working_copy);
+
+disp([num2str(entries), ' references in original database'])
+disp([num2str(entries - ref_entered), ' references discarded due to date format issue'])
+end

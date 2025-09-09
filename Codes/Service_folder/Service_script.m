@@ -1,4 +1,5 @@
 
+tic
 disp('***************************************************************')
 disp('******Start of database formatting, this may take a while******')
 disp('***************************************************************')
@@ -12,11 +13,23 @@ Extract_missing_keys(database_in)
 Extract_missing_dates(database_in)
 Extract_Windows_1252_characters(database_in)
 Sort_by_dates_and_fix_syntax(database_in, database_out)
-disp(['CRC32 of the source database: ', num2str(crc32(fileread(database_in)))])%for me to check Octave/Matlab compatibility
-disp(['CRC32 of the working database: ', num2str(crc32(fileread(database_out)))])%for me to check Octave/Matlab compatibility
+toc
+
+tic
+disp('Calculating the CRC32 of databases...')
+try mkoctfile --mex crc32_mex.c
+    disp('Compiling MEX file...')
+    disp('Using Octave CRC32 compiled binary...')
+    disp(['CRC32 of the source database: ', num2str(crc32_mex(uint8(fileread(database_in))))])%for me to check Octave/Matlab compatibility
+    disp(['CRC32 of the working database: ', num2str(crc32_mex(uint8(fileread(database_out))))])%for me to check Octave/Matlab compatibility
+catch
+    disp('Using Matlab CRC32 script...')
+    disp(['CRC32 of the source database: ', num2str(crc32(uint8(fileread(database_in))))])%for me to check Octave/Matlab compatibility
+    disp(['CRC32 of the working database: ', num2str(crc32(uint8(fileread(database_out))))])%for me to check Octave/Matlab compatibility
+end
 %Build_structure(database_out) %in fact, there is no gain in time for search using such a structure...
 disp(' ')
 disp('****************************************************************')
 disp('*******End of database formatting, you can explore it now*******')
 disp('****************************************************************')
-
+toc
