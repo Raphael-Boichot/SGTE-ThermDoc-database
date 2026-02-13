@@ -1,4 +1,4 @@
-# Current version: 2025a
+# Current version: 2025a / 106402 references / 138 years covered
 
 ![](/Images/Logo%20SGTE.png)
 
