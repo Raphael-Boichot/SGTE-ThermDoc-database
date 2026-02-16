@@ -4,9 +4,9 @@
 % But Windows-1252 contains characters like Œ or ™ which cannot be displayed
 % correctly on some OS. They are actively replaced.
 
-function []=Extract_Windows_1252_characters(input_file)
+function []=Extract_Extended_ASCII_characters(input_file)
 warning ('off','all');
-output_file='Error_outputs/Ref_with_Windows_1252_characters.txt';
+output_file='Error_outputs/Ref_with_Extended_ASCII_characters.txt';
 out = fopen(output_file,'w');
 fid = fopen(input_file,'r');
 %fid = fopen(input_file,'r','n','windows-1252');
@@ -20,17 +20,17 @@ while ~feof(fid)
         counter=counter+1;
         empty=0;
         title=fgets(fid);
-        if max(double(title))>255
+        if max(double(title))>127
             empty=1;
         end
         null=fgets(fid);
         author=fgets(fid);
-        if max(double(author))>255
+        if max(double(author))>127
             empty=1;
         end
         null=fgets(fid);
         reference=fgets(fid);
-        if max(double(reference))>255
+        if max(double(reference))>127
             empty=1;
         end
         null=fgets(fid);
@@ -100,6 +100,6 @@ fclose(fid);
 if isempty(list)
     list='none';
 end
-disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Windows-1252 characters found ! (GNU Octave always returns 0, use Matlab)']);
-% disp(['List of Windows-1252 characters found: ',char(list)])
+disp([num2str(counter), ' references scanned, ', num2str(match), ' entries with Extended ASCII characters found ! (GNU Octave always returns 0, use Matlab)']);
+% disp(['List of Extended ASCII characters found: ',char(list)])
 % msgbox([num2str(counter), ' references scanned, ', num2str(match), ' references found !']);

@@ -12,6 +12,7 @@ Extract_missing_references(database_in)
 Extract_missing_keys(database_in)
 Extract_missing_dates(database_in)
 Extract_Windows_1252_characters(database_in)
+Extract_Extended_ASCII_characters(database_in)
 Sort_by_dates_and_fix_syntax(database_in, database_out)
 toc
 
