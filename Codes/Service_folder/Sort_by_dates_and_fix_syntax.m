@@ -1,6 +1,5 @@
 function [] = Sort_by_dates_and_fix_syntax(database_in, database_out)
 warning('off','all');
-
 % ==== Setup folder and filenames ====
 [input_folder,~,~] = fileparts(database_in);
 working_copy = fullfile(input_folder, 'working_copy.txt'); % copy of original
@@ -16,6 +15,8 @@ out = fopen(database_out,'w');
 fid = fopen(working_copy,'r');
 entries = 0;
 date_list = [];
+history = [];
+year = [];
 while ~feof(fid)
     a = fgets(fid);
     if ~isempty(strfind(a,'tit'))
@@ -114,6 +115,8 @@ for y = date_list
     % progress report
     stars = repmat('X',1,ceil(match/40));
     disp(['Year ', num2str(y), ': ', stars, ' ', num2str(match), ' references'])
+    history=[history; match];
+    year=[year; y];
 end
 
 fclose(out);
@@ -121,6 +124,25 @@ fclose(out);
 % cleanup working copy
 delete(working_copy);
 
+
 disp([num2str(entries), ' references in original database'])
 disp([num2str(entries - ref_entered), ' references discarded due to date format issue'])
+
+figure('position',[100 100 1200 1000])
+    bar(year,history)
+    xlabel('Year')
+    ylabel('References')
+    set(gca, 'FontSize', 16)
+    pause(2)
+    exportgraphics(gcf, 'References_vs_year.png', 'Resolution', 300);
+    
+figure('position',[100 100 1200 1000])
+    bar(year,cumsum(history,"reverse"))
+    xlabel('Year')
+    ylabel('References')
+    set(gca, 'FontSize', 16)
+    drawnow
+    pause(2)
+    exportgraphics(gcf, 'Cumulative_References_vs_year.png', 'Resolution', 300);
+    close all
 end
