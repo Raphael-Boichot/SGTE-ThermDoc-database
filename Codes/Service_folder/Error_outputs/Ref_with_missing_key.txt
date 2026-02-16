@@ -1,4 +1,11 @@
-Rank      : 25527
+Rank      : 11710
+Title     : Thermodynamic stability of ABX2-type ternary chalcogenides from machine learning
+Author    : Yuxuan Cai/Xiaoxia Yang/Peng Xu/Fuxiang Liu/Xun Tong
+Reference : Comput. Mater. Sci., 2025, 260, 114258; 10.1016/j.commatsci.2025.114258
+Keyword   : 
+Date      : 2025
+
+Rank      : 25848
 Title     : Heat capacity of liquid and undercooled liquid metals and alloys
 Author    : F. Sommer
 Reference : J. Alloys Compounds, 1995, 220, 1-2, 174-178; 10.1016/0925-8388(94)06038-X
