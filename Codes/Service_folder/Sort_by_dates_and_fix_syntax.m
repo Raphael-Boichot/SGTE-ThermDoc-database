@@ -117,6 +117,7 @@ for y = date_list
     disp(['Year ', num2str(y), ': ', stars, ' ', num2str(match), ' references'])
     history=[history; match];
     year=[year; y];
+
 end
 
 fclose(out);
@@ -124,25 +125,24 @@ fclose(out);
 % cleanup working copy
 delete(working_copy);
 
-
 disp([num2str(entries), ' references in original database'])
 disp([num2str(entries - ref_entered), ' references discarded due to date format issue'])
 
-figure('position',[100 100 1200 1000])
-    bar(year,history)
-    xlabel('Year')
-    ylabel('References')
-    set(gca, 'FontSize', 16)
-    pause(2)
-    exportgraphics(gcf, 'References_vs_year.png', 'Resolution', 300);
-    
-figure('position',[100 100 1200 1000])
-    bar(year,cumsum(history,"reverse"))
-    xlabel('Year')
-    ylabel('References')
-    set(gca, 'FontSize', 16)
-    drawnow
-    pause(2)
-    exportgraphics(gcf, 'Cumulative_References_vs_year.png', 'Resolution', 300);
-    close all
+cum_sum = cumsum(history,'reverse');
+fig = figure('Position',[100 100 1400 1000]);
+yyaxis left
+plot(year, history, '-bd', 'MarkerFaceColor','b', 'LineWidth',1.5)
+ylabel('References per Year')
+grid on
+yyaxis right
+plot(year, cum_sum, '-rd', 'MarkerFaceColor','r', 'LineWidth',1.5)
+ylabel('Cumulative References')
+xlabel('Year')
+set(gca, 'FontSize', 16)
+legend('Yearly References', 'Cumulative References', 'Location', 'northwest')
+exportgraphics(fig, 'References_and_Cumulative_vs_Year.png', 'Resolution', 300);
+
+pause(2)
+close all
+
 end
