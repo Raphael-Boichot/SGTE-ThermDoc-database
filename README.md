@@ -113,7 +113,4 @@ The original database is never modified during the maintenance, all operations a
 Special thanks to Alexander Pisch (president of SGTE) and Evelyne Fisher for their confidence and giving me feedback on the tool.
 
 ## References per year (1848-2025)
-![](/Codes/Service_folder/References_vs_year.png)
-
-## Cumulative references (1848-2025)
-![](/Codes/Service_folder/Cumulative_References_vs_year.png)
+![](/Codes/Service_folder/References_and_Cumulative_vs_Year.png)
