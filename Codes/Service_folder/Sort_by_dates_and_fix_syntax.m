@@ -129,18 +129,19 @@ disp([num2str(entries), ' references in original database'])
 disp([num2str(entries - ref_entered), ' references discarded due to date format issue'])
 
 try
-    cum_sum = cumsum(flip(history));
     fig = figure('Position',[100 100 1400 1000]);
+    year = flip(year);
+    history = flip(history);
     yyaxis left
-    plot(year, history, '-bd', 'MarkerFaceColor','b', 'LineWidth',1.5)
+    h1 = plot(year, history, '-bd', 'MarkerFaceColor', 'b', 'LineWidth', 1.5);
     ylabel('References per Year')
     grid on
     yyaxis right
-    plot(year, cum_sum, '-rd', 'MarkerFaceColor','r', 'LineWidth',1.5)
+    h2 = plot(year, cumsum(history), '-rd', 'MarkerFaceColor', 'r', 'LineWidth', 1.5);
     ylabel('Cumulative References')
     xlabel('Year')
     set(gca, 'FontSize', 16)
-    legend('Yearly References', 'Cumulative References', 'Location', 'northwest')
+    legend([h1, h2], {'Yearly References', 'Cumulative References'}, 'Location', 'northwest')
     exportgraphics(fig, 'References_and_Cumulative_vs_Year.png', 'Resolution', 300);
     pause(2)
     close all
